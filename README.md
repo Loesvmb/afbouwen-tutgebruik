@@ -22,6 +22,9 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 
 ## Introductie
 Max 300 woorden.
+
+Kinderen en ouders maken een een emotionele periode mee wanneer de tut uit het leven van het kind moet verdwijnen. De tut verdwijnt hierbij van de ene dag op de andere; wordt meegegeven met sinterklaas, de tuttenfee, etc. .Hierom willen we een tool maken die dit proces minder emotioneel beladen maakt en leerzaam voor het kind is. (doelstellingen)
+
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
@@ -41,7 +44,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=22)
+* Literatuuronderzoek (iteratie 1 N=12; iteratie 2 N=10)
   * [Protocol](https://drive.google.com/file/d/15U9IWZ--omdJ6xzIkhTUAmE-31aCuCi5/view?usp=drive_link)
   * [Rapport](https://drive.google.com/file/d/1YNpuBwwfPAsfsY4IAO3G3PJZb65Y0v1m/view?usp=drive_link)
 * Benchmarkonderzoek (N=14)

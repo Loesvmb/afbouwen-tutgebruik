@@ -5,7 +5,7 @@
 De algemene challenge is een slimme tool te ontwikkelen die de opvoedstress bij ouders verlicht. Hiervoor moet in eerste instantie het fenomeen van opvoedstress bestudeerd en de probleemruimtes die hierbij komen bepaald worden. Dit was het eerste deel van de discovery-fase. Op het einde van deze fase word dan een probleemruimte geslecteerd waarvan de ouders aangaven aanzienlijke stress te ervaren en waarrond een product kan  ontworpen worden die de stress bij ouders zal verlichtten. Deze fase verliep in dit project als onderstaand geïllustreerd:
 ![alt text](image-1.png)
 
-Als eerste werd een literatuuronderzoek verricht, dit om inzicht te verkrijgen in wat opvoedstress precies inhoud en welke effecten dit heeft op het gezinsleven. Hiervoor werden 12 bronnen geraadpleegd. . Dit onderzoek had als onderzoeksvragen:
+Als eerste werd een literatuuronderzoek verricht, dit om inzicht te verkrijgen in wat opvoedstress precies inhoud en welke effecten dit heeft op het gezinsleven. Hiervoor werden 10 bronnen geraadpleegd. . Dit onderzoek had als onderzoeksvragen:
 - Wat houdt opvoedstress in?
 - Welke effecten heeft opvoedstress op het gezinsleven?
 - Welke kleine dagelijkse factoren dragen bij aan de opvoedstress van jonge ouders, en op welke manieren kunnen deze factoren worden verlicht?
@@ -17,7 +17,7 @@ Opvoedstress is het fenomeen waarbij ouders het gevoel hebben dat de eisen van o
 Het rapport van dit onderzoek is terug te vinden aan de hand van volgende link:
 rapport: https://drive.google.com/file/d/1YNpuBwwfPAsfsY4IAO3G3PJZb65Y0v1m/view?usp=drive_link
 
-Uit voorgaand onderzoek werden echter nog geen specifieke stressfactoren geïdentificeerd. Daarom werd er ook een benchmarkonderzoek verricht om te achterhalen wat stressfactoren bij ouders zijn en hoe deze momenteel opgelost worden, om zo ook mogelijke hiaten te detecteren. 
+Uit voorgaand onderzoek werden echter nog geen specifieke stressfactoren geïdentificeerd. Daarom werd er ook een benchmarkonderzoek (N=14) verricht om te achterhalen wat stressfactoren bij ouders zijn en hoe deze momenteel opgelost worden, om zo ook mogelijke hiaten te detecteren. 
 Dit onderzoek had volgende onderzoeksvraag:
 - Welke bestaande slimme oplossingen zijn op de markt om opvoedstress te verlichten?
 Protocol: https://drive.google.com/file/d/1XnSyVBmMh3gjSOEp_HzEzGY6mTpbD50O/view?usp=drive_link 
@@ -58,7 +58,7 @@ https://drive.google.com/file/d/1cDNH9Jo70q3FyCBBtWTjgxl0r6BWUpSW/view?usp=drive
 De probleemruimtes die werden gedefineerd in deze 3 onderzoeken werden uitgezet in een problem-solution matrix:
 ![alt text](<Schermafbeelding 2025-12-04 103803.png>)
 
-Al de geïnterviewde ouders gaven aan dat het afleren van het tutgebruik een zeer emotionele ervaring bleek. Daarom werd hier ook een literatuuronderzoek en benchmark op verricht, met volgende onderzoeksvragen:
+Al de geïnterviewde ouders gaven aan dat het afleren van het tutgebruik een zeer emotionele ervaring bleek. Daarom werd hier ook een literatuuronderzoek (N=12) op verricht, met volgende onderzoeksvragen:
 - Welke emotionele waarde heeft een fopspeen voor bij een kind?
 - Wanneer wordt een fopspeen gebruikt?
 - Wat zijn de effecten van langdurig gebruik van een fopspeen?

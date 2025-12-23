@@ -27,7 +27,7 @@ De eerste WAVE bestond uit gebruikersinterviews, hierin werdenconceptuele aspect
 Omdat de meeste interviews online waren, werden geen fysieke prototypes gebruikt. Voor elk concept werd een storyboard gemaakt en met Vizcom een realistisch beeld gegenereerd aan de hand van een schets.
 
 De 5 concepten waren verschillend en werden tijdens de interviews besproken en vergeleken om te onderzoeken welke vorm het meest geschikt is voor jonge kinderen en welke elementen belangrijk zijn. Alle tools voldeden aan de design requirement: ondersteuning van kinderen en ouders in het afleerproces. De geteste elementen waren: verplaatsbaarheid tut, zelfautoriteit kinderen, invloed beloningen, vormen van feedback en motiverende elementen.
-![alt text](image-4.png)![alt text](image-5.png)![alt text](image-6.png)![alt text](image-7.png)![alt text](image-8.png)![alt text](image-9.png)
+![alt text](image-14.png)![alt text](image-5.png)![alt text](image-6.png)![alt text](image-7.png)![alt text](image-8.png)![alt text](image-9.png)
 ![alt text](image-10.png)![alt text](image-11.png)![alt text](image-12.png)![alt text](image-13.png)
  
  

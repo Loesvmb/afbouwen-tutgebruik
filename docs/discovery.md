@@ -5,7 +5,7 @@
 De algemene challenge is een slimme tool te ontwikkelen die de opvoedstress bij ouders verlicht. Hiervoor moet in eerste instantie het fenomeen van opvoedstress bestudeerd en de probleemruimtes die hierbij komen bepaald worden. Dit was het eerste deel van de discovery-fase. Op het einde van deze fase word dan een probleemruimte geslecteerd waarvan de ouders aangaven aanzienlijke stress te ervaren en waarrond een product kan  ontworpen worden die de stress bij ouders zal verlichtten. Deze fase verliep in dit project als onderstaand geïllustreerd:
 ![alt text](image-1.png)
 
-Als eerste werd een literatuuronderzoek verricht, dit om inzicht te verkrijgen in wat opvoedstress precies inhoud en welke effecten dit heeft op het gezinsleven. Hiervoor werden 10 bronnen geraadpleegd. . Dit onderzoek had als onderzoeksvragen:
+Als eerste werd een literatuuronderzoek verricht, dit om inzicht te verkrijgen in wat opvoedstress precies inhoud en welke effecten dit heeft op het gezinsleven. Hiervoor werden 10 bronnen geraadpleegd. Dit onderzoek had als onderzoeksvragen:
 - Wat houdt opvoedstress in?
 - Welke effecten heeft opvoedstress op het gezinsleven?
 - Welke kleine dagelijkse factoren dragen bij aan de opvoedstress van jonge ouders, en op welke manieren kunnen deze factoren worden verlicht?
@@ -30,7 +30,7 @@ De benchmarking laat zien dat bestaande slimme producten vooral inspelen op:
 4. Tutgebruik
 5. Zindelijkheid
 6. Ouderondersteuning bij spel en ontspanning
-De producten bieden effectieve ondersteuning bij deze activiteiten, hierdoor wordt opvoedstress verlaagd. Dit sluit aan bij de bevindingen uit literatuuronderzoek: dagelijkse stressfactoren dragen bij aan de ouderstress en kunnen door structuur en hulpmiddelen aanzienlijk worden verminderd.Hieruit blijkt dat voor al de bovengenoemde stressfactoren al redelijk wat producten bestaan.
+De producten bieden effectieve ondersteuning bij deze activiteiten, hierdoor wordt opvoedstress verlaagd. Dit sluit aan bij de bevindingen uit literatuuronderzoek: dagelijkse stressfactoren dragen bij aan de ouderstress en kunnen door structuur en hulpmiddelen aanzienlijk worden verminderd. Hieruit blijkt dat voor al de bovengenoemde stressfactoren al redelijk wat producten bestaan.
 
 Onderstaan is een uitgebreider verslag terug te vinden:
 https://drive.google.com/file/d/119J4bg0LSY7QWqJH_zCYeypWofi05ohk/view?usp=drive_link
@@ -46,8 +46,7 @@ op welke manieren kunnen deze factoren worden verlicht?
 Protocol: https://drive.google.com/file/d/1ADO25fnMRPdoYmWG6HtR9QI1mex7xOla/view?usp=drive_link 
 
 Uit deze interviews kwam het volgende:
-• Dagelijkse stress ontstaat door cumulatie van factoren (eten, opruimen, slapen, routines)
-bij ouders.
+• Dagelijkse stress ontstaat door cumulatie van factoren (eten, opruimen, slapen, routines) bij ouders.
 • Afleren van tutgebruik is een emotioneel beladen gebeurtenis.
 • Visuele hulpmiddelen zoals planners en schema’s zijn nuttig, vooral bij jongere kinderen.
 Opruimen, eten en stoppen van tutgebruik blijken grote stressfactoren voor de ouders te zijn die dienen aangepakt te worden.

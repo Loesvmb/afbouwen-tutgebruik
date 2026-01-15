@@ -1,7 +1,7 @@
 ## Definition
 Max. 1000 woorden.    
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
-De defenition-fase bestaat uit twee onderzoekswave's. Deze werden uitgevoerd tussen 01/11/2025 en 05/01/2025.
+De defenition-fase bestaat uit twee onderzoekswave's. Deze werden uitgevoerd tussen 01/11/2025 en 15/01/2026.
 ### Doestellingen
 Voor de eerste WAVE was het doel om een duidelijker beeld te krijgen in welke vorm van tool ouders het meest bevorderlijk vonden. Daarnaast moest er een dieper inzicht verkregen worden in het gebruik van de tut en of scholen al dan niet openstonden in de onderstuening van het afleerproces.
 De onderzoeksvragen die tot deze WAVE behoren zijn als volgt:

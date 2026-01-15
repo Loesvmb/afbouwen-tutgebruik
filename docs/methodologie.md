@@ -3,7 +3,7 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 
 Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.
 
-![alt text](tijdslijn-1.png)
+![alt text](<Tijdslijn discovery+definition.png>)
 ![alt text](<tijdslijn prototypes.png>)
 
 De methodologie van dit project volgt de dubbel diamont. 

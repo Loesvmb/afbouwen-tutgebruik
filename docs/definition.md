@@ -22,11 +22,14 @@ Wat wilde je bereiken in deze fase?
 Welke deelvragen moesten hiervoor beantwoord worden?
 ### Materiaal & methoden
 
-De eerste WAVE bestond uit gebruikersinterviews, hierin werdenconceptuele aspecten te getest (onderzoeksvraag 4) alsool werden er vragen gesteld over stimulatie, tutgebruik en hechting van kinderen (onderzoeksvragen 1-3). Er werden 3 ouders en 2 kinderbegeleiders geïnterviewd. De kinderbegeleiders konden dan een dieper zicht geven aan de noden op school en de algemene inzichten geven over de hechting en stimulatie van kinderen. Deze interviews namen een tijdsbestek in van ongeveer 40 min.
+De eerste WAVE bestond uit gebruikersinterviews, hierin werden conceptuele aspecten getest (onderzoeksvraag 4) alsook werden er vragen gesteld over stimulatie, tutgebruik en hechting van kinderen (onderzoeksvragen 1-3). 
+Er werden 3 ouders en 2 kinderbegeleiders geïnterviewd. De kinderbegeleiders konden dan een dieper inzicht bieden in de noden op school en meer algemene inzichten  over de hechting en stimulatie van kinderen. 
+Deze interviews namen een tijdsbestek in van ongeveer 40 min.
 
 Omdat de meeste interviews online waren, werden geen fysieke prototypes gebruikt. Voor elk concept werd een storyboard gemaakt en met Vizcom een realistisch beeld gegenereerd aan de hand van een schets.
 
-De 5 concepten waren verschillend en werden tijdens de interviews besproken en vergeleken om te onderzoeken welke vorm het meest geschikt is voor jonge kinderen en welke elementen belangrijk zijn. Alle tools voldeden aan de design requirement: ondersteuning van kinderen en ouders in het afleerproces. De geteste elementen waren: verplaatsbaarheid tut, zelfautoriteit kinderen, invloed beloningen, vormen van feedback en motiverende elementen.
+De 5 concepten waren verschillend en werden tijdens de interviews besproken en vergeleken om te onderzoeken welke elementen van de concepten het meest geschikt zijn voor jonge kinderen. Er werd variaty prototyping toegepast om zo geen confirmation bias van de geïnterviewden te hebben en zo het gesprek over de verschillende aspecten van het ontwerp te starten. 
+Alle tools voldeden aan het design requirement: ondersteuning bieden van kinderen en ouders in het afleerproces. De geteste elementen waren: verplaatsbaarheid tut, zelfautoriteit kinderen, invloed beloningen, vormen van feedback en motiverende elementen.
 ![alt text](image-14.png)![alt text](image-5.png)![alt text](image-6.png)![alt text](image-7.png)![alt text](image-8.png)![alt text](image-9.png)
 ![alt text](image-10.png)![alt text](image-11.png)![alt text](image-12.png)![alt text](image-13.png)
  
@@ -40,13 +43,21 @@ De resulaten van WAVE 1:
 De tut dient voornamelijk als troostmiddel waar de kinderen gehecht aan zijn geworden. De tut word gebruikt als de kinderen emotioneel of moe zijn.
 
 Naast de tut hebben de kinderen vaak een knuffel of doekje met zich mee.
-Het is belangrijk dat de tut doorheen de dag afgeleerd wordt, aangezien het kind de tut ‘s nachts verliest en het meest de nood ervaart tijdens de emotionele momenten. Visuele vooruitgang is belangrijk bij kinderen. Tijd moet aangegeven worden in visuele vorm aangezien kinderen geen tijdsbesef hebben. Het is belangrijk dat de tut vastgezet wordt, zodat de kinderen leren door emotionele momenten te gaan zonder de tut. De tijd moet hiernaast gradueel toenemen. Iets van directe feedback in de vorm van een geluidje is waardevol alsook beloningen, de kinderen zijn dan gemotiveerd om hun tut neer te leggen. Daarnaast is het ook handig als de tool makkelijk verplaatst kan worden.
-De tut word algemeen gezien nagenoeg niet in de klas gebruikt, maar de kinderonderstueners staan wel open tot gebruik van de tool.
+Het is belangrijk dat de tut doorheen de dag afgeleerd wordt, aangezien het kind de tut ‘s nachts verliest en het meest de nood ervaart tijdens de emotionele momenten. 
+Visuele vooruitgang is belangrijk bij kinderen. 
+Tijd moet aangegeven worden in visuele vorm aangezien kinderen geen tijdsbesef hebben. 
+Het is belangrijk dat de tut vastgezet wordt, zodat de kinderen leren door emotionele momenten te gaan zonder de tut. De tijd moet hiernaast gradueel toenemen. 
+Iets van directe feedback in de vorm van een geluidje is waardevol alsook beloningen, de kinderen zijn dan gemotiveerd om hun tut neer te leggen. Daarnaast is het ook handig als de tool makkelijk verplaatst kan worden.
+De tut wordt algemeen gezien nagenoeg niet in de klas gebruikt, maar de kinderonderstueners staan wel open tot gebruik van de tool.
 
 
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 WAVE 1 word als volgt geconcludeerd:
-Uit de gesprekken blijkt dat de tut voornamelijk fungeert als troostmiddel waar kinderen emotioneel aan gehecht zijn. Het afleren gebeurt het best overdag, wanneer de nood het grootst is tijdens emotionele momenten. Visuele ondersteuning, zoals een aftellende timer is noodzakelijk omdat jonge kinderen nog geen tijdsbesef hebben. Een graduele opbouw van tijd, directe feedback in de vorm van een geluidje en beloningen vergroten daarbij de motivatie. Ook moet de tut tijdelijk vastgezet kunnen worden om kinderen te helpen leren omgaan met emoties zonder afhankelijkheid van de tut. Tot slot kunnen auditieve hulpmiddelen zoals rustgevende muziek bijdragen aan een kalmerend effect.
+Uit de gesprekken blijkt dat de tut voornamelijk fungeert als troostmiddel waaraan kinderen emotioneel gehecht zijn. Het afleren gebeurt het best overdag, wanneer de nood het grootst is tijdens emotionele momenten. 
+Visuele ondersteuning, zoals een aftellende timer is noodzakelijk omdat jonge kinderen nog geen tijdsbesef hebben. 
+Een visuele graduele opbouw van tijd, directe feedback in de vorm van een geluidje en de belofte van beloningen vergroten de motivatie. 
+Ook moet de tut tijdelijk vastgezet kunnen worden om kinderen te helpen leren omgaan met emoties zonder afhankelijkheid van de tut. 
+Tot slot kunnen auditieve hulpmiddelen zoals rustgevende muziek bijdragen aan een kalmerend effect.
 
 Definieer de belangrijkste designbeslissingen.

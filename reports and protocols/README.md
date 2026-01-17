@@ -4,7 +4,7 @@ Definition:
 - Literatuuronderzoek:
         [Protocol](<Literatuuronderzoek protocol_Vanmeerbeek_Loes.pdf>)
         [Rapport](<Literatuuronderzoek Rapport_Vanmeerbeek_Loes.pdf>)
-        
+
 - Benchmarkonderzoek:
         [Protocol](<Benchmarking protocol_Vanmeerbeek Loes (1).pdf>)
         [Rapport](Benchmarkingrapport_Vanmeerbeek_Loes.pdf)
@@ -24,7 +24,7 @@ o Kinderbegeleiders
 
 - Gebruikersinterviews WAVE 2:
         [Protocol](<Interview - protocol - ouders -wave2.pdf>)
-        Rapport:
+        [Rapport](<Interview_rapport_Wave 2.pdf>)
  - Expertinterviews WAVE 3:
         [Protocol](<Interview - protocol - expert-wave3.pdf>)
         Rapport:

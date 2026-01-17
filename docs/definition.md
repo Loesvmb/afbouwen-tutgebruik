@@ -49,7 +49,7 @@ Concept 5:
  - Ouders:
 [interview protocol ouders](<../reports and protocols/Interview - protocol - ouders -wave1.pdf>)
  - Kinderbegeleiders:
- [interview protocol kinderbegeleiders](<../reports and protocols/Interview protocol_wave1_kinderbegeleiders.pdf>)
+[interview protocol kinderbegeleiders](<../reports and protocols/Interview protocol_wave1_kinderbegeleiders.pdf>)
 
 #### Resultaten
 
@@ -66,7 +66,7 @@ Daarnaast is het aangewezen dat de tool gemakkelijk verplaatsbaar en mee te neme
 Ook al wordt een tut niet vaak meer in de klas gebruikt,  staan de kinderonderstueners wel open tot gebruik van de tool.
 
 Het uitgebreidere verslag is hieronder terug te vinden:
-
+[interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)
 
 #### Conclusies & implicaties
 

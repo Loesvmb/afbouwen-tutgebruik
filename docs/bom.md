@@ -1,5 +1,5 @@
 ## Bill of materials
-- Welk materiaal heb je nodig voor de laatste versie van je prototype?
+Welk materiaal heb je nodig voor de laatste versie van je prototype?
 - Raspberry Pi:
 https://www.conrad.be/nl/p/raspberry-pi-5-b-2-gb-4-x-2-4-ghz-raspberry-pi-3306027.html?cq_src=google_ads&cq_cmp=21348122838&cq_term=&cq_plac=&cq_net=x&cq_plt=gp&utm_source=google&utm_medium=cpc&utm_campaign=BE+-+PMAX+-+Nonbrand+-+Zero+traffic&utm_id=21348122838&gad_source=1&gad_campaignid=21354377450&gbraid=0AAAAAD8JkRpDeiHfT5w1LQCUYl44IgMzh&gclid=Cj0KCQiAg63LBhDtARIsAJygHZ4658-5rfDJJXH2-juzbKf_KlASug_TEshjnbEiVlkBJ9FbBCYoDiwaAkwlEALw_wcB&refresh=true
 - Distance-sensor: 

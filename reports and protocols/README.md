@@ -13,7 +13,11 @@ Definition:
 
 Discovery:
 - Gebruikersinterviews WAVE 1:
+o Ouders
         [Protocol](<Interview - protocol - ouders -wave1.pdf>)
+o Kinderbegeleiders
+        [Protocol](<Interview protocol_wave1_kinderbegeleiders.pdf>)
+
         Rapport:
 - Gebruikersinterviews WAVE 2:
         [Protocol](<Interview - protocol - ouders -wave2.pdf>)

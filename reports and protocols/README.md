@@ -11,13 +11,13 @@ Definition:
         [Rapport](<Interview Rapport_Vanmeerbeek_Loes.pdf>)
 Discovery:
     Gebruikersinterviews WAVE 1:
-        Protocol: 
+        [Protocol](<Interview - protocol - ouders -wave1.pdf>)
         Rapport:
     Gebruikersinterviews WAVE 2:
-        Protocol:
+        [Protocol](<Interview - protocol - ouders -wave2.pdf>)
         Rapport:
  Expertinterviews WAVE 3:
-        Protocol:
+        [Protocol](<Interview - protocol - expert-wave3.pdf>)
         Rapport:
 Link naar informed consents:
 

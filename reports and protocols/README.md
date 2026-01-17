@@ -4,9 +4,11 @@ Definition:
 - Literatuuronderzoek:
         [Protocol](<Literatuuronderzoek protocol_Vanmeerbeek_Loes.pdf>)
         [Rapport](<Literatuuronderzoek Rapport_Vanmeerbeek_Loes.pdf>)
+        
 - Benchmarkonderzoek:
         [Protocol](<Benchmarking protocol_Vanmeerbeek Loes (1).pdf>)
         [Rapport](Benchmarkingrapport_Vanmeerbeek_Loes.pdf)
+
 - Gebruikersinterviews:
         [Protocol](<Interview protocol_Vanmeerbeek_Loes.pdf>)
         [Rapport](<Interview Rapport_Vanmeerbeek_Loes.pdf>)
@@ -17,8 +19,9 @@ o Ouders
         [Protocol](<Interview - protocol - ouders -wave1.pdf>)
 o Kinderbegeleiders
         [Protocol](<Interview protocol_wave1_kinderbegeleiders.pdf>)
+        
+[Rapport](<Interview_rapport_Wave 1.pdf>)
 
-        Rapport:
 - Gebruikersinterviews WAVE 2:
         [Protocol](<Interview - protocol - ouders -wave2.pdf>)
         Rapport:

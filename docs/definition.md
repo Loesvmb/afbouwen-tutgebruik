@@ -134,9 +134,6 @@ Het uitgebreidere verslag is hieronder terug te vinden:
 
 
 
-
-
-
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 #### Conclusies & implicaties
 

@@ -1,17 +1,17 @@
 Add PDF versions of your protocols and reports here.   
 Definition:
     Literatuuronderzoek:
-        Protocol:
-        Rapport:
+        [Protocol](<Literatuuronderzoek protocol_Vanmeerbeek_Loes.pdf>)
+        [Rapport](<Literatuuronderzoek Rapport_Vanmeerbeek_Loes.pdf>)
     Benchmarkonderzoek:
-        Protocol:
-        Rapport:
+        [Protocol](<Benchmarking protocol_Vanmeerbeek Loes (1).pdf>)
+        [Rapport](Benchmarkingrapport_Vanmeerbeek_Loes.pdf)
     Gebruikersinterviews:
-        Protocol:
-        Rapport:
+        [Protocol](<Interview protocol_Vanmeerbeek_Loes.pdf>)
+        [Rapport](<Interview Rapport_Vanmeerbeek_Loes.pdf>)
 Discovery:
     Gebruikersinterviews WAVE 1:
-        Protocol: [url](<../../Downloads/Interview - protocol - ouders -wave1.pdf>)
+        Protocol: 
         Rapport:
     Gebruikersinterviews WAVE 2:
         Protocol:

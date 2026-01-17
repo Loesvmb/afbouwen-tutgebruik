@@ -50,18 +50,35 @@ Omdat de meeste interviews online waren, werden geen fysieke prototypes gebruikt
 
 De 5 concepten waren verschillend en werden tijdens de interviews besproken en vergeleken om te onderzoeken welke elementen van de concepten het meest geschikt zijn voor jonge kinderen. Er werd variaty prototyping toegepast om  confirmation bias van de geïnterviewden uit te sluiten en het gesprek over de verschillende aspecten van het ontwerp te starten. 
 Alle tools voldeden aan het design requirement: ondersteuning bieden van kinderen en ouders in het afleerproces. De geteste elementen waren: verplaatsbaarheid van tut, autonomie van kinderen, invloed van beloningen, vormen van feedback en motiverende elementen.
-![alt text](image-14.png)![alt text](image-5.png)!![alt text](<storyboard slotje.png>)(image-7.png)![alt text](image-8.png)![alt text](image-9.png)
-![alt text](image-10.png)![alt text](image-11.png)![alt text](image-12.png)![alt text](image-13.png)
+
+Concept 1:
+![alt text](image-14.png)![alt text](image-5.png)
+
+Concept 2:
+![alt text](<storyboard slotje.png>)![alt text](image-20.png)
+
+Concept 3:
+![alt text](image-8.png)![alt text](image-9.png)
+
+Concept 4:
+![alt text](image-10.png)![alt text](image-11.png)
+
+Concept 5:
+![alt text](image-12.png)![alt text](image-13.png)
  
  
 In de tweede WAVE werden er opnieuw gebruikerinterviews uitgevoerd (N=3). Hiervoor werden van twee concepten een prototype gemaakt. Deze zijn voorgesteld aan de gebruikers waarna er vragen zijn geseld over de deelaspecten van de consepten (onderzoeksraag 1). Verder werden er vragen geseld over hoe zij het gebruiksproces zagen(onderzoeksvraag 2) en of de tut zichtbaar moest zijn(onderzoeksvraag 3). 
 Deze interviews namen een tijdsbestek in van ongeveer 40 min. 
 
 De twee consepten werden bedacht uit de bruikbare deelaspekten van wave 1. Deze werden tijdens de interviews besproken en vergeleken om te onderzoeken welke elementen van de concepten het meest geschikt zijn voor jonge kinderen. Er werd variaty prototyping toegepast om zo geen confirmation bias van de geïnterviewden te hebben en zo het gesprek over de verschillende aspecten van het ontwerp te starten.
+
+Concept 1:
 ![alt text](image-4.png)
 ![alt text](image-17.png)
 ![alt text](image-18.png)
 ![alt text](image-19.png)
+
+Concept 2:
 ![alt text](image-15.png)
 ![alt text](image-16.png)
 

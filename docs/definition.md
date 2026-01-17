@@ -127,7 +127,13 @@ De tijd instellen gebeurd best door de ouders die een voorgesteld schema aanpass
 
 Het uitgebreidere verslag is hieronder terug te vinden:
 
+<<<<<<< HEAD
 <!-- Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...) -->
+=======
+
+
+Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+>>>>>>> c093a119ebbd53bd6b88f84245682a92070218dd
 #### Conclusies & implicaties
 
 WAVE 2 word als volgt geconcludeerd:

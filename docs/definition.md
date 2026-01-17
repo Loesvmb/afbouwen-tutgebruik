@@ -50,7 +50,7 @@ Omdat de meeste interviews online waren, werden geen fysieke prototypes gebruikt
 
 De 5 concepten waren verschillend en werden tijdens de interviews besproken en vergeleken om te onderzoeken welke elementen van de concepten het meest geschikt zijn voor jonge kinderen. Er werd variaty prototyping toegepast om  confirmation bias van de geïnterviewden uit te sluiten en het gesprek over de verschillende aspecten van het ontwerp te starten. 
 Alle tools voldeden aan het design requirement: ondersteuning bieden van kinderen en ouders in het afleerproces. De geteste elementen waren: verplaatsbaarheid van tut, autonomie van kinderen, invloed van beloningen, vormen van feedback en motiverende elementen.
-![alt text](image-14.png)![alt text](image-5.png)![alt text](image-6.png)![alt text](image-7.png)![alt text](image-8.png)![alt text](image-9.png)
+![alt text](image-14.png)![alt text](image-5.png)!![alt text](<storyboard slotje.png>)(image-7.png)![alt text](image-8.png)![alt text](image-9.png)
 ![alt text](image-10.png)![alt text](image-11.png)![alt text](image-12.png)![alt text](image-13.png)
  
  

@@ -15,8 +15,10 @@ Discovery:
         Rapport:
     Gebruikersinterviews WAVE 2:
         Protocol:
-        Rappor:
-
+        Rapport:
+ Expertinterviews WAVE 3:
+        Protocol:
+        Rapport:
 Link naar informed consents:
 
 - ❗Make sure this data is pseudonomized (give an alias to your respondent)    

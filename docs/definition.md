@@ -1,7 +1,7 @@
 ## Definition
 Max. 1000 woorden.    
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
-De definition-fase bestaat uit twee onderzoek waves. Deze werden uitgevoerd tussen 01/11/2025 en 15/01/2026.
+De definition-fase bestaat uit drie onderzoek waves. Deze werden uitgevoerd tussen 01/11/2025 en 15/01/2026.
 ### Doestellingen
 Het doel van de eerste WAVE was om een duidelijker beeld te krijgen in welke vorm ouders de tool het meest bevorderlijk vonden. Daarnaast moest er een dieper inzicht verkregen worden in het gebruik van de tut en of scholen/kinderdagverblijven al dan niet openstonden in de ondersteuning van het afleerproces.
 De onderzoeksvragen die hierbij gesteld werden zijn als volgt:

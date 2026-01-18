@@ -1,6 +1,6 @@
 ## Definition
 De definition-fase bestaat uit drie onderzoek waves. Deze werden uitgevoerd tussen 01/11/2025 en 15/01/2026.
-### Doestellingen
+
 ![alt text](<definition schema.png>)
 ### WAVE1
 #### Doestellingen
@@ -132,7 +132,7 @@ In deze wave werden de prototypes van wave 2 opnieuw gebruikt. Deze werden voorg
 De interviews vonden plaats met twee kinderpedagogen. 
 
 In Onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
-[Iterview protocol WAVE 3](<../reports and protocols/Interview - protocol - expert-wave3.pdf>)
+[Interview protocol WAVE 3](<../reports and protocols/Interview - protocol - expert-wave3.pdf>)
 
 #### Resultaten
 

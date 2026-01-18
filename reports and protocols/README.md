@@ -27,7 +27,7 @@ o Kinderbegeleiders
         [Rapport](<Interview_rapport_Wave 2.pdf>)
  - Expertinterviews WAVE 3:
         [Protocol](<Interview - protocol - expert-wave3.pdf>)
-        Rapport:
+        [Rapport](<Interview_rapport_Wave 3_expert interviews.pdf>)
 
 Link naar informed consents: https://ugentbe.sharepoint.com/:f:/r/teams/Group.course1292868/Gedeelde%20documenten/General/Definition/Informed%20consents%20interviews?csf=1&web=1&e=deqDVu
 

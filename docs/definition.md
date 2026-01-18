@@ -82,7 +82,8 @@ Concept 2:
 ![alt text](image-15.png)
 ![alt text](image-16.png)
 
-
+In Onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
+[Inerview protocol WAVE 2](<../reports and protocols/Interview - protocol - ouders -wave2.pdf>)
 
 #### Resultaten
 De visuele en interactieve aspecten van het tweede concept worden als zeer sterk ervaren, waardoor dit concept de voorkeur krijgt. Het vervangen van de troostfunctie van de tut blijft echter moeilijk, omdat dit verschilt per kind.
@@ -130,6 +131,9 @@ De hoofdonderzoeksvragen zijn als volgt:
 In deze wave werden de prototypes van wave 2 opnieuw gebruikt. Deze werden voorgesteld en bevraagd. Hierbij lag de focus op het tweede protoype omdat de gebruikers daar de voorkeur aan gaven. Verder werd er bevraagd naar de motivatie van het kind, interface, beloning en feedback en zichtbaarheid van de tut.
 De interviews vonden plaats met twee kinderpedagogen. 
 
+In Onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
+[Iterview protocol WAVE 3](<../reports and protocols/Interview - protocol - expert-wave3.pdf>)
+
 #### Resultaten
 
 Uit de expertinterviews blijkt dat het tweede concept als het meest realistisch en motiverend wordt ervaren, vooral wegens de visuele groei over tijd.
@@ -139,6 +143,9 @@ Beloningen zijn essentieel bij het terugnemen van de tut en moeten gekoppeld zij
 Feedback dient multisensorisch te zijn, met bijzondere aandacht voor het moment waarop de tut in de tool wordt geplaatst. Een eenvoudige, kleurrijke en herkenbare interface sluit het best aan bij jonge kinderen, terwijl complexiteit averechts werkt.
 
 Jongere kinderen (±2–3 jaar) hebben moeite met objectpermanentie wanneer de tut niet zichtbaar is.
+
+Het uitgebreidere verslag is hieronder terug te vinden:
+[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)
 
 #### Conclusies & implicaties
 De expertinterviews tonen aan dat een succesvolle tool voor het afleren van de tut moet inzetten op groei, eenvoudige visuele feedback en een duidelijke beloningsstructuur. Beloning en feedback zijn belangrijk voor blijvende motivatie. Een simpele, kleurrijke interface met herkenbare elementen en beperkte keuzes werkt het best bij kinderen van de vooropgestelde leeftijdscategorie. 

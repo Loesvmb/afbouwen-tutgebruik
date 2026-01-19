@@ -32,12 +32,12 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 ## Introductie
 <!-- Max 300 woorden. -->
 
-De emotionele waarde van een fopspeen is groot. Baby’s zijn vaak sterk gehecht aan hun fopspeen. Zuigen brengt niet alleen voeding, maar ook rust en troost . (Gezinsbond, z.d.). ‘Voor veel kinderen is het
+De emotionele waarde van een fopspeen is groot. Baby’s zijn vaak sterk gehecht aan hun fopspeen. Zuigen brengt niet alleen voeding, maar ook rust en troost. (Gezinsbond, z.d.)[^1]. ‘Voor veel kinderen is het
 immers hun troost, hun slaapvriend en soms zelfs hun beste maatje.’ (De opvoedcoach, z.d.). Maar de Consumentenbond (z.d.) stelt dat een fopspeen de groei van het gehemelte kan beïnvloeden doordat de tong naar beneden wordt gedrukt in plaats van het gehemelte te raken. Daarnaast blijkt dat langdurig gebruik de kans op middenoorontstekingen verhoogt. Het is dus belangrijk dat de tut op jonge leeftijd uit het leven van het kind verdwijnt. Momenteel word de tut meegegeven aan Sinterklaas, de tuttenboom of tuttenfee en verdwijnt de tut ogenblikkelijk. Ouders en kind maken hierdoor en korstondige, zeer emotionele periode door mee.‘Woede, verdriet, angst: bij het afscheid van het tutje maakt je kindje al deze fases door.’ (De roze doos, z.d.) Ouders zijn hierdoor ook terughoudend om het gebruik snel af te leren. 
 Het doel van deze tool is om het tutgebruik voor het finale afscheid gradueel af te leren om zo de overgang emotioneel te verzachten. Hierbij moeten ouders onderstuend worden in het afbouwprocesn en moeten zij hier controle over behouden. Verder moet het kind een gevoel van emotionele veiligheid behouden en moet die zelf met een positieve instelling en motivatie in het proces staan.
 
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+<!-- Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
+Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] . -->
 
 ## Inhoudstafel
 
@@ -48,14 +48,25 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 5. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
-Max. 500 woorden
+<!-- Max. 500 woorden -->
+Dit ontwerpproces bevatte zowel sterke punten als aspecten die voor verbetering vatbaar waren.
 
+In de definition-fase werd een goed begrip van de probleemruimte verkregen door middel van literatuur- en benchmarkonderzoek specifiek voor de probleemruimte. Daarnaast werd in elk interview expliciet gepolst naar ervaringen met tutgebruik en de bijbehorende struikelpunten.
 
+Een belangrijke uitdaging in beide onderzoeksfases was het vinden van respondenten die voldeden aan de doelgroep (ouders met kinderen tussen 2 en 5 jaar). Ook het organiseren van thuisinterviews bleek moeilijk door het afstandsverschil tussen school en thuis. Aangezien de respondenten zich voornamelijk in onze thuisregio’s bevonden was het lastig om geschikte interviewmomenten te vinden, zeker in het weekend wanneer zij tijd met hun kinderen wilden doorbrengen.
 
+Het opnemen van de interviews bleek een grote meerwaarde. Door deze opnames te herbeluisteren en te transcriberen konden alle relevante inzichten zorgvuldig worden vastgelegd, wat de kwaliteit en betrouwbaarheid van de analyse verhoogde.
+
+Achteraf gezien hadden pedagogen eerder in het proces betrokken kunnen worden. Hun inzichten waren zeer waardevol en bevestigden grotendeels de resultaten uit WAVE 1 en WAVE 2. Indien zij vroeger geraadpleegd waren, had dit mogelijk sneller geleid tot het eindconcept en had eerder gestart kunnen worden met gebruikerstesten.
+
+Deze gebruikerstesten konden nog niet uitgevoerd worden omdat de focus tot nu toe voornamelijk lag op de conceptualisatie van de tool. Hoewel het beloningssysteem werd gevalideerd via interviews, moet dit nog getest worden in realistische gebruikssituaties om te observeren of de motivatie en aandacht van kinderen behouden blijft. Ook de opbouw en ergonomie van de interface vereisen verdere testing. Hierop moet gefocused worden naar de volgende fases toe.
+
+Tot slot verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan communicatie en taakverdeling. Na het opstellen van duidelijke afspraken en verantwoordelijkheden verbeterde de samenwerking.
 
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->
 Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van concepten. Verder werd Figma Make gebruikt om een interfase van een concept te prototypen in WAVE 2. Finaal werd Vizcom gebruikt om de 5 concepten van WAVE 1 te visualiseren.
+
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (iteratie 1 N=12; iteratie 2 N=10)

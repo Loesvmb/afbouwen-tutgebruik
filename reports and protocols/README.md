@@ -19,8 +19,7 @@ o Ouders
         [Protocol](<Interview - protocol - ouders -wave1.pdf>)
 o Kinderbegeleiders
         [Protocol](<Interview protocol_wave1_kinderbegeleiders.pdf>)
-        
-[Rapport](<Interview_rapport_Wave 1.pdf>)
+        [Rapport](<Interview_rapport_Wave 1.pdf>)
 
 - Gebruikersinterviews WAVE 2:
         [Protocol](<Interview - protocol - ouders -wave2.pdf>)

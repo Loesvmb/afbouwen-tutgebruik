@@ -76,8 +76,8 @@ Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van c
 * User testing wave 3 (N=2)
   * [Protocol](<reports and protocols/Interview - protocol - expert-wave3.pdf>)
   * [Rapport](<reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)
+
 ## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 

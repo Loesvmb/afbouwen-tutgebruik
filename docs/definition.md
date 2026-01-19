@@ -113,7 +113,7 @@ Volgende implicaties werden gevonden:
 -	Tijd instelbaar zowel op de tool als op gsm 
 -	Standaard plan voor tijd
 -	Verplaatsbare en meeneembare tool
--	Verder onderzoek nodig naar de zichtbaarheid van de tut  
+-	Verder onderzoek nodig naar de zichtbaarheid van de tut
 
 
 ## WAVE 3

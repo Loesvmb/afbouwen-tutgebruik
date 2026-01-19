@@ -36,8 +36,8 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 <!-- Max 300 woorden. -->
 
 De emotionele waarde van een fopspeen is groot. Baby’s zijn vaak sterk gehecht aan hun fopspeen. Zuigen brengt niet alleen voeding, maar ook rust en troost. (Gezinsbond, z.d.)[^1]. ‘Voor veel kinderen is het
-immers hun troost, hun slaapvriend en soms zelfs hun beste maatje.’ (De opvoedcoach, z.d.). Maar de Consumentenbond (z.d.) stelt dat een fopspeen de groei van het gehemelte kan beïnvloeden doordat de tong naar beneden wordt gedrukt in plaats van het gehemelte te raken. Daarnaast blijkt dat langdurig gebruik de kans op middenoorontstekingen verhoogt. Het is dus belangrijk dat de tut op jonge leeftijd uit het leven van het kind verdwijnt. Momenteel word de tut meegegeven aan Sinterklaas, de tuttenboom of tuttenfee en verdwijnt de tut ogenblikkelijk. Ouders en kind maken hierdoor en korstondige, zeer emotionele periode door.
-‘Woede, verdriet, angst: bij het afscheid van het tutje maakt je kindje al deze fases door.’ (De roze doos, z.d.) Ouders zijn hierdoor ook terughoudend om het gebruik snel af te leren. 
+immers hun troost, hun slaapvriend en soms zelfs hun beste maatje.’ (De opvoedcoach, z.d.)[^2]. Maar de Consumentenbond (z.d.)[^3] stelt dat een fopspeen de groei van het gehemelte kan beïnvloeden doordat de tong naar beneden wordt gedrukt in plaats van het gehemelte te raken. Daarnaast blijkt dat langdurig gebruik de kans op middenoorontstekingen verhoogt. Het is dus belangrijk dat de tut op jonge leeftijd uit het leven van het kind verdwijnt. Momenteel word de tut meegegeven aan Sinterklaas, de tuttenboom of tuttenfee en verdwijnt de tut ogenblikkelijk. Ouders en kind maken hierdoor en korstondige, zeer emotionele periode door.
+‘Woede, verdriet, angst: bij het afscheid van het tutje maakt je kindje al deze fases door.’ (De roze doos, z.d.)[^4] Ouders zijn hierdoor ook terughoudend om het gebruik snel af te leren. 
 Het doel van deze tool is om het tutgebruik voor het finale afscheid gradueel af te bouwen om zo de overgang emotioneel te verzachten. Hierbij moeten ouders ondersteund worden in het afbouwproces en moeten zij hier controle over behouden. Verder moet het kind een gevoel van emotionele veiligheid behouden en moet het zelf met een positieve instelling en motivatie in het proces staan.
 
 <!-- Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
@@ -108,4 +108,8 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+ [^1]: Gezinsbond. (z.d.). Stoppen met het tutje: Tips voor een makkelijker afscheid. Geraadpleegd op [22 oktober 2025], van https://www.gezinsbond.be/inspiratie-advies/stoppen-met-het-tutje-tips-voor-een-makkelijker-afscheid
+ [^2]: De Opvoedcoach. (z.d.). Afscheid van het tutje – De Opvoedcoach. Geraadpleegd op [22 oktober 2025], van Afscheid van het tutje – De Opvoedcoach
+ [^3]: Consumentenbond. (z.d.). Fopspeen, speen of tut: advies over het gebruik. Geraadpleegd op [22 oktober 2025], van https://www.consumentenbond.nl/veilig-slapen/fopspeen
+ [^4]: De Roze Doos. (2023, 8 september). Hoe je kind laten stoppen met het tutje? Geraadpleegd op [22 oktober 2025], van https://www.derozedoos.be/nl/baby/groei-van-de-baby/ontwikkeling-van-het-kind/hoe-je-kind-laten-stoppen-met-het-tutje
+

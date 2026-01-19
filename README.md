@@ -50,8 +50,8 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
-Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van concepten. Verder werd Figma Make gebruikt om een interfase van een concept te prototypen in WAVE 2. Finaal werd Vizcom gebruikt om de 5 concepten van WAVE 1 te visualiseren.
+Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van concepten. Verder werd Figma Make gebruikt om een interfase van een concept te prototypen in WAVE 2. Finaal werd Vizcom gebruikt om de 5 concepten van WAVE 1 te visualiseren aan de hand van schetsen, dit werd ook gebruikt om het realistisch beeld te genereren van het finale prototype.
+
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (iteratie 1 N=12; iteratie 2 N=10)
@@ -66,13 +66,16 @@ Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van c
 
     
 ### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* User testing wave 2 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-
+* User testing wave 1 (N=4)
+  * [Protocol ouders](<reports and protocols/Interview - protocol - ouders -wave1.pdf>)
+  * [Protocol kinderbegeleiders](<reports and protocols/Interview protocol_wave1_kinderbegeleiders.pdf>)
+  * [Rapport WAVE 1](<reports and protocols/Interview_rapport_Wave 1.pdf>)
+* User testing wave 2 (N=3)
+  * [Protocol](<reports and protocols/Interview - protocol - ouders -wave2.pdf>)
+  * [Rapport](<reports and protocols/Interview_rapport_Wave 2.pdf>)
+* User testing wave 3 (N=2)
+  * [Protocol](<reports and protocols/Interview - protocol - expert-wave3.pdf>)
+  * [Rapport](<reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)
 ## Licentie
 > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
 

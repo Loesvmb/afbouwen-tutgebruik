@@ -1,6 +1,6 @@
 Add PDF versions of your protocols and reports here.  
 
-Definition:
+Discovery:
 - Literatuuronderzoek:
         [Protocol](<Literatuuronderzoek protocol_Vanmeerbeek_Loes.pdf>)
         [Rapport](<Literatuuronderzoek Rapport_Vanmeerbeek_Loes.pdf>)
@@ -13,7 +13,7 @@ Definition:
         [Protocol](<Interview protocol_Vanmeerbeek_Loes.pdf>)
         [Rapport](<Interview Rapport_Vanmeerbeek_Loes.pdf>)
 
-Discovery:
+Definition:
 - Gebruikersinterviews WAVE 1:
 o Ouders
         [Protocol](<Interview - protocol - ouders -wave1.pdf>)

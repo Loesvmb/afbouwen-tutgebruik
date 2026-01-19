@@ -13,9 +13,9 @@ De hoofdonderzoeksvragen zijn:
 -	Wat helpt het kind het meest in het afleerproces: een tool positief bekrachtigt of actief stimuleert?
 
 #### Materiaal & methoden
-De eerste WAVE bestond uit gebruikersinterviews met 3 ouders en 2 kinderbegeleiders,  gericht op conceptuele aspecten (vraag 4) en tutgebruik, stimulatie en hechting (vragen 1–3). (duur: 40 minuten)
+De eerste WAVE bestond uit gebruikersinterviews met 3 ouders en 2 kinderbegeleiders,  gericht op conceptuele aspecten (vraag 4) en tutgebruik, stimulatie en hechting (vragen 1–3). (Duur: 40 minuten)
 
-Vijf concepten werden vergeleken via storyboards en realistische Vizcom-visualisaties van eerder gemaakte schetsen, dit was het efficiënste aangezien de meeste interviews online doorgingen. Hierbij werd variaty prototyping ingezet om de confirmation bias te vermijden. Alle tools voldeden aan de design requirements opgesteld uit de discovery. De geteste elementen waren: verplaatsbaarheid van tut, autonomie van kinderen, invloed van beloningen, vormen van feedback en motiverende elementen.
+Vijf concepten werden vergeleken via storyboards en realistische Vizcom-visualisaties van eerder gemaakte schetsen, dit was het efficiënste aangezien de meeste interviews online doorgingen. Hierbij werd variety prototyping ingezet om de confirmation bias te vermijden. Alle tools voldeden aan de design requirements opgesteld uit de discovery. De geteste elementen waren: verplaatsbaarheid van tut, autonomie van kinderen, invloed van beloningen, vormen van feedback en motiverende elementen.
 
 Concept 1:
 ![alt text](image-14.png)![alt text](image-5.png)
@@ -44,6 +44,7 @@ De tut dient vooral als troost bij emotionele momenten. Naast de tut hebben kind
 
 Omdat kinderen geen tijdsbesef hebben is zichtbare vooruitgang essentieel. 
 De tut moet tijdelijk vastgezet worden in een tool, zodat kinderen leren emoties te verwerken zonder tut. 
+
 De tutloze tijd wordt stapsgewijs verlengd, ondersteund door directe feedback en beloningen om de motivatie te verhogen. De tool moet bovendien makkelijk verplaatsbaar zijn.
 
 Hoewel de tut in de klas weinig wordt gebruikt, staan kinderondersteuners open voor het gebruik van zo’n tool.
@@ -55,11 +56,12 @@ Het uitgebreidere verslag is hieronder terug te vinden:
 
 Uit de gesprekken blijkt dat de tut voornamelijk een emotioneel troostmiddel is. Afleren gebeurt het best overdag, hier is de nood het grootst door emotionele elementen. Omdat jonge kinderen geen tijdsbesef hebben, is visuele ondersteuning essentieel.
 
-Een visuele opbouw van tijd, directe feedback en beloningen vergroten de motivatie. De tut moet tijdelijk vastgezet kunnen worden zodat kinderen omgaan met emoties zonder afhankelijkheid. Tot slot kunnen auditieve hulpmiddelen bijdragen aan een kalmerend effect.
+Een visuele opbouw van tijd, directe feedback en beloningen vergroten de motivatie. De tut moet tijdelijk vastgezet kunnen worden zodat kinderen omgaan met emoties zonder afhankelijkheid. 
+Tot slot kunnen auditieve hulpmiddelen bijdragen aan een kalmerend effect.
 
 ## WAVE 2
 #### Doestellingen
-Het doel is te achterhalen welke conceptualisatie het beste is. Dit door de implicaties van de eerste wave toe te passen op 2 nieuwe concepten, om opnieuw aan veriaty protoyping te doen. Hierbij kan achterhaald worden welke aspecten belangrijk zijn en missen.
+Het doel is te achterhalen welke conceptualisatie het beste is. Dit door de implicaties van de eerste wave toe te passen op 2 nieuwe concepten, om opnieuw aan variety protoyping te doen. Hierbij kan achterhaald worden welke aspecten belangrijk zijn en missen.
 De hoofdonderzoeksvragen zijn :
 -	Wat zijn de goede/slechte aspecten ?
 -	Hoe zal het gebruiksproces eruitzien?
@@ -129,7 +131,7 @@ De hoofdonderzoeksvragen zijn als volgt:
 #### Materiaal & methoden
 
 In deze wave werden de prototypes van wave 2 opnieuw gebruikt. Deze werden voorgesteld en bevraagd. Hierbij lag de focus op het tweede protoype omdat de gebruikers daar de voorkeur aan gaven. Verder werd er bevraagd naar de motivatie van het kind, interface, beloning en feedback en zichtbaarheid van de tut.
-De interviews vonden plaats met twee kinderpedagogen. 
+De interviews vonden plaats met twee kinderpedagogen. (Duur: 30 minuten)
 
 In Onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
 [Interview protocol WAVE 3](<../reports and protocols/Interview - protocol - expert-wave3.pdf>)
@@ -150,7 +152,7 @@ Het uitgebreidere verslag is hieronder terug te vinden:
 #### Conclusies & implicaties
 De expertinterviews tonen aan dat een succesvolle tool voor het afleren van de tut moet inzetten op groei, eenvoudige visuele feedback en een duidelijke beloningsstructuur. Beloning en feedback zijn belangrijk voor blijvende motivatie. Een simpele, kleurrijke interface met herkenbare elementen en beperkte keuzes werkt het best bij kinderen van de vooropgestelde leeftijdscategorie. 
 
-Volgende implicatie werden bekomen:
+Volgende implicaties werden bekomen:
 -	Het concept moet focussen op progressie over tijd, visueel zichtbaar gemaakt voor het kind.
 -	Beloningssystemen gradueel moet blijven.
 -	De interface simpel, kleurrijk en herkenbaar voor het kind, met aanpasbare zichtbaarheid van de tut.

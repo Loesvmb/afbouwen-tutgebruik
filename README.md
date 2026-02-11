@@ -88,14 +88,14 @@ Verder werd er gebruikgemaakt van speak to tekst AI om de opnamens van de interv
     
 ### Definition
 * User testing wave 1 (N=4)
-  * [interview protocol kinderbegeleiders](<../reports and protocols/Interview protocol_wave1_kinderbegeleiders.pdf>)
-  * [interview protocol ouders](<../reports and protocols/Interview - protocol - ouders -wave1.pdf>)
-  * [interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)
+  * [interview protocol kinderbegeleiders](<Interview protocol_wave1_kinderbegeleiders.pdf>)
+  * [interview protocol ouders](<Interview - protocol - ouders -wave1.pdf>)
+  * [interview rapport WAVE 1](<Interview_rapport_Wave 1.pdf>)
 * User testing wave 2 (N=3)
-  * [Inerview protocol WAVE 2](<../reports and protocols/Interview - protocol - ouders -wave2.pdf>)
-  * [interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)
+  * [Inerview protocol WAVE 2](<Interview - protocol - ouders -wave2.pdf>)
+  * [interview rapport WAVE 2](<Interview_rapport_Wave 2.pdf>)
 * Expert interview wave 3 (N=2)
-  * [Interview protocol WAVE 3](<../reports and protocols/Interview - protocol - expert-wave3.pdf>)
+  * [Interview protocol WAVE 3](<Interview - protocol - experts_wave3.pdf>)
   * [Interview rapport WAVE 3](<Interview_rapport_Wave 3_expert interviews (1).pdf>)
 
 ## Licentie

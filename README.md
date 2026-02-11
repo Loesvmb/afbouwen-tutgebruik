@@ -96,7 +96,7 @@ Verder werd er gebruikgemaakt van speak to tekst AI om de opnamens van de interv
   * [interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)
 * Expert interview wave 3 (N=2)
   * [Interview protocol WAVE 3](<../reports and protocols/Interview - protocol - expert-wave3.pdf>)
-  * [Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)
+  * [Interview rapport WAVE 3](<Interview_rapport_Wave 3_expert interviews (1).pdf>)
 
 ## Licentie
 <!-- > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje    -->

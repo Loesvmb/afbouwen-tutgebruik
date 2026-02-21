@@ -40,7 +40,7 @@ Concept 5:
 
 #### Resultaten
 
-De tut dient vooral als troost bij emotionele momenten. Naast de tut hebben kinderen vaak  een knuffel. Overdag is het belangrijk het tutgebruik geleidelijk af te leren, zodat kinderen ’s nachts ook zonder tut kunnen.
+De tut dient vooral als troost bij emotionele momenten. Naast de tut hebben kinderen vaak een knuffel. Overdag is het belangrijk het tutgebruik geleidelijk af te leren, zodat kinderen ’s nachts ook zonder tut kunnen.
 
 Omdat kinderen geen tijdsbesef hebben is zichtbare vooruitgang essentieel. 
 De tut moet tijdelijk vastgezet worden in een tool, zodat kinderen leren emoties te verwerken zonder tut. 
@@ -56,7 +56,7 @@ Het uitgebreidere verslag is hieronder terug te vinden:
 
 Uit de gesprekken blijkt dat de tut voornamelijk een emotioneel troostmiddel is. Afleren gebeurt het best overdag, hier is de nood het grootst door emotionele elementen. Omdat jonge kinderen geen tijdsbesef hebben, is visuele ondersteuning essentieel.
 
-Een visuele opbouw van tijd, directe feedback en beloningen vergroten de motivatie. De tut moet tijdelijk vastgezet kunnen worden zodat kinderen omgaan met emoties zonder afhankelijkheid. 
+Een visuele opbouw van tijd, directe feedback en beloningen vergroten de motivatie. De tut moet tijdelijk vastgezet kunnen worden zodat kinderen omgaan met emoties zonder afhankelijkheid van de tut. 
 Tot slot kunnen auditieve hulpmiddelen bijdragen aan een kalmerend effect.
 
 ## WAVE 2
@@ -101,7 +101,7 @@ Het uitgebreidere verslag is hieronder terug te vinden:
 
 #### Conclusies & implicaties
 
-De tool zal hoofdzakelijk  feedback moeten geven en een interactief aspect om de aandacht van de kinderen erbij te houden. Het scherm zou best de grootte van een tablet hebben zodat het groot genoeg is om aangenaam de interface te kunnen zien maar tegelijk eenvoudig om te transporteren. 
+De tool zal hoofdzakelijk feedback moeten geven en een interactief aspect om de aandacht van de kinderen erbij te houden. Het scherm zou best de grootte van een tablet hebben zodat het groot genoeg is om aangenaam de interface te kunnen zien maar tegelijk eenvoudig om te transporteren. 
 De tijd moet zowel op de tool als op de gsm ingesteld kunnen worden en niet manipuleerbaar zijn door kinderen. 
 De tool zal op een vaste plaats in huis gebruikt worden over een periode van enkele weken.
 Het belang van de zichtbaarheid van de tut moet verder onderzocht worden.

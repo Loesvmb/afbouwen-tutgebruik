@@ -1,4 +1,4 @@
-Add PDF versions of your protocols and reports here.  
+<!-- Add PDF versions of your protocols and reports here.   -->
 
 Discovery:
 - Literatuuronderzoek:

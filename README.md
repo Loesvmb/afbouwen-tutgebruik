@@ -73,7 +73,7 @@ Tot slot verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan c
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->
 Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van concepten. Verder werd Figma Make gebruikt om een interfase van een concept te prototypen in WAVE 2. Finaal werd Vizcom gebruikt om de 5 concepten van WAVE 1 en het eindconcept te visualiseren aan de hand van eerder gemaakte schetsen en prompts. 
 Verder werd er gebruikgemaakt van speak to tekst AI om de opnamens van de intervieuws te transcriberen. Dit gebeurde met TurboScribe en met de built-in functie in MS Teams.
-Ook werd er gebruik gemaakt van consensus voor het literatuuronderzoek om bronnen te vinden deze werden dan samengevat via notebooklm en deepl werd gebruikt voor de vertaling van sommige bronnen.
+Finaamwerd er gebruik gemaakt van consensus.ai om voor het literatuuronderzoek (development 1) bronnen te vinden; deze werden samengevat via notebooklm om te identificeren of deze al dan niet waardevol waren voor het onderzoek en welke antwoorden op de onderzoeksvragen ze bevatten. Verder werd deepl gebruikt voor de vertaling van sommige bronnen.
 
 ## Bijlagen
 ### Discovery

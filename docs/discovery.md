@@ -14,7 +14,7 @@ Onderstaand is het protocol terug te vinden, waarin wordt beschreven hoe dit pro
 [Protocol literatuuronderzoek](<../reports and protocols/Literatuuronderzoek protocol_Vanmeerbeek_Loes.pdf>) 
 
 Uit dit literatuuronderzoek kwamen de volgende bevindingen:
-Opvoedstress is het fenomeen waarbij ouders het gevoel hebben dat de eisen van opvoeding de middelen en vaardigheden die ze kunnen bieden overstijgen. Het vermindert de opvoedkwaliteit, ouderlijke warmte en kan probleemgedrag bij kinderen versterken/veroorzaken. Dit komt door een cumulatie aan stressfactoren, zijnde stress op het werk, stressfactoren thuis en druk uit de maatschappij. Structuur, voorspelbare routines en steun verlichten stress en bevorderen positief het gezinsfunctioneren.
+Opvoedstress is het fenomeen waarbij ouders het gevoel hebben dat de eisen van opvoeding de middelen en vaardigheden die ze kunnen bieden overstijgen. Het vermindert de opvoedkwaliteit, ouderlijke warmte en kan probleemgedrag bij kinderen versterken/veroorzaken. Dit komt door een cumulatie aan stressfactoren, zijnde stress op het werk, stressfactoren thuis en druk uit de maatschappij. Structuur, voorspelbare routines en steun verlichten stress en bevorderen positief het gezin functioneren.
 Het rapport van dit onderzoek is terug te vinden aan de hand van volgende link:
 
 [Rapport literatuuronderzoek](<../reports and protocols/Literatuuronderzoek Rapport_Vanmeerbeek_Loes.pdf>)
@@ -49,7 +49,7 @@ op welke manieren kunnen deze factoren worden verlicht?
 
  [Protocol gebruikersinterviews](<../reports and protocols/Interview protocol_Vanmeerbeek_Loes.pdf>)
 
-Deze interviews gavens de volgende inzichten:
+Deze interviews gaven de volgende inzichten:
 • Dagelijkse stress ontstaat door cumulatie van factoren (eten, opruimen, slapen, routines) bij ouders.
 • Afleren van tutgebruik is een emotioneel beladen gebeurtenis.
 • Visuele hulpmiddelen zoals planners en schema’s zijn nuttig, vooral bij jongere kinderen.
@@ -60,7 +60,7 @@ Het uitgebreidere verslag is hieronder terug te vinden:
 
 [Rapport gebruikersinerviews](<../reports and protocols/Interview Rapport_Vanmeerbeek_Loes.pdf>)
 
-De probleemruimtes die werden gedefiniëerd in deze 3 onderzoeken werden uitgezet in een problem-solution matrix:
+De probleemruimtes die werden gedefinieerd in deze 3 onderzoeken werden uitgezet in een problem-solution matrix:
 ![alt text](<problem solution matrix.png>)
 
 Alle geïnterviewde ouders gaven aan dat het afleren van het tutgebruik een zeer emotionele ervaring is. Daarom werd hier ook een literatuuronderzoek (N=12) op verricht, met volgende onderzoeksvragen:

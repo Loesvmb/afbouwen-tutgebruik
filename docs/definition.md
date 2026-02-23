@@ -15,7 +15,7 @@ De hoofdonderzoeksvragen zijn:
 #### Materiaal & methoden
 De eerste WAVE bestond uit gebruikersinterviews met 3 ouders en 2 kinderbegeleiders,  gericht op conceptuele aspecten (vraag 4) en tutgebruik, stimulatie en hechting (vragen 1–3). (Duur: 40 minuten)
 
-Vijf concepten werden vergeleken via storyboards en realistische Vizcom-visualisaties van eerder gemaakte schetsen, dit was het efficiënste aangezien de meeste interviews online doorgingen. Hierbij werd variety prototyping ingezet om de confirmation bias te vermijden. Alle tools voldeden aan de design requirements opgesteld uit de discovery. De geteste elementen waren: verplaatsbaarheid van tut, autonomie van kinderen, invloed van beloningen, vormen van feedback en motiverende elementen.
+Vijf concepten werden vergeleken via storyboards en realistische Vizcom-visualisaties van eerder gemaakte schetsen, dit was het efficiëntste aangezien de meeste interviews online doorgingen. Hierbij werd variety prototyping ingezet om de confirmation bias te vermijden. Alle tools voldeden aan de design requirements opgesteld uit de discovery. De geteste elementen waren: verplaatsbaarheid van tut, autonomie van kinderen, invloed van beloningen, vormen van feedback en motiverende elementen.
 
 Concept 1:
 ![alt text](image-14.png)![alt text](image-5.png)
@@ -32,7 +32,7 @@ Concept 4:
 Concept 5:
 ![alt text](image-12.png)![alt text](image-13.png)
  
- In Onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
+In onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
  - Ouders:
 [interview protocol ouders](<../reports and protocols/Interview - protocol - ouders -wave1.pdf>)
  - Kinderbegeleiders:
@@ -45,7 +45,7 @@ De tut dient vooral als troost bij emotionele momenten. Naast de tut hebben kind
 Omdat kinderen geen tijdsbesef hebben is zichtbare vooruitgang essentieel. 
 De tut moet tijdelijk vastgezet worden in een tool, zodat kinderen leren emoties te verwerken zonder tut. 
 
-De tutloze tijd wordt stapsgewijs verlengd, ondersteund door directe feedback en beloningen om de motivatie te verhogen. De tool moet bovendien makkelijk verplaatsbaar zijn.
+De tut-loze tijd wordt stapsgewijs verlengd, ondersteund door directe feedback en beloningen om de motivatie te verhogen. De tool moet bovendien makkelijk verplaatsbaar zijn.
 
 Hoewel de tut in de klas weinig wordt gebruikt, staan kinderondersteuners open voor het gebruik van zo’n tool.
 
@@ -61,7 +61,7 @@ Tot slot kunnen auditieve hulpmiddelen bijdragen aan een kalmerend effect.
 
 ## WAVE 2
 #### Doestellingen
-Het doel is te achterhalen welke conceptualisatie het beste is. Dit door de implicaties van de eerste wave toe te passen op 2 nieuwe concepten, om opnieuw aan variety protoyping te doen. Hierbij kan achterhaald worden welke aspecten belangrijk zijn en missen.
+Het doel is te achterhalen welke conceptualisatie het beste is. Dit door de implicaties van de eerste wave toe te passen op 2 nieuwe concepten, om opnieuw aan variety prototyping te doen. Hierbij kan achterhaald worden welke aspecten belangrijk zijn en missen.
 De hoofdonderzoeksvragen zijn :
 -	Wat zijn de goede/slechte aspecten ?
 -	Hoe zal het gebruiksproces eruitzien?
@@ -72,7 +72,7 @@ De hoofdonderzoeksvragen zijn :
  
 Er werden gebruikersinterviews afgenomen (N=3), waarbij twee prototypes werden getest. De concepten werden besproken met vragen over deelaspecten (onderzoeksvraag 1), het gebruiksproces (onderzoeksvraag 2) en de zichtbaarheid van de tut (onderzoeksvraag 3). (Duur: 40 minuten)
 
-Met inzichten uit WAVE 1 werden twee concepten ontwikkeld. Deze werden tijdens interviews vergeleken om te bepalen welke elementen het meest geschikt zijn. Door variaty prototyping toe te passen, werd confirmation bias vermeden en werd het gesprek over de verschillende ontwerpaspecten gestimuleerd.
+Met inzichten uit WAVE 1 werden twee concepten ontwikkeld. Deze werden tijdens interviews vergeleken om te bepalen welke elementen het meest geschikt zijn. Door variety prototyping toe te passen, werd confirmation bias vermeden en werd het gesprek over de verschillende ontwerpaspecten gestimuleerd.
 
 Concept 1:
 ![alt text](image-4.png)
@@ -84,7 +84,7 @@ Concept 2:
 ![alt text](image-15.png)
 ![alt text](image-16.png)
 
-In Onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
+In onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
 [Inerview protocol WAVE 2](<../reports and protocols/Interview - protocol - ouders -wave2.pdf>)
 
 #### Resultaten
@@ -130,7 +130,7 @@ De hoofdonderzoeksvragen zijn als volgt:
 
 #### Materiaal & methoden
 
-In deze wave werden de prototypes van wave 2 opnieuw gebruikt. Deze werden voorgesteld en bevraagd. Hierbij lag de focus op het tweede protoype omdat de gebruikers daar de voorkeur aan gaven. Verder werd er bevraagd naar de motivatie van het kind, interface, beloning en feedback en zichtbaarheid van de tut.
+In deze wave werden de prototypes van wave 2 opnieuw gebruikt. Deze werden voorgesteld en bevraagd. Hierbij lag de focus op het tweede prototype omdat de gebruikers daar de voorkeur aan gaven. Verder werd er bevraagd naar de motivatie van het kind, interface, beloning en feedback en zichtbaarheid van de tut.
 De interviews vonden plaats met twee kinderpedagogen. (Duur: 30 minuten)
 
 In Onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 

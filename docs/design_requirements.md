@@ -24,7 +24,6 @@ Functional requirements:
 |1.18|De tool geeft positieve feedback op het moment dat de tut in de tool geplaatst wordt|[Interview rapport WAVE 3](url)|✅|
 |1.19|De tool biedt beperkte keuzevrijheid aan|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |1.20|De tool voorziet tussentijdse beloningen om frustraties te voorkomen|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
-|1.21|De tool biedt een afleerproces aan gebaseerd op herhaling|[Literatuuronderzoek rapport develop 1](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 Usability requirements:
 |2.1|Ouders en kind voelen zich veilig en comfortabel tijdens het gebruik van de tool |[Definition](definition.md)|✅|
 |2.2|De vastzetduur is instelbaar door de ouders|[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
@@ -36,7 +35,7 @@ Usability requirements:
 Vormgeving requirements:
 |3.1|De interface is eenvoudig, kleurrijk en herkenbaar voor jonge kinderen |[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.2|De vormgeving sluit aan bij de leerwereld van het kind|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
-|3.4|De interface vermijdt te complexe of gedetailleerde elementen|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|3.3|De interface vermijdt te complexe of gedetailleerde elementen|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 Context requirements:
 |4.1|Het afleren van de tut vindt plaats in emotioneel relevante situaties |[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
 |4.2|De tool is verplaatsbaar naar andere contexten|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|

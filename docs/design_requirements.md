@@ -24,6 +24,7 @@ Functional requirements:
 |1.18|De tool geeft positieve feedback op het moment dat de tut in de tool geplaatst wordt|[Interview rapport WAVE 3](url)|✅|
 |1.19|De tool biedt beperkte keuzevrijheid aan|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |1.20|De tool voorziet tussentijdse beloningen om frustraties te voorkomen|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|1.21|De tool biedt een afleerproces aan gebaseerd op herhaling|[Literatuuronderzoek rapport develop 1](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 Usability requirements:
 |2.1|Ouders en kind voelen zich veilig en comfortabel tijdens het gebruik van de tool |[Definition](definition.md)|✅|
 |2.2|De vastzetduur is instelbaar door de ouders|[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
@@ -31,6 +32,7 @@ Usability requirements:
 |2.4|De vastzetduur van een voorgelegd schema is aanpasbaar zowel op de tool als in een app |[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |2.5|De instellingen van de tool zijn beveiligd met een kinderslot|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |2.6|De tijd wordt ingesteld door de ouders op basis van een aanpasbaar schema|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
+|2.7|Het afleerproces vereist bewuste inspanning|[Literatuuronderzoek rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 Vormgeving requirements:
 |3.1|De interface is eenvoudig, kleurrijk en herkenbaar voor jonge kinderen |[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.2|De vormgeving sluit aan bij de leerwereld van het kind|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
@@ -41,3 +43,5 @@ Context requirements:
 |4.3|De tool staat hoofdzakelijk op een vaste plaats in huis|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |4.4|Het afleerproces duurt meerdere weken|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |4.5|De zichtbaarheid van de tut is aanpasbaar en leeftijdsafhankelijk|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|4.6|De tut wordt vervangen door een nieuw troostmiddel|[Literatuuronderzoek rapport develop 1 ](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|4.7|De tool ondersteund consistent gebruik ervan|[Literatuuronderzoek rapport develop 1 ](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|

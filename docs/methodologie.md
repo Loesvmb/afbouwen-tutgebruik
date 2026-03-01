@@ -1,7 +1,7 @@
 ## Methodologie
 
 
-![alt text](<Tijdslijn discovery+definition.png>)
+![alt text](<tijdslijn tot en met Develop 1.png>)
 
 Prototypes:
 ![alt text](<tijdslijn prototypes.png>)
@@ -21,3 +21,7 @@ Met deze resultaten vond er opnieuw een ideegeneratie plaats waaruit twee concep
 Als laatste stap in de definition-fase tijdens WAVE 3 werden er expert-interviews afgenomen bij 2 pedagoges om bijkomende vragen over de concepten en hun werking te valideren. Hierbij werden ook de 2 concepten voorgesteld, maar lag de focus bij het concept dat de voorkeur had van de gebruikers. 
 
 Hierna werd het finale concept verder uitgedacht, waarvan een storyboard werd gemaakt.
+
+De tweede fase, development, werd uitgevoerd in februari, maart, april, mei en juni. Deze is verder onderverdeeld in 3 fases.
+
+De eerste fase vond plaats in februari en maart.

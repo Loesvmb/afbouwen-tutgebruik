@@ -15,8 +15,8 @@ Veel kinderen hechten een sterke emotionele waarde aan hun tut, het is een belan
 
 Dit probleem werd onderzocht aan de hand van interviews met ouders (N=4), aangevuld met literatuuronderzoek en benchmarkonderzoek in de discovery-fase. In de definition-fase werden drie onderzoekwaves uitgevoerd, waaruit belangrijke implicaties naar voren kwamen.
 
-Het concept dat hieruit finaal voortvloeide is een interactief huis waarin kinderen hun tut kunnen “parkeren”. De tut wordt voor een instelbare tijd, bepaald door de ouders, vastgezet. Hiervoor wordt een voorgestelde tijsspanne voorzien door de tool. Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer hoeveel hoever het kind in het proces zit en geeft een indicatie aan het kind wanneer deze de tut terug mag. 
-De kinderen hebben zelf de keuze om na de ingestelde tijd de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verdergelegen sterretjes op de voortgangsbalk.
+Het concept dat hieruit finaal voortvloeide is een interactief huis waarin kinderen hun tut kunnen “parkeren”. De tut wordt voor een instelbare tijd, bepaald door de ouders, vastgezet. Hiervoor wordt een voorgestelde tijdsspanne voorzien door de tool. Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer hoeveel hoever het kind in het proces zit en geeft een indicatie aan het kind wanneer deze de tut terug mag. 
+De kinderen hebben zelf de keuze om na de ingestelde tijd de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verder gelegen sterretjes op de voortgangsbalk.
 Wanneer het kind de tut terugneemt heeft deze een keuze tussen 3 varianten van een beloning. 
 De tijd zonder de tut zal gradueel opbouwen en het zal langer duren om sterretjes te verdienen.
 
@@ -37,7 +37,7 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 
 De emotionele waarde van een fopspeen is groot. Baby’s zijn vaak sterk gehecht aan hun fopspeen. Zuigen brengt niet alleen voeding, maar ook rust en troost. (Gezinsbond, z.d.)[^1]. ‘Voor veel kinderen is het immers hun troost, hun slaapvriend en soms zelfs hun beste maatje.’ (De opvoedcoach, z.d.)[^2]. 
 Maar de Consumentenbond (z.d.)[^3] stelt dat een fopspeen de groei van het gehemelte kan beïnvloeden doordat de tong naar beneden wordt gedrukt in plaats van het gehemelte te raken. Daarnaast blijkt dat langdurig gebruik de kans op middenoorontstekingen verhoogt. 
-Het is dus belangrijk dat de tut op jonge leeftijd uit het leven van het kind verdwijnt. Momenteel word de tut meegegeven aan Sinterklaas, de tuttenboom of tuttenfee en verdwijnt de tut ogenblikkelijk. Ouders en kind maken hierdoor en korstondige, zeer emotionele periode door.
+Het is dus belangrijk dat de tut op jonge leeftijd uit het leven van het kind verdwijnt. Momenteel word de tut meegegeven aan Sinterklaas, de tuttenboom of tuttenfee en verdwijnt de tut ogenblikkelijk. Ouders en kind maken hierdoor en kortstondige, zeer emotionele periode door.
 ‘Woede, verdriet, angst: bij het afscheid van het tutje maakt je kindje al deze fases door.’ (De roze doos, z.d.)[^4] Ouders zijn hierdoor ook terughoudend om het gebruik snel af te leren. 
 Het doel van deze tool is om het tutgebruik voor het finale afscheid gradueel af te bouwen om zo de overgang emotioneel te verzachten. Hierbij moeten ouders ondersteund worden in het afbouwproces en moeten zij hier controle over behouden. Verder moet het kind een gevoel van emotionele veiligheid behouden en moet het zelf met een positieve instelling en motivatie in het proces staan.
 
@@ -61,19 +61,19 @@ In de definition-fase werd een goed begrip van de probleemruimte verkregen door 
 
 Een belangrijke uitdaging in beide onderzoeksfases was het vinden van respondenten die voldeden aan de doelgroep (ouders met kinderen tussen 2 en 5 jaar). Ook het organiseren van thuisinterviews bleek moeilijk door het afstandsverschil tussen school en thuis. Aangezien de respondenten zich voornamelijk in onze thuisregio’s bevonden was het lastig om geschikte interviewmomenten te vinden, zeker in het weekend wanneer zij tijd met hun kinderen wilden doorbrengen.
 
-Het opnemen van de interviews bleek een grote meerwaarde. Door deze opnames te herbeluisteren en te transcriberen konden alle relevante inzichten zorgvuldig worden vastgelegd, wat de kwaliteit en betrouwbaarheid van de analyse verhoogde.
+Het opnemen van de interviews bleek een grote meerwaarde. Door deze opnames te her beluisteren en te transcriberen konden alle relevante inzichten zorgvuldig worden vastgelegd, wat de kwaliteit en betrouwbaarheid van de analyse verhoogde.
 
 Achteraf gezien hadden pedagogen eerder in het proces betrokken kunnen worden. Hun inzichten waren zeer waardevol en bevestigden grotendeels de resultaten uit WAVE 1 en WAVE 2. Indien zij vroeger geraadpleegd waren, had dit mogelijk sneller geleid tot het eindconcept en had eerder gestart kunnen worden met gebruikerstesten.
 
-Deze gebruikerstesten konden nog niet uitgevoerd worden omdat de focus tot nu toe voornamelijk lag op de conceptualisatie van de tool. Hoewel het beloningssysteem werd gevalideerd via interviews, moet dit nog getest worden in realistische gebruikssituaties om te observeren of de motivatie en aandacht van kinderen behouden blijft. Ook de opbouw en ergonomie van de interface vereisen verdere testing. Hierop moet gefocused worden naar de volgende fases toe.
+Deze gebruikerstesten konden nog niet uitgevoerd worden omdat de focus tot nu toe voornamelijk lag op de conceptualisatie van de tool. Hoewel het beloningssysteem werd gevalideerd via interviews, moet dit nog getest worden in realistische gebruikssituaties om te observeren of de motivatie en aandacht van kinderen behouden blijft. Ook de opbouw en ergonomie van de interface vereisen verdere testing. Hierop moet gefocust worden naar de volgende fases toe.
 
 Tot slot verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan communicatie en taakverdeling. Na het opstellen van duidelijke afspraken en verantwoordelijkheden verbeterde de samenwerking.
 
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->
 Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van concepten. Verder werd Figma Make gebruikt om een interfase van een concept te prototypen in WAVE 2. Finaal werd Vizcom gebruikt om de 5 concepten van WAVE 1 en het eindconcept te visualiseren aan de hand van eerder gemaakte schetsen en prompts. 
-Verder werd er gebruikgemaakt van speak to tekst AI om de opnamens van de intervieuws te transcriberen. Dit gebeurde met TurboScribe en met de built-in functie in MS Teams.
-Finaamwerd er gebruik gemaakt van consensus.ai om voor het literatuuronderzoek (development 1) bronnen te vinden; deze werden samengevat via notebooklm om te identificeren of deze al dan niet waardevol waren voor het onderzoek en welke antwoorden op de onderzoeksvragen ze bevatten. Verder werd deepl gebruikt voor de vertaling van sommige bronnen.
+Verder werd er gebruikgemaakt van speak to tekst AI om de opnames van de intervieuws te transcriberen. Dit gebeurde met TurboScribe en met de built-in functie in MS Teams.
+Finaamwerd er gebruik gemaakt van consensus.ai om voor het literatuuronderzoek (development 1) bronnen te vinden; deze werden samengevat via notebooklm om te identificeren of deze al dan niet waardevol waren voor het onderzoek en welke antwoorden op de onderzoeksvragen ze bevatten. Verder werd deepl. gebruikt voor de vertaling van sommige bronnen.
 
 ## Bijlagen
 ### Discovery

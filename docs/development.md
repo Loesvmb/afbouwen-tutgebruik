@@ -1,6 +1,8 @@
 ## Development
 <!-- Max. 1000 woorden.   
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen. -->
+![alt text](<overzicht development tot en met fase 1.png>)
+
 ### Development fase 1
 
 Na de discovery-fase was de grootste onzekerheid hoe het afbouwplan diende gemaakt te worden. Hierop moet het concept aangepast worden. 
@@ -29,12 +31,14 @@ Hieruit kwam...
 <!-- rapport hier plaatsen -->
 
 
-Na deze interviews, zijn de belangrijke aspecten die verandert/toegevoegd worden op de tool als volgt:
-<!-- afbeelding hier plaatsen, op tool belangrijke resultaten aanduiden? -->
+Het concept werd ontleed in diens functies om zo te bekijken wat verder uitgewerkt dient te worden; wat hierin prioritair is.
 
-Verder werden de vooropgestelde design requirements gerangschikt volgens belangrijkheid aan de hand van een MOSCOW-analyse na deze fase, zo worden de belangrijke aspecten die eventueel verder  uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken, de aspecten die essentieel gebleken zijn voor het afleren van de tut uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
-<!-- analyse hier plaatsen -->
+![alt text](<opdeling functies tool.png>)
 
+Verder werden de vooropgestelde design requirements gerangschikt volgens belangrijkheid aan de hand van een MOSCOW-analyse, zo worden de belangrijke aspecten die eventueel verder  uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken, de aspecten die essentieel gebleken zijn voor het afleren van de tut uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
+![alt text](<SWOT- analyse design requirements.png>)
+
+Aan de and van bovenstaande schema's kan bepaald worden wat in volgende fase verder uitgewerkt dient te worden.
 
 
 

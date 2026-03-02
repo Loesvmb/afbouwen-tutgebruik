@@ -5,8 +5,10 @@
 
 ### Development fase 1
 
+#### Literatuuronderzoek (N=13)
+
 Na de discovery-fase was de grootste onzekerheid hoe het afbouwplan diende gemaakt te worden. 
-Om hier een concreet plan van te maken werd eerst een literatuuronderzoek (n=13) verricht waarbij volgende onderzoeksvragen centraal stonden: 
+Om hier een concreet plan van te maken werd eerst een literatuuronderzoek (n=13; 19/02/2026-26/02/2026) verricht waarbij volgende onderzoeksvragen centraal stonden: 
 -	Wat houdt afleren concreet in?
 -	Wat zijn verschillende bestaande manieren waarop kinderen iets leren?
     - Welke elementen zijn hierbij belangrijk?
@@ -17,8 +19,9 @@ Hieruit kwamen geen explicitie methodes naar boven, echter wel veel belangrijke 
 
 
 
+#### Expertinterviews (N=2)
 
-Dit onderzoek gaf al een concreter beeld van hoe het plan er theoretisch uit moet zien, om dit meer concreet te maken werden er 2 expertinterviews verricht. Hierbij stonden volgende onderzoekvragen centraal:
+Dit onderzoek gaf al een concreter beeld van hoe het plan er theoretisch uit moet zien, om dit meer concreet te maken werden er 2 expertinterviews verricht (2/03/2026-07/03/2026). Hierbij stonden volgende onderzoekvragen centraal:
 
 <!-- protocol hier plaatsen -->
 
@@ -28,6 +31,7 @@ Aan de experten werden aan de hand van een prototype en afbeeldingen het afbouwp
 Volgende implementaties kwamen uit deze interviews voort:
 <!-- rapport hier plaatsen -->
 
+#### Verder verloop
 
 Verder werd het concept ontleed in diens functies om zo te bekijken wat verder uitgewerkt dient te worden; wat hierin prioritair is.
 

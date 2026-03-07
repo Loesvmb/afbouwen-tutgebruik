@@ -24,6 +24,17 @@ Om hier een concreet plan van te maken werd eerst een literatuuronderzoek (n=13;
 ##### Expertinterviews (N=2)
 
 Dit onderzoek gaf al een concreter beeld van hoe het plan er theoretisch uit moet zien, om dit meer concreet te maken werden er 2 expertinterviews verricht (2/03/2026-07/03/2026), de vragen die hierin werden gesteld speelden in op de implicaties uit het literatuuronderzoek. In deze interviews stonden volgende onderzoekvragen centraal:
+-	Hoe moet het afbouwplan opgebouwd zijn?
+o	Aan welke belangrijke aspecten moet dit zeker voldoen?
+o	Hoe groot moeten de stappen zijn tussen de vastzetduren van de tut?
+o	Hoelang moet elke stap aangehouden worden?
+o	Moeten deze stappen altijd dezelfde tijdsduur omvatten?
+-	Moet er een vervanging voor de tut aangeboden worden, eventueel via de tool?
+-	Welke tijdsspanne moet worden voorzien voor het afleerproces?
+-	Moet het afleerproces aangepast worden aan de duur en intensiteit van het tutgebruik?
+-	Moeten er meldingen gegeven worden aan de ouders om  consistent gebruik van de tool te stimuleren?
+-	Hoe kan het afleerproces best beëindigd worden?
+
 
 <!-- protocol hier plaatsen -->
 

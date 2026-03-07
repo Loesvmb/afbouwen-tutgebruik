@@ -18,7 +18,9 @@ Om hier een concreet plan van te maken werd eerst een literatuuronderzoek (n=13;
 -	Wat zijn verschillende bestaande manieren waarop kinderen iets leren?
     - Welke elementen zijn hierbij belangrijk?
     - Wat is het tijdsverloop waarover deze processen gaan?
-<!-- protocol hier plaatsen -->
+
+De methode van het onderzoek word beschreven in volgend protocol:
+[literatuuronderzoek protocol](<../reports and protocols/Literatuuronderzoek protocol_develop1 (1).pdf>)
 
 
 ##### Expertinterviews (N=2)
@@ -35,8 +37,8 @@ o	Moeten deze stappen altijd dezelfde tijdsduur omvatten?
 -	Moeten er meldingen gegeven worden aan de ouders om  consistent gebruik van de tool te stimuleren?
 -	Hoe kan het afleerproces best beëindigd worden?
 
-
-<!-- protocol hier plaatsen -->
+De methode van de interviews word beschreven in volgend protocol:
+[Protocol expertinterviews](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)
 
 
 Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo kunnen de experten gerichtte feedback geven. Er werden vragen gesteld naar de afbouw van de tool, de algemene duur en de grootte en contequentie van de stappen die in dit afbouwproces diende genomen te worden. 
@@ -71,10 +73,10 @@ In onderstaande figuur worden de aanpassingen aan het concept weergegeven op de 
 Het afleren van tutgebruik is een bewust en tijdsintensief proces waarbij een gewoonte stap voor stap vervangen wordt door een nieuwe en dat vaak gepaard gaat met ongemak. Uit het literatuuronderzoek blijkt dat er geen vast proces bestaat om iets af te leren, maar dat factoren zoals herhaling, onmiddellijke bekrachtiging, sociale steun, intrinsieke motivatie en voldoende tijd dit proces ondersteunen. Een tool voor het afleren van tutgebruik moet daarom flexibel zijn en aangepast kunnen worden aan het tempo van het kind, met kleine stappen in het begin en grotere stappen later. Daarnaast spelen een beloningssysteem, een verhaallijn, een mogelijk vervangend object en de begeleiding van ouders een belangrijke rol, waarbij ouders beslissen wanneer de slotfase start waarin het kind de tut definitief afgeeft.
 
 Uit het literatuur onderzoek kwamen geen explicitie methodes naar boven, echter wel veel belangrijke factoren die in het afbouwproces geïmplementeerd dienden te worden. Dit zijnde:
-<!-- rapport hier plaatsen -->
+[literatuuronderzoek rapport](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)
 
 Uit de expertinterviews kwamen volgdende implicaties voort:
-<!-- rapport hier plaatsen -->
+[expertinterviews rapport](<../reports and protocols/Interview_rapport_Develop1.pdf>)
 
 
 #### Verder verloop

@@ -76,9 +76,9 @@ Achteraf gezien hadden pedagogen eerder in het proces betrokken kunnen worden. H
 
 Deze gebruikerstesten konden nog niet uitgevoerd worden omdat de focus tot nu toe voornamelijk lag op de conceptualisatie van de tool. Hoewel het beloningssysteem werd gevalideerd via interviews, moet dit nog getest worden in realistische gebruikssituaties om te observeren of de motivatie en aandacht van kinderen behouden blijft. Ook de opbouw en ergonomie van de interface vereisen verdere testing. Hierop moet gefocust worden naar de volgende fases toe.
 
-Tot slot verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan communicatie en taakverdeling. Na het opstellen van duidelijke afspraken en verantwoordelijkheden verbeterde de samenwerking.
+Verder verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan communicatie en taakverdeling. Na het opstellen van duidelijke afspraken en verantwoordelijkheden verbeterde de samenwerking.
 
-In de development-fase 1 verliep het vinden van respondenten zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
+Tot slot verliephet vinden van respondenten in de development-fase 1 zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
 
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->

@@ -57,20 +57,25 @@ Hierbij werden volgende interfaces getoond op de tablet:
 #### Resultaten
 Afleren is een bewust proces waarbij individuen kritisch reflecteren op hun mentale modellen en waarbij een gewoonte plaatsmaakt voor een andere; wat gepaard kan gaan met een gevoel van ongemak (Giulioni, 2018; Krauss, 2019; Inero Valbuena Ancho, 2019). Uit het literatuuronderzoek blijkt dat er geen concreet proces bestaat om iets af te leren, maar dat herhaling, positieve directe bekrachtiging, het vermijden van negatieve ervaringen, kleine beloningsstappen, steun uit de omgeving, intrinsieke motivatie en voldoende tijd belangrijke bevorderende factoren zijn. 
 
-Verder blijkt uit de expertinterviews dat ouders samen met het kind een eerste cyclus van de tool moeten doorlopen zodat duidelijk wordt voor het kind hoe de tool werkt. Een beloningssysteem wordt als belangrijk beschouwd omdat het kind zo focust op positieve ervaringen, waarbij na kleinere beloningen ook grotere of sociale beloningen kunnen volgen.
+Verder blijkt uit de expertinterviews dat ouders samen met het kind een eerste cyclus van de tool moeten doorlopen zodat duidelijk wordt voor het kind hoe de tool werkt. Een beloningssysteem wordt als belangrijk beschouwd omdat het kind zo focust op positieve ervaringen, waarbij na kleinere beloningen ook grotere of sociale beloningen kunnen volgen. Hierbij is het belangrijk dat het kind 3 keer een variatie van dezelfde beloning krijgt.
 
-De lengte van het traject kan door het kind bepaald worden doordat deze pas naar een volgende stap, vastzetduur van de tut, kan gaan wanneer deze de vorige voltooid heeft. Deze stappen zullen in het begin van het gebruik eerder klein zijn maar zullen meer toenemen naarmate het gebruik van de tool vordert. Ouders kunnen telkens ingrijpen wanneer zij vinden dat het proces te snel gaat.
+De lengte van het traject kan door het kind bepaald worden doordat deze pas naar een volgende stap, vastzetduur van de tut, kan gaan wanneer deze de vorige voltooid heeft. Elke fase bevat wel een minimumduur van bv. 1 week. Het kind moet dan de vastzetduur een aantal keer gehaald hebben, anders wordt deze tijdsspanne verlengt totdat hij/zij dit aantal wel haalt. 
+De duur van deze stappen zal in het begin van het gebruik van de tool eerder groot, 1 week, zijn aangezien de kinderen moeten wennen aan de tool.
+Verder zal het tijdsverschil tussen de stappen in het begin van het gebruik eerder klein zijn maar zal het toenemen naarmate het gebruik van de tool vorderd. 
+De duur van de stappen en het verschil ertussen moet afhangen van 2 parameters: leeftijd en intensiteit tutgebruik. Als het kind ouder is of de tut niet intensief gebruikt kunnen deze stappen sneller op elkaar volgen en groter worden. 
+Ouders kunnen telkens ingrijpen wanneer zij vinden dat het proces te snel gaat. 
 
-Ouders zouden moeten kunnen kiezen om al dan niet meldingen te ontvangen over het gebruik van de tool om consistent gebruik te verzekeren.
+Ouders zouden moeten kunnen kiezen om al dan niet meldingen te ontvangen over het gebruik van de tool om consistent gebruik te verzekeren. Consitentie hangt ook af van het moment van de dag, een terugkerend event in de agenda kan de consitentie dus ook bevorderen. 
 
-Daarnaast kan de tool een verhaallijn bevatten rond het afstaan van de tut en het optioneel een vervangend hechtingsvoorwerp aanbieden.
-Tot slot kunnen de ouders meldingen ontvangen wanneer het kind mogelijk klaar is voor de definitieve slotfase.
+Daarnaast kan de tool een verhaallijn bevatten rond het afstaan van de tut en het optioneel een vervangend hechtingsvoorwerp aanbieden. Deze verhaallijn draagt bij aan het derde aspect van de zelfdeteminatietheorie van Edward Deci: verbondenheid.
+
+Tot slot kunnen de ouders meldingen ontvangen wanneer het kind mogelijk klaar is voor de definitieve slotfase, de ouders moeten zelf aangeven dat het kind hier ook klaar voor is.
 
 In onderstaande figuur worden de aanpassingen aan het concept weergegeven op de tool:
 ![alt text](<overzicht veranderingen Develop 1.png>)
 
 #### Conclusies & implicaties
-Het afleren van tutgebruik is een bewust en tijdsintensief proces waarbij een gewoonte stap voor stap vervangen wordt door een nieuwe en dat vaak gepaard gaat met ongemak. Uit het literatuuronderzoek blijkt dat er geen vast proces bestaat om iets af te leren, maar dat factoren zoals herhaling, onmiddellijke bekrachtiging, sociale steun, intrinsieke motivatie en voldoende tijd dit proces ondersteunen. Een tool voor het afleren van tutgebruik moet daarom flexibel zijn en aangepast kunnen worden aan het tempo van het kind, met kleine stappen in het begin en grotere stappen later. Daarnaast spelen een beloningssysteem, een verhaallijn, een mogelijk vervangend object en de begeleiding van ouders een belangrijke rol, waarbij ouders beslissen wanneer de slotfase start waarin het kind de tut definitief afgeeft.
+Het afleren van tutgebruik is een bewust en tijdsintensief proces waarbij een gewoonte stap voor stap vervangen wordt door een nieuwe en dat vaak gepaard gaat met ongemak. Uit het literatuuronderzoek blijkt dat er geen vast proces bestaat om iets af te leren, maar dat factoren zoals herhaling, onmiddellijke bekrachtiging, sociale steun, intrinsieke motivatie en voldoende tijd dit proces ondersteunen. Een tool voor het afleren van tutgebruik moet daarom flexibel zijn en aangepast kunnen worden aan het tempo van het kind, met kleine stappen in het begin en grotere stappen later. Daarnaast spelen een beloningssysteem, een verhaallijn, de begeleiding van ouders een belangrijke rol, waarbij ouders beslissen wanneer de slotfase start waarin het kind de tut definitief afgeeft.
 
 Uit het literatuur onderzoek kwamen geen explicitie methodes naar boven, echter wel veel belangrijke factoren die in het afbouwproces geïmplementeerd dienden te worden. Dit zijnde:
 [literatuuronderzoek rapport](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)
@@ -92,7 +97,7 @@ Ook werden de design requirements gerangschikt volgens belangrijkheid aan de han
 Aan de hand van bovenstaande weergaven kan bepaald worden wat in volgende fase verder uitgewerkt dient te worden.
 
 Ook werd een analyse uitgevoerd op hoe het volgend prototype opgebouwd zou kunnen worden om zo naar een high-level prototype te evolueren:
-
+![alt text](<Deconstructie mogelijk prototype.jpg>)
 
 <!-- ### Doestellingen
 Wat wilde je bereiken? 

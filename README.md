@@ -38,6 +38,9 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 <p align="center">
   <img src="eindrender Develop 1.png" width="100%">
 </p>
+<p align="center">
+  <img src="storyboard.jpg" width="100%">
+</p>
 
 ## Introductie
 <!-- Max 300 woorden. -->

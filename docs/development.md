@@ -37,7 +37,7 @@ Verder werd het concept ontleed in diens functies om zo te bekijken wat verder u
 
 ![alt text](<opdeling functies tool.png>)
 
-Verder werden de design requirements gerangschikt volgens belangrijkheid aan de hand van een MOSCOW-analys. Zo worden de belangrijke aspecten die eventueel verder  uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken, de aspecten die essentieel gebleken zijn voor het afleren van de tut uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
+Verder werden de design requirements gerangschikt volgens belangrijkheid aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder  uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken, de aspecten die essentieel gebleken zijn voor het afleren van de tut uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
 ![alt text](<SWOT- analyse design requirements.png>)
 
 Aan de hand van bovenstaande weergaven kan bepaald worden wat in volgende fase verder uitgewerkt dient te worden.

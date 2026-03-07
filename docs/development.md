@@ -30,16 +30,6 @@ Dit onderzoek gaf al een concreter beeld van hoe het plan er theoretisch uit moe
 
 Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo kunnen de experten gerichtte feedback geven. Er werden vragen gesteld naar de afbouw van de tool, de algemene duur en de grootte en contequentie van de stappen die in dit afbouwproces diende genomen te worden.
 
-##### Verder verloop
-
-Verder werd het concept tijdens deze fase ontleed in diens functies om zo te bekijken wat verder uitgewerkt dient te worden.
-
-![alt text](<opdeling functies tool.png>)
-
-Ook werden de design requirements gerangschikt volgens belangrijkheid aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder  uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken, de aspecten die essentieel gebleken zijn voor het afleren van de tut uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
-![alt text](<SWOT- analyse design requirements.png>)
-
-Aan de hand van bovenstaande weergaven kan bepaald worden wat in volgende fase verder uitgewerkt dient te worden.
 
 #### Resultaten
 Afleren is een bewust proces waarbij individuen kritisch reflecteren op hun mentale modellen en waarbij een gewoonte plaatsmaakt voor een andere; wat gepaard kan gaan met een gevoel van ongemak (Giulioni, 2018; Krauss, 2019; Inero Valbuena Ancho, 2019). Uit het literatuuronderzoek blijkt dat er geen concreet proces bestaat om iets af te leren, maar dat herhaling, positieve directe bekrachtiging, het vermijden van negatieve ervaringen, kleine beloningsstappen, steun uit de omgeving, intrinsieke motivatie en voldoende tijd belangrijke bevorderende factoren zijn. 
@@ -66,7 +56,16 @@ Uit de expertinterviews kwamen volgdende implicaties voort:
 <!-- rapport hier plaatsen -->
 
 
+#### Verder verloop
 
+Verder werd het concept tijdens deze fase ontleed in diens functies om zo te bekijken wat verder uitgewerkt dient te worden.
+
+![alt text](<opdeling functies tool.png>)
+
+Ook werden de design requirements gerangschikt volgens belangrijkheid aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder  uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken, de aspecten die essentieel gebleken zijn voor het afleren van de tut uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
+![alt text](<SWOT- analyse design requirements.png>)
+
+Aan de hand van bovenstaande weergaven kan bepaald worden wat in volgende fase verder uitgewerkt dient te worden.
 
 <!-- ### Doestellingen
 Wat wilde je bereiken? 

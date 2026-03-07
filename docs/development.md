@@ -5,7 +5,7 @@
 
 ### Development fase 1
 #### Doestellingen
-Na de discovery-fase was de grootste onzekerheid hoe het afbouwplan diende gemaakt te worden. Daarom was het dool om in deze fase dit plan concreet te maken. De hoofdonderzoek vraag in deze fasa luiden:
+Na de discovery-fase was de grootste onzekerheid hoe het afbouwplan diende opgebouwd te worden. Daarom was het doel om in deze fase dit plan concreet te maken. De hoofdonderzoek vragen in deze fase luiden:
 -	Wat houdt afleren concreet in?
 -   Hoe kan dit geïmplementeerd worden in de tool?
 
@@ -71,9 +71,10 @@ Uit de expertinterviews kwamen volgdende implicaties voort:
 
 Verder werd het concept tijdens deze fase ontleed in diens functies om zo te bekijken wat verder uitgewerkt dient te worden.
 
-![alt text](<opdeling functies tool.png>)
+![alt text](<opdeling functies tool..png>)
 
 Ook werden de design requirements gerangschikt volgens belangrijkheid aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder  uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken, de aspecten die essentieel gebleken zijn voor het afleren van de tut uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
+
 ![alt text](<SWOT- analyse design requirements.png>)
 
 Aan de hand van bovenstaande weergaven kan bepaald worden wat in volgende fase verder uitgewerkt dient te worden.

@@ -24,6 +24,11 @@ Functional requirements:
 |1.18|De tool geeft positieve feedback op het moment dat de tut in de tool geplaatst wordt|[Interview rapport WAVE 3](url)|✅|
 |1.19|De tool biedt beperkte keuzevrijheid aan|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |1.20|De tool voorziet tussentijdse beloningen om frustraties te voorkomen|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|1.21|De tool maakt diens werking duidelijk aan ouder en kind|[Interview rapport Develop 1](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|1.22|De tool geeft een tip aan de ouders om sociale beloningen aan het kind te geven|[Interview rapport develop 1 ](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|1.23|De tijdsduur van het vastzetten van de tut zijn in het begin klein en worden groter naarmate het kind verder in het afbouwproces komt|[Interview rapport develop 1 ](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|1.24|De tijdsduur van het vastzetten van de tut kan pas word pas automatisch verlengd als het kind de vorige tijdsduur een aantal keer heeft vervoledigd|[Interview rapport develop 1 ](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|1.25|De tool biedt de ouders de mogelijkheid om meldingen te ontvangen om het consistent gebruik van de tool te garanderen|[Interview rapport develop 1 ](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 Usability requirements:
 |2.1|Ouders en kind voelen zich veilig en comfortabel tijdens het gebruik van de tool |[Definition](definition.md)|✅|
 |2.2|De vastzetduur is instelbaar door de ouders|[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
@@ -32,10 +37,13 @@ Usability requirements:
 |2.5|De instellingen van de tool zijn beveiligd met een kinderslot|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |2.6|De tijd wordt ingesteld door de ouders op basis van een aanpasbaar schema|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |2.7|Het afleerproces vereist bewuste inspanning|[Literatuuronderzoek rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
+|2.8|De tool doorloopt samen met het kind een verhaallijn|[Interview rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
+|2.9|De tool stuurt een indicatie over het einde van het gebruik van de tool aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt|[Interview rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 Vormgeving requirements:
 |3.1|De interface is eenvoudig, kleurrijk en herkenbaar voor jonge kinderen |[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.2|De vormgeving sluit aan bij de leerwereld van het kind|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.3|De interface vermijdt te complexe of gedetailleerde elementen|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
+|3.4|Er wordt een ruimte voorzienbom een eventuele vervanging van de tut in op te brengen, deze ruimte kan van de tool af gehaald worden|[Interview rapport develop 1 ](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 Context requirements:
 |4.1|Het afleren van de tut vindt plaats in emotioneel relevante situaties |[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
 |4.2|De tool is verplaatsbaar naar andere contexten|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|

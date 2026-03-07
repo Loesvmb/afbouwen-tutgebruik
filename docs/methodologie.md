@@ -25,3 +25,5 @@ Hierna werd het finale concept verder uitgedacht, waarvan een storyboard werd ge
 De tweede fase, development, werd uitgevoerd in februari, maart, april, mei en juni. Deze is verder onderverdeeld in 3 fases.
 
 De eerste fase vond plaats in februari en maart.
+Eerst werd een literatuuronderzoek uitgevoerd naar de mogelijke afleerprocessen en de belangrijke factoren hierbij om zo het afleerproces verder te concretiseren. Om hier nog een concreter beeld van te krijgen werden 2 expertinterviews uitgevoerd. Na deze fase kan een concreter plan opgesteld worden. Het concept werd uitgelegd aan de hand van een herwerkt prototype uit de discovery-fase, hierdoor konden de experten gerichte feedback geven.
+Tijdens deze fase werden verder een MoSCoW-analyse van de design requirements en een opsplitsing van het concept in zijn functionele eisen gemaakt. Dit om naar de volgende fase te kunnen besluiten wat prioritair is en verder dient uitgewerkt te worden. 

@@ -39,8 +39,16 @@ o	Moeten deze stappen altijd dezelfde tijdsduur omvatten?
 <!-- protocol hier plaatsen -->
 
 
-Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo kunnen de experten gerichtte feedback geven. Er werden vragen gesteld naar de afbouw van de tool, de algemene duur en de grootte en contequentie van de stappen die in dit afbouwproces diende genomen te worden.
+Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo kunnen de experten gerichtte feedback geven. Er werden vragen gesteld naar de afbouw van de tool, de algemene duur en de grootte en contequentie van de stappen die in dit afbouwproces diende genomen te worden. 
+Het herwerkt prototype ziet er als volgt uit:
+![alt text](<../eindrender Develop 1.png>)
 
+Hierbij werden volgende interfaces getoond op de tablet:
+![alt text](<../interface 1.png>)
+![alt text](<../interface 2.png>)
+![alt text](<../interface 3.png>)
+![alt text](<../interface 4.png>)
+![alt text](<../interface 5.png>)
 
 #### Resultaten
 Afleren is een bewust proces waarbij individuen kritisch reflecteren op hun mentale modellen en waarbij een gewoonte plaatsmaakt voor een andere; wat gepaard kan gaan met een gevoel van ongemak (Giulioni, 2018; Krauss, 2019; Inero Valbuena Ancho, 2019). Uit het literatuuronderzoek blijkt dat er geen concreet proces bestaat om iets af te leren, maar dat herhaling, positieve directe bekrachtiging, het vermijden van negatieve ervaringen, kleine beloningsstappen, steun uit de omgeving, intrinsieke motivatie en voldoende tijd belangrijke bevorderende factoren zijn. 

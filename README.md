@@ -13,12 +13,21 @@ Een slimme tool die kinderen en ouders helpt bij het afbouwen van het tutgebruik
 
 Veel kinderen hechten een sterke emotionele waarde aan hun tut, het is een belangrijk troostmiddel. Het stoppen van het tutgebruik verloopt daarom vaak moeilijk, zowel voor het kind als voor de ouders. De huidige methodes, zoals het meegeven van de tut aan Sinterklaas, de tuttenboom of de tuttenfee, zorgen voor een vrij abrupte en emotionele overgang. Dit leidt tot een, hoewel kortstondige, stressvolle periode voor ouder en kind.
 
-Dit probleem werd onderzocht aan de hand van interviews met ouders (N=4), aangevuld met literatuuronderzoek en benchmarkonderzoek in de discovery-fase. In de definition-fase werden drie onderzoekwaves uitgevoerd, waaruit belangrijke implicaties naar voren kwamen.
+Dit probleem werd onderzocht aan de hand van interviews met ouders (N=4), aangevuld met literatuuronderzoek en benchmarkonderzoek in de discovery-fase. In de definition-fase werden drie onderzoekwaves uitgevoerd, waaruit belangrijke implicaties naar voren kwamen. Het concept werd verder uitgewerkt in de development fase.
 
-Het concept dat hieruit finaal voortvloeide is een interactief huis waarin kinderen hun tut kunnen “parkeren”. De tut wordt voor een instelbare tijd, bepaald door de ouders, vastgezet. Hiervoor wordt een voorgestelde tijdsspanne voorzien door de tool. Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer hoeveel hoever het kind in het proces zit en geeft een indicatie aan het kind wanneer deze de tut terug mag. 
-De kinderen hebben zelf de keuze om na de ingestelde tijd de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verder gelegen sterretjes op de voortgangsbalk.
+Het concept dat hieruit finaal voortvloeide na de eerste fase van de development is een interactief huis waarin kinderen hun tut kunnen “parkeren”. De tut wordt voor een instelbare tijd, bepaald door de ouders, vastgezet. Hiervoor wordt een voorgestelde tijdsspanne voorzien door de tool. De tijdspanne zal aan het begin van het gebruik met kleine stappen toenemen, maar de grootte van deze stappen zal stijgen naarmate het gebruik. Ook bepaald het kind zijn eigen traject doordat het pas naar de volgende stap kan gaan nadat deze tot 2 sterren geraakt is in een welbepaalde stap. 
+
+ Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer hoeveel hoever het kind in het proces zit en geeft een indicatie aan het kind wanneer deze de tut terug mag. 
+De kinderen hebben zelf de keuze om na de ingestelde tijd, 2 sterren, de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verder gelegen sterretjes op de voortgangsbalk.
 Wanneer het kind de tut terugneemt heeft deze een keuze tussen 3 varianten van een beloning. 
 De tijd zonder de tut zal gradueel opbouwen en het zal langer duren om sterretjes te verdienen.
+
+De tool bevat de optie om een vervangend hechtingsmiddel van het kind toe te voegen, hieraan kan het kind dan enkel wanneer deze de tut in de tool opbergt.
+
+Ook hebben de ouders de keuze om meldingen van de tool te krijgen om consequent gebruik te garanderen.
+
+Als laatste bevat de interface van de tool een verhaallijn, waarbij het kind aan het einde van het gebruik zijn tut dient af te staan om iets of iemand te helpen. 
+De tool zal aan de ouders aangeven wanneer het kind de tut eventueel definitief kan afstaan, maar de ouders dienen zelf de eindfase te laten starten.
 
 Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind heeft motivatie door de naderende beloning en de visuele groei zichtbaar van de tool. 
 
@@ -29,7 +38,7 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 - Hero sketch/render/image, vb. -->
 
 <p align="center">
-  <img src="img/heroshot.jpg" width="100%">
+  <img src="eindrender Develop 1.png" width="100%">
 </p>
 
 ## Introductie
@@ -68,6 +77,8 @@ Achteraf gezien hadden pedagogen eerder in het proces betrokken kunnen worden. H
 Deze gebruikerstesten konden nog niet uitgevoerd worden omdat de focus tot nu toe voornamelijk lag op de conceptualisatie van de tool. Hoewel het beloningssysteem werd gevalideerd via interviews, moet dit nog getest worden in realistische gebruikssituaties om te observeren of de motivatie en aandacht van kinderen behouden blijft. Ook de opbouw en ergonomie van de interface vereisen verdere testing. Hierop moet gefocust worden naar de volgende fases toe.
 
 Tot slot verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan communicatie en taakverdeling. Na het opstellen van duidelijke afspraken en verantwoordelijkheden verbeterde de samenwerking.
+
+In de development-fase 1 verliep het vinden van respondenten zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
 
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->

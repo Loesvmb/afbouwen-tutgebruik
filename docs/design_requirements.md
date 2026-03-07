@@ -28,7 +28,7 @@ Functional requirements:
 |1.22|De tool geeft een tip aan de ouders om sociale beloningen aan het kind te geven|[Interview rapport develop 1 ](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |1.23|De tijdsduur van het vastzetten van de tut zijn in het begin klein en worden groter naarmate het kind verder in het afbouwproces komt|[Interview rapport develop 1 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
 |1.24|De tijdsduur van het vastzetten van de tut kan pas word pas automatisch verlengd als het kind de vorige tijdsduur een aantal keer heeft vervolledigt|[Interview rapport develop 1 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
-|1.25|De tool biedt de ouders de mogelijkheid om meldingen te ontvangen om het consistent gebruik van de tool te garanderen|[Interview rapport develop 1 ](../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf)|✅|
+|1.25|De tool biedt de ouders de mogelijkheid om meldingen te ontvangen om het consistent gebruik van de tool te garanderen|[Interview rapport develop 1 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
 Usability requirements:
 |2.1|Ouders en kind voelen zich veilig en comfortabel tijdens het gebruik van de tool |[Definition](definition.md)|✅|
 |2.2|De vastzetduur is instelbaar door de ouders|[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|

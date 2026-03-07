@@ -41,9 +41,11 @@ o	Moeten deze stappen altijd dezelfde tijdsduur omvatten?
 
 Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo kunnen de experten gerichtte feedback geven. Er werden vragen gesteld naar de afbouw van de tool, de algemene duur en de grootte en contequentie van de stappen die in dit afbouwproces diende genomen te worden. 
 Het herwerkt prototype ziet er als volgt uit:
+
 ![alt text](<../eindrender Develop 1.png>)
 
 Hierbij werden volgende interfaces getoond op de tablet:
+
 ![alt text](<../interface 1.png>)
 ![alt text](<../interface 2.png>)
 ![alt text](<../interface 3.png>)
@@ -86,6 +88,9 @@ Ook werden de design requirements gerangschikt volgens belangrijkheid aan de han
 ![alt text](<SWOT- analyse design requirements.png>)
 
 Aan de hand van bovenstaande weergaven kan bepaald worden wat in volgende fase verder uitgewerkt dient te worden.
+
+Ook werd een analyse uitgevoerd op hoe het volgend prototype opgebouwd zou kunnen worden om zo naar een high-level prototype te evolueren:
+
 
 <!-- ### Doestellingen
 Wat wilde je bereiken? 

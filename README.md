@@ -22,8 +22,6 @@ De kinderen hebben zelf de keuze om na de ingestelde tijd, 2 sterren, de tut lan
 Wanneer het kind de tut terugneemt heeft deze een keuze tussen 3 varianten van een beloning. 
 De tijd zonder de tut zal gradueel opbouwen en het zal langer duren om sterretjes te verdienen.
 
-De tool bevat de optie om een vervangend hechtingsmiddel van het kind toe te voegen, hieraan kan het kind dan enkel wanneer deze de tut in de tool opbergt.
-
 Ook hebben de ouders de keuze om meldingen van de tool te krijgen om consequent gebruik te garanderen.
 
 Als laatste bevat de interface van de tool een verhaallijn, waarbij het kind aan het einde van het gebruik zijn tut dient af te staan om iets of iemand te helpen. 
@@ -78,7 +76,7 @@ Deze gebruikerstesten konden nog niet uitgevoerd worden omdat de focus tot nu to
 
 Verder verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan communicatie en taakverdeling. Na het opstellen van duidelijke afspraken en verantwoordelijkheden verbeterde de samenwerking.
 
-Tot slot verliephet vinden van respondenten in de development-fase 1 zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
+Tot slot verliep het vinden van respondenten in de development-fase 1 zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
 
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->
@@ -98,7 +96,7 @@ Finaamwerd er gebruik gemaakt van consensus.ai om voor het literatuuronderzoek (
   * [Protocol](https://drive.google.com/file/d/1ADO25fnMRPdoYmWG6HtR9QI1mex7xOla/view?usp=drive_link)
   * [Rapport](https://drive.google.com/file/d/1cDNH9Jo70q3FyCBBtWTjgxl0r6BWUpSW/view?usp=drive_link)
 
-    
+  
 ### Definition
 * User testing wave 1 (N=4)
   * [interview protocol kinderbegeleiders](<Interview protocol_wave1_kinderbegeleiders.pdf>)
@@ -110,6 +108,15 @@ Finaamwerd er gebruik gemaakt van consensus.ai om voor het literatuuronderzoek (
 * Expert interview wave 3 (N=2)
   * [Interview protocol WAVE 3](<Interview - protocol - experts_wave3.pdf>)
   * [Interview rapport WAVE 3](<Interview_rapport_Wave 3_expert interviews (1).pdf>)
+
+### Development
+* Development 1 
+  * Literatuuronderzoek (N=13)
+    * [protocol](<Literatuuronderzoek protocol_develop1 (1).pdf>)
+    * [rapport](<Literatuur_rapport_develop 1.pdf>)
+  * Experteninterviews (N=2)
+    * [protocol](<Interview - protocol - experten -develop 1 (1).pdf>)
+    * [rapport](Interview_rapport_Develop1.pdf)
 
 ## Licentie
 <!-- > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje    -->

@@ -78,6 +78,18 @@ In onderstaande figuur worden de aanpassingen aan het concept weergegeven op de 
 Het afleren van tutgebruik is een bewust en tijdsintensief proces waarbij een gewoonte stap voor stap vervangen wordt door een nieuwe en dat vaak gepaard gaat met ongemak. Uit het literatuuronderzoek blijkt dat er geen vast proces bestaat om iets af te leren, maar dat factoren zoals herhaling, onmiddellijke bekrachtiging, sociale steun, intrinsieke motivatie en voldoende tijd dit proces ondersteunen. Een tool voor het afleren van tutgebruik moet daarom flexibel zijn en aangepast kunnen worden aan het tempo van het kind, met kleine stappen in het begin en grotere stappen later. Daarnaast spelen een beloningssysteem, een verhaallijn, de begeleiding van ouders een belangrijke rol, waarbij ouders beslissen wanneer de slotfase start waarin het kind de tut definitief afgeeft.
 
 Uit het literatuur onderzoek kwamen geen explicitie methodes naar boven, echter wel veel belangrijke factoren die in het afbouwproces geïmplementeerd dienden te worden. Dit zijnde:
+- De gebruikers moeten direct beloond worden
+- Er is vervanging voor het tutgebruik nodig
+- Het afleerproces moet gebaseerd zijn op herhaling
+- Het afleerproces moet bewuste inspanning vereisen
+- De gebruiker moet ondersteund worden door diens omgeving
+- De duur van de opeenvolgende stappen moet gradueel verlengd worden
+- De tool moet aanpasbaar zijn in tijdsduren afhankelijk van hoe lang het kind de tut gebruikt
+- De tool moet consistent gebruikt worden
+Een versterker is veel effectiever wanneer deze onmiddellijk op het gedrag volgt, zodat het kind direct de link legt tussen het gedrag en het resultaat
+- De versterking moet gericht zijn op de specifieke acties van het kind en niet op de persoonlijkheid van het kind zelf
+- Het duurt ongeveer 10 weken om een gewoonte te breken, al kan het afleren van bepaalde gewoontes meer of minder tijd in beslag nemen
+
 [literatuuronderzoek rapport](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)
 
 Uit de expertinterviews kwamen volgende implicaties voort:

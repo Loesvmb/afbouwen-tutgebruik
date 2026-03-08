@@ -36,4 +36,4 @@ Definition:
     - [rapport](<Interview_rapport_Develop1.pdf>)
 
 
-[Link naar informed consents](https://ugentbe.sharepoint.com/:f:/r/teams/Group.course1292868/Gedeelde%20documenten/General/Definition/Informed%20consents%20interviews?csf=1&web=1&e=deqDVu)
+[Link naar informed consents](https://ugentbe.sharepoint.com/:f:/r/teams/Group.course1292868/Gedeelde%20documenten/General/informed%20consent?csf=1&web=1&e=nTyVQO)

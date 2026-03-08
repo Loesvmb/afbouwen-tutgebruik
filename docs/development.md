@@ -109,6 +109,10 @@ Verder werd het concept tijdens deze fase ontleed in diens functies om zo te bek
 
 ![alt text](<opdeling functies tool..png>)
 
+Voor dezelfde reden werden een costumer journey en task hierarchy opgesteld:
+![alt text](<costumer journey.png>)
+![alt text](<taak-hiërarchie.png>)
+
 Ook werden de design requirements gerangschikt volgens belang aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken. De aspecten die essentieel bleken uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
 
 ![alt text](<SWOT- analyse design requirements.png>)

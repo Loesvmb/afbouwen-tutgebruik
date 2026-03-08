@@ -39,11 +39,12 @@ Usability requirements:
 |2.7|Het afleerproces vereist bewuste inspanning|[Literatuuronderzoek rapport develop 1](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)|✅|
 |2.8|De tool doorloopt samen met het kind een verhaallijn|[Interview rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |2.9|De tool stuurt een indicatie over het einde van het gebruik van de tool aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
+|2.10|De beloningen per ster zijn duidelijk verschillend in waarde voor de kinderen
+|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
 Vormgeving requirements:
 |3.1|De interface is eenvoudig, kleurrijk en herkenbaar voor jonge kinderen |[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.2|De vormgeving sluit aan bij de leerwereld van het kind|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.3|De interface vermijdt te complexe of gedetailleerde elementen|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
-|3.4|Er wordt een ruimte voorzien om een eventuele vervanging van de tut in op te brengen, deze ruimte kan van de tool af gehaald worden|[Interview rapport develop 1 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
 Context requirements:
 |4.1|Het afleren van de tut vindt plaats in emotioneel relevante situaties |[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
 |4.2|De tool is verplaatsbaar naar andere contexten|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|

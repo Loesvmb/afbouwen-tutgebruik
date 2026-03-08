@@ -94,14 +94,15 @@ Een versterker is veel effectiever wanneer deze onmiddellijk op het gedrag volgt
 
 Uit de expertinterviews kwamen volgende implicaties voort:
 
-- De werking van de tut moet duidelijk gemaakt worden aan het kind door de tool met    behulp van de ouders.
-- De tool bezit een tip aan de ouders om het afleerproces te bevorderen: sociale beloningen en de tool op een dagelijks op een vast tijdstip gebruiken
-- De opbouwende stappen van het afleerproces zijn in het begin klein en worden groter naarmate het kind verder in het afbouwproces komt.
-- De afbouwcyclus is afhankelijk van kind tot kind doordat het kind pas naar de volgende stap kan gaan wanneer deze de vorige heeft vervolledigd (volgehouden heeft tot de 2de ster).
-- De ouders moeten zelf kunnen aangeven of ze meldingen wensen te ontvangen om de tool de gebruiken.
-- De tool bevat een verhaallijn, waarbij het kind op het einde zijn tut dient af te staan om iets of iemand in de verhaallijn te helpen.
-- De tool stuurt een indicatie van het einde aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt.
+- De werking van de tool moet duidelijk gemaakt worden aan het kind enerzijds door de tool zelf  en anderzijds met  de hulp van de ouders
+- De tool geeft tips aan de ouders om het afleerproces te bevorderen: sociale beloningen en de tool op een dagelijks op een vast tijdstip gebruiken
+- De opbouwende stappen van het afleerproces zijn in het begin klein en worden groter naarmate het kind verder in het afbouwproces komt
+- De afbouwcyclus is afhankelijk van kind tot kind doordat het kind pas naar de volgende stap kan gaan wanneer deze de vorige heeft vervolledigd (volgehouden heeft tot de 2de ster)
+- De ouders moeten zelf kunnen aangeven of ze meldingen wensen te ontvangen om de tool de gebruiken
+- De tool bevat een verhaallijn, waarbij het kind op het einde zijn tut dient af te staan om iets of iemand in de verhaallijn te helpen
+- De tool stuurt een indicatie van het einde aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt
 - De beloningen per ster zijn duidelijk verschillend in waarde voor de kinderen
+
 
 [expertinterviews rapport](<../reports and protocols/Interview_rapport_Develop1.pdf>)
 

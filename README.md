@@ -17,7 +17,7 @@ Dit probleem werd onderzocht aan de hand van interviews met ouders (N=4), aangev
 
 Het concept dat hieruit finaal voortvloeide na de eerste fase van de development is een interactief huis waarin kinderen hun tut kunnen “parkeren”. De tut wordt voor een instelbare tijd, bepaald door de ouders, vastgezet. Hiervoor wordt een voorgestelde tijdsspanne voorzien door de tool. De tijdspanne zal aan het begin van het gebruik met kleine stappen toenemen, maar de grootte van deze stappen zal stijgen naarmate het gebruik. Ook bepaalt het kind zijn eigen traject doordat het pas naar de volgende stap kan gaan nadat deze tot 2 sterren geraakt is in een welbepaalde stap.
 
- Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer hoeveel hoever het kind in het proces zit en geeft een indicatie aan het kind wanneer deze de tut terug mag. 
+Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer hoeveel hoever het kind in het proces zit en geeft een indicatie aan het kind wanneer deze de tut terug mag. 
 De kinderen hebben zelf de keuze om na de ingestelde tijd, 2 sterren, de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verder gelegen sterretjes op de voortgangsbalk.
 Wanneer het kind de tut terugneemt heeft deze een keuze tussen 3 varianten van een beloning. 
 De tijd zonder de tut zal gradueel opbouwen en het zal langer duren om sterretjes te verdienen.

@@ -39,6 +39,7 @@ Usability requirements:
 |2.7|Het afleerproces vereist bewuste inspanning|[Literatuuronderzoek rapport develop 1](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)|✅|
 |2.8|De tool doorloopt samen met het kind een verhaallijn|[Interview rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |2.9|De tool stuurt een indicatie over het einde van het gebruik van de tool aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
+|2.10|De beloningen per ster zijn duidelijk verschillend in waarde voor de kinderen|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
 Vormgeving requirements:
 |3.1|De interface is eenvoudig, kleurrijk en herkenbaar voor jonge kinderen |[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.2|De vormgeving sluit aan bij de leerwereld van het kind|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|

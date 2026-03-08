@@ -15,7 +15,7 @@ Veel kinderen hechten een sterke emotionele waarde aan hun tut, het is een belan
 
 Dit probleem werd onderzocht aan de hand van interviews met ouders (N=4), aangevuld met literatuuronderzoek en benchmarkonderzoek in de discovery-fase. In de definition-fase werden drie onderzoekwaves uitgevoerd, waaruit belangrijke implicaties naar voren kwamen. Het concept werd verder uitgewerkt in de development fase.
 
-Het concept dat hieruit finaal voortvloeide na de eerste fase van de development is een interactief huis waarin kinderen hun tut kunnen “parkeren”. De tut wordt voor een instelbare tijd, bepaald door de ouders, vastgezet. Hiervoor wordt een voorgestelde tijdsspanne voorzien door de tool. De tijdspanne zal aan het begin van het gebruik met kleine stappen toenemen, maar de grootte van deze stappen zal stijgen naarmate het gebruik. Ook bepaald het kind zijn eigen traject doordat het pas naar de volgende stap kan gaan nadat deze tot 2 sterren geraakt is in een welbepaalde stap. 
+Het concept dat hieruit finaal voortvloeide na de eerste fase van de development is een interactief huis waarin kinderen hun tut kunnen “parkeren”. De tut wordt voor een instelbare tijd, bepaald door de ouders, vastgezet. Hiervoor wordt een voorgestelde tijdsspanne voorzien door de tool. De tijdspanne zal aan het begin van het gebruik met kleine stappen toenemen, maar de grootte van deze stappen zal stijgen naarmate het gebruik. Ook bepaalt het kind zijn eigen traject doordat het pas naar de volgende stap kan gaan nadat deze tot 2 sterren geraakt is in een welbepaalde stap.
 
  Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer hoeveel hoever het kind in het proces zit en geeft een indicatie aan het kind wanneer deze de tut terug mag. 
 De kinderen hebben zelf de keuze om na de ingestelde tijd, 2 sterren, de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verder gelegen sterretjes op de voortgangsbalk.
@@ -46,8 +46,8 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 <!-- Max 300 woorden. -->
 
 De emotionele waarde van een fopspeen is groot. Baby’s zijn vaak sterk gehecht aan hun fopspeen. Zuigen brengt niet alleen voeding, maar ook rust en troost. (Gezinsbond, z.d.)[^1]. ‘Voor veel kinderen is het immers hun troost, hun slaapvriend en soms zelfs hun beste maatje.’ (De opvoedcoach, z.d.)[^2]. 
-Maar de Consumentenbond (z.d.)[^3] stelt dat een fopspeen de groei van het gehemelte kan beïnvloeden doordat de tong naar beneden wordt gedrukt in plaats van het gehemelte te raken. Daarnaast blijkt dat langdurig gebruik de kans op middenoorontstekingen verhoogt. 
-Het is dus belangrijk dat de tut op jonge leeftijd uit het leven van het kind verdwijnt. Momenteel word de tut meegegeven aan Sinterklaas, de tuttenboom of tuttenfee en verdwijnt de tut ogenblikkelijk. Ouders en kind maken hierdoor en kortstondige, zeer emotionele periode door.
+Maar de Consumentenbond (z.d.)[^3] stelt dat een fopspeen de groei van het gehemelte kan beïnvloeden doordat de tong naar beneden wordt gedrukt in plaats van het gehemelte te raken. Daarnaast blijkt dat langdurig gebruik de kans op middenoorontstekingen verhoogd. 
+Het is dus belangrijk dat de tut op jonge leeftijd uit het leven van het kind verdwijnt. Momenteel wordt de tut meegegeven aan Sinterklaas, de tuttenboom of tuttenfee en verdwijnt de tut ogenblikkelijk. Ouders en kind maken hierdoor en kortstondige, zeer emotionele periode door.
 ‘Woede, verdriet, angst: bij het afscheid van het tutje maakt je kindje al deze fases door.’ (De roze doos, z.d.)[^4] Ouders zijn hierdoor ook terughoudend om het gebruik snel af te leren. 
 Het doel van deze tool is om het tutgebruik voor het finale afscheid gradueel af te bouwen om zo de overgang emotioneel te verzachten. Hierbij moeten ouders ondersteund worden in het afbouwproces en moeten zij hier controle over behouden. Verder moet het kind een gevoel van emotionele veiligheid behouden en moet het zelf met een positieve instelling en motivatie in het proces staan.
 
@@ -84,8 +84,8 @@ Tot slot verliep het vinden van respondenten in de development-fase 1 zeer moeiz
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->
 Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van concepten. Verder werd Figma Make gebruikt om een interfase van een concept te prototypen in WAVE 2. Finaal werd Vizcom gebruikt om de 5 concepten van WAVE 1 en het eindconcept te visualiseren aan de hand van eerder gemaakte schetsen en prompts. 
-Verder werd er gebruikgemaakt van speak to tekst AI om de opnames van de intervieuws te transcriberen. Dit gebeurde met TurboScribe en met de built-in functie in MS Teams.
-Finaamwerd er gebruik gemaakt van consensus.ai om voor het literatuuronderzoek (development 1) bronnen te vinden; deze werden samengevat via notebooklm om te identificeren of deze al dan niet waardevol waren voor het onderzoek en welke antwoorden op de onderzoeksvragen ze bevatten. Verder werd deepl. gebruikt voor de vertaling van sommige bronnen.
+Verder werd er gebruikgemaakt van speak to tekst AI om de opnames van de interviews te transcriberen. Dit gebeurde met TurboScribe en met de built-in functie in MS Teams.
+Finaal werd er gebruikgemaakt van consensus.ai om voor het literatuuronderzoek (development 1) bronnen te vinden; deze werden samengevat via Notebooklm om te identificeren of deze al dan niet waardevol waren voor het onderzoek en welke antwoorden op de onderzoeksvragen ze bevatten. Verder werd DeepL gebruikt voor de vertaling van sommige bronnen.
 
 ## Bijlagen
 ### Discovery

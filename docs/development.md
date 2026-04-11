@@ -125,7 +125,10 @@ Voor dezelfde reden werden een costumer journey en task hierarchy opgesteld:
 
 Ook werden de design requirements gerangschikt volgens belang aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken. De aspecten die essentieel bleken uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
 
-![alt text](<SWOT- analyse design requirements.png>)
+<p align="center">
+  <img src="SWOT- analyse design requirements.png" width="500">
+</p>
+
 
 Aan de hand van bovenstaande weergaven kan bepaald worden wat in de volgende fase verder uitgewerkt dient te worden.
 
@@ -155,7 +158,7 @@ Voor het fysiek prototype werd besloten een houten frame te maken met lasercutti
 De garagepoort word gemaakt door een papier naar boven en beneden te schuiven.
 
 <p align="center">
-  <img src="prototype high level.jpeg" width="300">
+  <img src="prototype high level.jpeg" width="400">
 </p>
 
 
@@ -208,7 +211,10 @@ Aan de hand van volgende tabellen werden de cijfers berekend (geraadpleegd op DI
 
 Er werd uitgekomen op volgende tabel:
 
-![alt text](<tabel antropometrische data kinderen.png>)
+<p align="center">
+  <img src="tabel antropometrische data kinderen.png" width="400">
+</p>
+
 
 #### Gebruikerstesten (N= )
 In de gebruikerstesten worden zowel de kinderen als volwassenen bevraagd. De doelgroep zijn alle kinderen tussen 2 en 5 jaar oud, het maakt hierbij niet uit of ze al dan niet een tut gebruiken aangezien puur naar hun begrip en intresse wordt gekeken. De volwassenen zijn hierbij diegenen die het verhaaltje doorlopen met de kinderen om van hun directe feedback te krijgen.

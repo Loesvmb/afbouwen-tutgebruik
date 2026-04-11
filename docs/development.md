@@ -1,8 +1,8 @@
 ## Development
 <!-- Max. 1000 woorden.   
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen. -->
-![alt text](<overzicht development tot en met fase 1.png>)
 
+![alt text](<development 2.png>)
 ### Development fase 1
 #### Doestellingen
 Na de discovery-fase was de grootste onzekerheid hoe het afbouwplan diende opgebouwd te worden. Daarom was het doel om in deze fase dit plan concreet te maken. De hoofdvragen in deze fase luiden:

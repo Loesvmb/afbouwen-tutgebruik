@@ -143,15 +143,28 @@ Protocol:
 ##### Fysiek prototype
 Voor het fysiek prototype werd besloten een houten frame te maken met lasercutting en het dak en de auto met 3D-printing.
 De garagepoort word gemaakt door een papier naar boven en beneden te schuiven.
-![alt text](<prototype high level.jpeg>)
+
+<p align="center">
+  <img src="prototype high level.jpeg" width="200">
+</p>
+
 
 ##### Interface
 De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli aangezien er enkel 2 cycli in de gebruikerstesten doorlopen zullen worden.
 
-![alt text](<Interface 1 protopie.png>)
-![alt text](<Interface 2 Protopie.png>)
-![alt text](<Interface 3 protopie.png>)
-![alt text](<Interface 4 protopie.png>)
+
+<p align="center">
+  <img src="Interface 1 protopie.png" width="200">
+</p>
+<p align="center">
+  <img src="Interface 2 Protopie.png" width="200">
+</p>
+<p align="center">
+  <img src="Interface 3 protopie.png" width="200">
+</p>
+<p align="center">
+  <img src="Interface 4 protopie.png" width="200">
+</p>
 
 [Link naar interface protopie](https://cloud.protopie.io/p/b93e0e5fd02e8d751e5a8298)
 
@@ -164,19 +177,24 @@ Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan d
 ###### Handvat
 Hiervoor werd de taktiek 'design for the tall' toegepast. Dit omdat als de grootste hand het handvat kan vastnemen zonder dat deze vervelend zijn vingers moet plooien, de andere volwassen gebruikers dit ook zullen doen. Dit word getest in de gebruikerstesten. De afmetingen werden gebasseerd op volgende tabel, mannen werden geraadpleegd aangezien zij gemiddeld grotere handen hebben:
 
-![alt text](<tabel antropometrische data volwassenen.png>)
 
+<p align="center">
+  <img src="tabel antropometrische data volwassenen.png" width="200">
+</p>
 
 ###### Afstandsbediening kinderen
 Voor de afmetingen van de afstandbediening was geen zekerheid over welke strategie het beste is, daarom wer besloten 3 strategiën toe te passen en te vergelijken in de gebruikerstest. De 3 strategiën waartussen geen eenduidig antwoord was zij design for the tall, design for the mean en design for the tall. De afmetingen van een gemiddelde volwassen man werden vergeleken met de afmetingen van de kinderen. Zo werd een autosleutel die nu op de markt is 3 maal herschaalt. Met deze afmetingen worden 3 modellen gemaakt waarop aan de hand van sticky dots de ergonomie getest zal worden.
 Aan de hand van volgende tabellen werden de cijfers berekend (geraadpleegd op DIN Belg 2005):
 
 <p align="center">
-  <img src="tabel 2-jarigen.png" width="50">
+  <img src="tabel 2-jarigen.png" width="200">
 </p>
-
-![alt text](<tabel 3-jarigen.png>)
-![alt text](<tabel 5-jarigen.png>)
+<p align="center">
+  <img src="3-jarigen.png" width="200">
+</p>
+<p align="center">
+  <img src="5-jarigen.png" width="200">
+</p>
 
 Er werd uitgekomen op volgende tabel:
 

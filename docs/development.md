@@ -122,6 +122,65 @@ Aan de hand van bovenstaande weergaven kan bepaald worden wat in de volgende fas
 Ook werd een analyse uitgevoerd hoe het volgend prototype opgebouwd zou kunnen worden om zo naar een high-level prototype te evolueren:
 ![alt text](<Deconstructie mogelijk prototype.jpg>)
 
+
+
+### Development fase 2
+#### Doestellingen
+Voor deze was onze voornaamste doelstelling om gebruikerstesten uit te voeren, om zo naar de intresse en het begrip van de gebruikersgroep te toetsen. Daarvoor moet een nieuw, meer high-level prototype gemaakt worden waarmee, aan de hand van Wizard of Oz gebruikerstesten uitgevoerd kunnen worden.
+
+Hiernaast was een andere doelstelling, aangezien we in aanraking komen met de gebruikersgroep, een ergonomische test de doen omtrent het handvat van de tool en een afstandsbediening voor de kinderen.
+
+#### Materiaal & methoden
+##### Benchmarkonderzoek (N=13)
+Om deze fase te realiseren en het begrip te testen moet het eerste hoofdstuk van het boek reeds geschreven worden. Dit benchmarkonderzoek werd verricht om erachter te komen hoe dit best kon opgesteld worden en wat de status quo is in het uitleggen van gebruik aan kinderen. Dit bevat volgende onderzoeksvragen:
+- Wat zijn de verschillende methoden die in hedendaagse producten gebruik worden om iets uit te leggen aan kinderen?
+- Hoe kunnen deze geïntegreerd worden in de tool?
+- Welke verschillende methoden gebruiken boeken om de zintuigen aan te spreken?
+ 
+Protocol: 
+
+#### Prototyping
+##### Fysiek prototype
+Voor het fysiek prototype werd besloten een houten frame te maken met lasercutting en het dak en de auto met 3D-printing.
+De garagepoort word gemaakt door een papier naar boven en beneden te schuiven.
+![alt text](<prototype high level.jpeg>)
+
+##### Interface
+De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli aangezien er enkel 2 cycli in de gebruikerstesten doorlopen zullen worden.
+![alt text](<Interface 1 protopie.png>)
+![alt text](<Interface 2 Protopie.png>)
+![alt text](<Interface 3 protopie.png>)
+![alt text](<Interface 4 protopie.png>)
+[Link naar interface protopie](https://cloud.protopie.io/p/b93e0e5fd02e8d751e5a8298)
+
+##### Instructieboekje
+Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan de kinderen het gebruik van de tool uitlegt. Hiervoor wordt een beer gebruikt die de werking zal uitleggen en die de kinderen helpen. Daarnaast wordt er zo weinig mogelijk teskst gebruikt en zo visueel mogelijk gewerkt.
+[Instructieboekje voor eerste 2 cycli](<Instructieboekje eerste 2 hoofdstukken.pdf>)
+##### Ergonomische test
+###### Handvat
+
+###### Afstandsbediening kinderen
+
+#### Gebruikerstesten (N= )
+In de gebruikerstesten worden zowel de kinderen als volwassenen bevraagd. De doelgroep zijn alle kinderen tussen 2 en 5 jaar oud, het maakt hierbij niet uit of ze al dan niet een tut gebruiken aangezien puur naar hun begrip en intresse wordt gekeken. De volwassenen zijn hierbij diegenen die het verhaaltje doorlopen met de kinderen om van hun directe feedback te krijgen.
+De kinderen worden na het gebruik ondervraagt met een self assesment mannequins en de begeleiders worden in een kort interview bevraagd.
+
+Verder wordt de ergonomie-test uitgevoerd met prototypes die gemodelleerd werden en worden hier sticky dots op geplakt.
+
+De gehele methode is terug te vinden in het protocol:
+
+
+#### Resultaten
+Volgende zaken kwam dit als voornaamste uit het benchmarkonderzoek:
+Bij bijna al de onderzochte producten wordt de verbinding tussen het kind en het product vaak gelegd door het gebruik van vriendjes die geholpen worden door de acties van het kind, deze vriendjes doen de uitleg rond wat het kind moet doen met de tool.
+In al de boeken wordt gebruik gemaakt van korte en heldere zinsconstructies. De boeken bevatten geen complexe verhalen, ze bevatten voornamelijk afbeeldingen en een minimale hoeveelheid aan tekst.
+De uitgebreidde resultaten zijn terug te vinden in het rapport.
+
+#### Conclusies & implicaties
+Volgende zaken konden voor toepassing op de tool afgeleid worden uit het benchmarkonderzoek: hierbij is het belangrijk dat er een vriendje (een beer) nodig is de het kind doorheen de acties begeleid. In het verhaal moeten duidelijke visualisaties zijn van wat het kind moet doen met de tool, hierin moet letterlijk afgebeeld zijn wat het kind moet doen. Het verhaal moet zo weinig mogelijk tekst bevatten.
+Als could kunnen nog sensoriële ervaringen geïmplementeerd worden.
+
+
 <!-- ### Doestellingen
 Wat wilde je bereiken? 
 Welke deelvragen moesten hiervoor beantwoord worden?
@@ -134,3 +193,5 @@ Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (li
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen -->
+
+

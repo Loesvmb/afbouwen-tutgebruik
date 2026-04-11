@@ -147,19 +147,36 @@ De garagepoort word gemaakt door een papier naar boven en beneden te schuiven.
 
 ##### Interface
 De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli aangezien er enkel 2 cycli in de gebruikerstesten doorlopen zullen worden.
+
 ![alt text](<Interface 1 protopie.png>)
 ![alt text](<Interface 2 Protopie.png>)
 ![alt text](<Interface 3 protopie.png>)
 ![alt text](<Interface 4 protopie.png>)
+
 [Link naar interface protopie](https://cloud.protopie.io/p/b93e0e5fd02e8d751e5a8298)
 
 ##### Instructieboekje
 Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan de kinderen het gebruik van de tool uitlegt. Hiervoor wordt een beer gebruikt die de werking zal uitleggen en die de kinderen helpen. Daarnaast wordt er zo weinig mogelijk teskst gebruikt en zo visueel mogelijk gewerkt.
+
 [Instructieboekje voor eerste 2 cycli](<Instructieboekje eerste 2 hoofdstukken.pdf>)
 ##### Ergonomische test
 ###### Handvat
+Hiervoor werd de taktiek 'design for the tall' toegepast. Dit omdat als de grootste hand het handvat kan vastnemen zonder dat deze vervelend zijn vingers moet plooien, de andere volwassen gebruikers dit ook zullen doen. Dit word getest in de gebruikerstesten. De afmetingen werden gebasseerd op volgende tabel, mannen werden geraadpleegd aangezien zij gemiddeld grotere handen hebben:
+
+![alt text](<tabel antropometrische data volwassenen.png>)
+
 
 ###### Afstandsbediening kinderen
+Voor de afmetingen van de afstandbediening was geen zekerheid over welke strategie het beste is, daarom wer besloten 3 strategiën toe te passen en te vergelijken in de gebruikerstest. De 3 strategiën waartussen geen eenduidig antwoord was zij design for the tall, design for the mean en design for the tall. De afmetingen van een gemiddelde volwassen man werden vergeleken met de afmetingen van de kinderen. Zo werd een autosleutel die nu op de markt is 3 maal herschaalt. Met deze afmetingen worden 3 modellen gemaakt waarop aan de hand van sticky dots de ergonomie getest zal worden.
+Aan de hand van volgende tabellen werden de cijfers berekend (geraadpleegd op DIN Belg 2005):
+
+![alt text](<tabel 2-jarigen.png>)
+![alt text](<tabel 3-jarigen.png>)
+![alt text](<tabel 5-jarigen.png>)
+
+Er werd uitgekomen op volgende tabel:
+
+![alt text](<tabel antropometrische data kinderen.png>)
 
 #### Gebruikerstesten (N= )
 In de gebruikerstesten worden zowel de kinderen als volwassenen bevraagd. De doelgroep zijn alle kinderen tussen 2 en 5 jaar oud, het maakt hierbij niet uit of ze al dan niet een tut gebruiken aangezien puur naar hun begrip en intresse wordt gekeken. De volwassenen zijn hierbij diegenen die het verhaaltje doorlopen met de kinderen om van hun directe feedback te krijgen.

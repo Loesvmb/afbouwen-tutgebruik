@@ -126,7 +126,7 @@ Voor dezelfde reden werden een costumer journey en task hierarchy opgesteld:
 Ook werden de design requirements gerangschikt volgens belang aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken. De aspecten die essentieel bleken uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
 
 <p align="center">
-  <img src="SWOT- analyse design requirements.png" width="500">
+  <img src="SWOT- analyse design requirements.png" width="700">
 </p>
 
 
@@ -212,7 +212,7 @@ Aan de hand van volgende tabellen werden de cijfers berekend (geraadpleegd op DI
 Er werd uitgekomen op volgende tabel:
 
 <p align="center">
-  <img src="tabel antropometrische data kinderen.png" width="400">
+  <img src="tabel antropometrische data kinderen.png" width="700">
 </p>
 
 

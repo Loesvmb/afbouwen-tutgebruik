@@ -46,11 +46,21 @@ Het herwerkt prototype ziet er als volgt uit:
 
 Hierbij werden volgende interfaces getoond op de tablet:
 
-![alt text](<../interface 1.png>)
-![alt text](<../interface 2.png>)
-![alt text](<../interface 3.png>)
-![alt text](<../interface 4.png>)
-![alt text](<../interface 5.png>)
+<p align="center">
+  <img src="interface 1.png" width="300">
+
+<p align="center">
+  <img src="interface 2.png" width="300">
+
+<p align="center">
+  <img src="interface 3.png" width="300">
+
+<p align="center">
+  <img src="interface 4.png" width="300">
+<p align="center">
+  <img src="interface 5.png" width="300">
+</p>
+
 
 #### Resultaten
 Afleren is een bewust proces waarbij individuen kritisch reflecteren op hun mentale modellen en waarbij een gewoonte plaatsmaakt voor een andere; dit kan gepaard gaan met een gevoel van ongemak (Giulioni, 2018; Krauss, 2019; Inero Valbuena Ancho, 2019). Uit het literatuuronderzoek blijkt dat er geen concreet proces bestaat om iets af te leren, maar dat herhaling, positieve directe bekrachtiging, het vermijden van negatieve ervaringen, kleine beloningsstappen, steun uit de omgeving, intrinsieke motivatie en voldoende tijd belangrijke bevorderende factoren zijn. 
@@ -145,7 +155,7 @@ Voor het fysiek prototype werd besloten een houten frame te maken met lasercutti
 De garagepoort word gemaakt door een papier naar boven en beneden te schuiven.
 
 <p align="center">
-  <img src="prototype high level.jpeg" width="200">
+  <img src="prototype high level.jpeg" width="300">
 </p>
 
 
@@ -179,7 +189,7 @@ Hiervoor werd de taktiek 'design for the tall' toegepast. Dit omdat als de groot
 
 
 <p align="center">
-  <img src="tabel antropometrische data volwassenen.png" width="200">
+  <img src="tabel antropometrische data volwassenen.png" width="300">
 </p>
 
 ###### Afstandsbediening kinderen
@@ -187,13 +197,13 @@ Voor de afmetingen van de afstandbediening was geen zekerheid over welke strateg
 Aan de hand van volgende tabellen werden de cijfers berekend (geraadpleegd op DIN Belg 2005):
 
 <p align="center">
-  <img src="tabel 2-jarigen.png" width="200">
+  <img src="tabel 2-jarigen.png" width="300">
 </p>
 <p align="center">
-  <img src="3-jarigen.png" width="200">
+  <img src="tabel 3-jarigen.png" width="300">
 </p>
 <p align="center">
-  <img src="5-jarigen.png" width="200">
+  <img src="tabel 5-jarigen.png" width="300">
 </p>
 
 Er werd uitgekomen op volgende tabel:

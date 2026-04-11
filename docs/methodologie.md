@@ -1,10 +1,10 @@
 ## Methodologie
 
 
-![alt text](<tijdslijn tot en met Develop 1.png>)
+![alt text](<tijdslijn development 2.png>)
 
 Prototypes:
-![alt text](<tijdslijn prototypes tot en met develop 1.png>)
+![alt text](<tijdslijn prototypes development 1.png>)
 
 De methodologie van dit project volgt de double diamond. 
 

@@ -154,16 +154,16 @@ De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli a
 
 
 <p align="center">
-  <img src="Interface 1 protopie.png" width="200">
-</p>
+  <img src="Interface 1 protopie.png" width="300">
+
 <p align="center">
-  <img src="Interface 2 Protopie.png" width="200">
-</p>
+  <img src="Interface 2 Protopie.png" width="300">
+
 <p align="center">
-  <img src="Interface 3 protopie.png" width="200">
-</p>
+  <img src="Interface 3 protopie.png" width="300">
+
 <p align="center">
-  <img src="Interface 4 protopie.png" width="200">
+  <img src="Interface 4 protopie.png" width="300">
 </p>
 
 [Link naar interface protopie](https://cloud.protopie.io/p/b93e0e5fd02e8d751e5a8298)

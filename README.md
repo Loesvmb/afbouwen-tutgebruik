@@ -79,7 +79,9 @@ Deze gebruikerstesten konden nog niet uitgevoerd worden omdat de focus tot nu to
 
 Verder verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan communicatie en taakverdeling. Na het opstellen van duidelijke afspraken en verantwoordelijkheden verbeterde de samenwerking.
 
-Tot slot verliep het vinden van respondenten in de development-fase 1 zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
+Het vinden van respondenten in de development-fase 1 verliep zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
+
+In fase 2 verliep het vinden van respondenten zeer moeizaam aangezien de periode waarin de tests uitgevoerd moesten worden rond feestdagen viel. Hiernaast was het moeilijk om een creche te vinden die gewillig was om de tests uit de voeren met de kinderen, wegens dat het scherm in de tool niet bij hun visie aansluit.
 
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->
@@ -120,7 +122,13 @@ Finaal werd er gebruikgemaakt van consensus.ai om voor het literatuuronderzoek (
   * Experteninterviews (N=2)
     * [protocol](<Interview - protocol - experten -develop 1 (1).pdf>)
     * [rapport](<Interview_rapport_Develop1.pdf>)
-
+* Development 2 
+  * Benchmarkonderzoek (N=14)
+    * [protocol](<docs/benchmarkonderzoek protocol_develop2.pdf>)
+    * [rapport](<docs/Benchmark_rapport_develop 2.pdf>)
+  * Gebruikerstesten (N=)
+    * [protocol](<docs/Protcol gebruikerstesten-develop 2.pdf>)
+  
 ## Licentie
 <!-- > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje    -->
 

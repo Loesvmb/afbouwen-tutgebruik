@@ -222,8 +222,8 @@ De kinderen worden na het gebruik ondervraagd met een self assesment mannequins 
 
 Verder wordt de ergonomie-test uitgevoerd met prototypes die gemodelleerd werden en worden hier sticky dots op geplakt. Hier worden foto's van genomen die later geanalyseerd worden.
 
-De gehele methode is terug te vinden in het protocol:
-[Protocol](<Protcol gebruikerstesten-develop 2.pdf>)
+De gehele methode is terug te vinden in het
+[protocol](<Protcol gebruikerstesten-develop 2.pdf>).
 
 #### Resultaten
 Volgende zaken kwamen als voornaamste uit het benchmarkonderzoek:

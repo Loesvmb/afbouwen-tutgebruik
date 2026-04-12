@@ -29,7 +29,7 @@ Eerst werd een literatuuronderzoek uitgevoerd naar de mogelijke afleerprocessen 
 Tijdens deze fase werden verder een MoSCoW-analyse van de design requirements en een opsplitsing van het concept in zijn functionele eisen gemaakt. Dit om naar de volgende fase te kunnen besluiten wat prioritair is en verder dient uitgewerkt te worden. 
 
 De tweede fase vond plaats in maart en april.
-Als eerste stap werd een benchmarkonderzoek uitgevoerd dat onderzocht hoe kinderen nu het gebruik van een tool aangeleerd krijgen om zo dit de implementeren in het eerste hoofdstuk van het verhaal van de tool. 
+Als eerste stap werd een benchmarkonderzoek uitgevoerd dat onderzocht hoe kinderen nu het gebruik van een tool aangeleerd krijgen om deze kennis te implementeren in het eerste hoofdstuk van het verhaal van de tool. 
 Dit verhaal werd gebruikt, samen met een vernieuwd prototype en een interface die handmatig werd gemaakt op protopie, om in gebruikerstesten te toetsen naar de interesse van de gebruikersgroep.
-De intresse wordt geëvalueerd door self-assesment mannequins bij de kinderen en korte interviews bij de begeleiders.
+Deze wordt geëvalueerd door self-assesment mannequins bij de kinderen en korte interviews bij de begeleiders.
 Als laatste worden ergonomische testen uitgevoerd aan de hand van foto's en sticky dots.

@@ -29,8 +29,8 @@ Functional requirements:
 |1.23|De tijdsduur van het vastzetten van de tut zijn in het begin klein en worden groter naarmate het kind verder in het afbouwproces komt|[Interview rapport develop 1 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
 |1.24|De tijdsduur van het vastzetten van de tut kan pas word pas automatisch verlengd als het kind de vorige tijdsduur een aantal keer heeft vervolledigt|[Interview rapport develop 1 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
 |1.25|De tool biedt de ouders de mogelijkheid om meldingen te ontvangen om het consistent gebruik van de tool te garanderen|[Interview rapport develop 1 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
-|1.26|De onboarding flow van de tool bevat een vriendje dat hulp nodig heeft en het kind begeleidt doorheen de acties.|[Benchmark rapport develop 2 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
-|1.27|De tool bevat micro-interacties om functies en statusveranderingen te verduidelijken.|[Benchmark rapport develop 2 ](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
+|1.26|De onboarding flow van de tool bevat een vriendje dat hulp nodig heeft en het kind begeleidt doorheen de acties.|[Benchmark rapport develop 2 ](<Benchmark_rapport_develop 2.pdf>)|✅|[text]
+|1.27|De tool bevat micro-interacties om functies en statusveranderingen te verduidelijken.|[Benchmark rapport develop 2 ](<Benchmark_rapport_develop 2.pdf>)|✅|
 Usability requirements:
 |2.1|Ouders en kind voelen zich veilig en comfortabel tijdens het gebruik van de tool |[Definition](definition.md)|✅|
 |2.2|De vastzetduur is instelbaar door de ouders|[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
@@ -42,8 +42,8 @@ Usability requirements:
 |2.8|De tool doorloopt samen met het kind een verhaallijn|[Interview rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |2.9|De tool stuurt een indicatie over het einde van het gebruik van de tool aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
 |2.10|De beloningen per ster zijn duidelijk verschillend in waarde voor de kinderen|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
-|2.11|Tekst in het verhaal wordt tot een minimum beperkt|[Benchmarkrapport develop 2](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
-|2.12|In het verhaal worden duidelijke visualisaties gegeven van de acties die het kind moet uitvoeren, waarbij letterlijk wordt afgebeeld wat er moet gebeuren.|[Benchmarkrapport develop 2](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
+|2.11|Tekst in het verhaal wordt tot een minimum beperkt|[Benchmarkrapport develop 2](<Benchmark_rapport_develop 2.pdf>)|✅|
+|2.12|In het verhaal worden duidelijke visualisaties gegeven van de acties die het kind moet uitvoeren, waarbij letterlijk wordt afgebeeld wat er moet gebeuren.|[Benchmarkrapport develop 2](<Benchmark_rapport_develop 2.pdf>)|✅|
 Vormgeving requirements:
 |3.1|De interface is eenvoudig, kleurrijk en herkenbaar voor jonge kinderen |[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.2|De vormgeving sluit aan bij de leerwereld van het kind|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
@@ -56,5 +56,5 @@ Context requirements:
 |4.5|De zichtbaarheid van de tut is aanpasbaar en leeftijdsafhankelijk|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |4.6|De tut wordt vervangen door een nieuw troostmiddel|[Literatuuronderzoek rapport develop 1 ](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)|✅|
 |4.7|De tool ondersteund consistent gebruik ervan|[Literatuuronderzoek rapport develop 1 ](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)|✅|
-|4.8|Het vriendje fungeert als begeleider binnen de context van het verhaal.|[Benchmark onderzoek rapport develop 2 ](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)|✅|
-|4.9|Sensorische ervaringen worden geïmplementeerd.|[Benchmark onderzoek rapport develop 1 ](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)|❌|
+|4.8|Het vriendje fungeert als begeleider binnen de context van het verhaal.|[Benchmark onderzoek rapport develop 2 ](<Benchmark_rapport_develop 2.pdf>)|✅|
+|4.9|Sensorische ervaringen worden geïmplementeerd.|[Benchmark onderzoek rapport develop 2 ](<Benchmark_rapport_develop 2.pdf>)|❌|

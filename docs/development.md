@@ -181,6 +181,13 @@ De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli a
 
 [Link naar interface protopie](https://cloud.protopie.io/p/b93e0e5fd02e8d751e5a8298)
 
+De interface bevat volgende legende om volgens Wizard of Oz te werken:
+- Enter: tijdsbalk begint te lopen
+- Backspace: tijdsbalk stopt
+- 1: 1 ster voltooid, er wordt gezegd 'Goed geprobeerd!'
+- 2: 2 sterren voltooid, keuzemenu verschijnt
+- 3: 3 sterren voltooid, keuzemenu verschijnt en er wordt gezegd: 'Goed gedaan!'
+
 ##### Instructieboekje
 Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan de kinderen het gebruik van de tool uitlegt. Hiervoor wordt een beer gebruikt die de werking zal uitleggen en die de kinderen zal helpen. Daarnaast wordt er zo weinig mogelijk teskst gebruikt en zo visueel mogelijk gewerkt.
 

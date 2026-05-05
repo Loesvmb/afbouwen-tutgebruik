@@ -75,7 +75,7 @@ Ouders kunnen telkens ingrijpen wanneer zij vinden dat het proces te snel gaat.
 
 Ouders zouden moeten kunnen kiezen om al dan niet meldingen te ontvangen over het gebruik van de tool om consistent gebruik te verzekeren. Consistentie hangt ook af van het moment van de dag, een terugkerend event in de agenda kan de consistentie dus ook bevorderen. 
 
-Daarnaast kan de tool een verhaallijn bevatten rond het afstaan van de tut en het optioneel een vervangend hechtingsvoorwerp aanbieden. Deze verhaallijn draagt bij aan het derde aspect van de zelfdeteminatietheorie van Edward Deci: verbondenheid.
+Daarnaast kan de tool een verhaallijn bevatten rond het afstaan van de tut en het optioneel een vervangend hechtingsvoorwerp aanbieden. Deze verhaallijn draagt bij aan het derde aspect van de zelfdeteminatietheorie van Edward Deci: verbondenheid. Deze verhaallijn kan geïntegreerd worden in een boek opdat de ouder ook in het proces betrokken is met het kind en om de interacties tussen scherm en kind zo laag mogelijk te houden.
 
 Tot slot kunnen de ouders meldingen ontvangen wanneer het kind mogelijk klaar is voor de definitieve slotfase, de ouders moeten zelf aangeven dat het kind hier ook klaar voor is.
 
@@ -152,8 +152,8 @@ Om deze fase te realiseren en het begrip te testen moet het eerste hoofdstuk van
  
 [Protocol](<benchmarkonderzoek protocol_develop2.pdf>)
 
-#### Prototyping
-##### Fysiek prototype
+##### Prototyping
+###### Fysiek prototype
 Voor het fysiek prototype werd besloten een houten frame te maken met lasercutting, en het dak en de auto met 3D-printing.
 De garagepoort wordt gemaakt door een papier naar boven en beneden te schuiven.
 
@@ -162,7 +162,7 @@ De garagepoort wordt gemaakt door een papier naar boven en beneden te schuiven.
 </p>
 
 
-##### Interface
+###### Interface
 De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli aangezien er enkel 2 cycli in de gebruikerstesten doorlopen zullen worden.
 
 
@@ -188,8 +188,8 @@ De interface bevat volgende legende om volgens Wizard of Oz te werken:
 - 2: 2 sterren voltooid, keuzemenu verschijnt
 - 3: 3 sterren voltooid, keuzemenu verschijnt en er wordt gezegd: 'Goed gedaan!'
 
-##### Instructieboekje
-Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan de kinderen het gebruik van de tool uitlegt. Hiervoor wordt een beer gebruikt die de werking zal uitleggen en die de kinderen zal helpen. Daarnaast wordt er zo weinig mogelijk teskst gebruikt en zo visueel mogelijk gewerkt.
+###### Instructieboekje
+Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan de kinderen het gebruik van de tool uitlegt. Hiervoor wordt een beer gebruikt die de werking zal uitleggen en die de kinderen zal helpen. Daarnaast wordt er zo weinig mogelijk teskst gebruikt en zo visueel mogelijk gewerkt. Er wordt gekozen voor een fysiek boekje om de betrokkenheid te verhogen en de interacties met het scherm zo laag mogelijk te houden.
 
 [Instructieboekje voor eerste 2 cycli](<Instructieboekje eerste 2 hoofdstukken.pdf>)
 
@@ -238,9 +238,85 @@ Bij bijna al de onderzochte producten wordt de verbinding tussen het kind en het
 In al de boeken wordt gebruik gemaakt van korte en heldere zinsconstructies. De boeken bevatten geen complexe verhalen, ze bevatten voornamelijk afbeeldingen en een minimale hoeveelheid aan tekst.
 De uitgebreidde resultaten zijn terug te vinden in het [rapport](<Benchmark_rapport_develop 2.pdf>).
 
+Uit de gebruikerstesten blijkt dat zowel ouders als kinderen de tool over het algemeen goed begrijpen en positief ervaren. Beide kinderen toonden interesse in het verhaal, waarbij de narratieve context een duidelijke rol speelt in het verhogen van betrokkenheid. De motivatie om meerdere cycli te doorlopen was bij beide kinderen aanwezig, wat wijst op een aantrekkelijk en herhaalbaar concept.
+
+Opvallend is dat beide kinderen niet spontaan ontdekten dat de figuren versleept konden worden. 
+De self-assessment mannequins verliepen minder vlot. Hier was aanzienlijke begeleiding nodig en de kinderen kozen voornamelijk extreme antwoorden. Dit wijst op een te hoge cognitieve belasting en/of te veel keuzemogelijkheden.
+
+De ergonomische test toont aan dat een middelgroot formaat van de afstandsbediening het meest geschikt is voor kinderen.
+De ergonomische afmetingen voor het handvat zijn aanvaardbaar.
+
+De volledige analyse van de gebuikerstesten is terug te vinden in het rapport.
+
 #### Conclusies & implicaties
 Volgende zaken konden voor toepassing op de tool afgeleid worden uit het benchmarkonderzoek: hierbij is het belangrijk dat er een vriendje (een beer) nodig is dat het kind doorheen de acties begeleidt. In het verhaal moeten duidelijke visualisaties zijn van wat het kind moet doen met de tool, hierin moet letterlijk afgebeeld zijn wat het kind moet doen. Het verhaal moet zo weinig mogelijk tekst bevatten.
 Als 'could' kunnen nog sensoriële ervaringen geïmplementeerd worden.
+
+De gebruikerstesten tonen aan dat de tool begrijpelijk, motiverend en aantrekkelijk is voor zowel kinderen als ouders. Kinderen zijn in staat om de werking relatief snel te begrijpen en tonen bereidheid om meerdere cycli te doorlopen. Het narratief speelt hierbij een cruciale rol in het verhogen van betrokkenheid.
+Er zijn echter verbeterpunten op vlak van intuïtieve interactie en evaluatiemethoden. Bepaalde functionaliteiten worden niet spontaan ontdekt en de huidige self-assessment methode is niet optimaal afgestemd op de doelgroep, dit kan opgelost worden door maar 3 keuzes van emoties voor te leggen.
+
+
+
+### Development fase 3
+
+## Doelstellingen
+In deze fase is het doel om de laatste vragen te beantwoorden die opkomen over de hele levenscyclus van de tool. Daarnaast, met oog op de finale deliverable, is het doel om een geschikte stijl (CMF) te kiezen die deze tool moet hanteren.
+
+## Materiaal en methoden
+Om deze doelen te bereiken werd gekozen voor een storry-telling benadering, waarbij de hele levenscyclus van de tool in sneltempo met de respondent wordt uitgebeeld. In deze storytelling zitten dan de laatste belangrijke vragen verwerkt.
+Daarnaast wordt een CMF-analyse van kinderspeelgoed uitgevoerd en zal dit getoest worden in dezelfde gebruikerstesten als hierboven.
+
+### CMF
+Om de stijlen die de kinderen voorgelegd zullen worden vast te stellen en algemene tendensen in kinderspeelgoed bloot te leggen werd een benchmarkonderzoek uitgevoerd. Uit de implicaties die hieruit voort kwamen werden vervolgens renders op Vizcom gemaakt.
+
+#### Benchmarkonderzoek (N=24)
+In het benchmarkonderzoek werd kinderspeelgoed onderzocht, opdat de tool in de leefwereld van de kinderen past en diens CMF-strategieën reeds bewezen zijn in het trekken van de aandacht en de veiligheid van de kinderen.
+Hierin stonden volgende onderzoeksvragen centraal:
+- Welke CMF-patronen worden terug gevonden in kinderspeelgoed voor kinderen van 2-5 jaar?
+  - Zijn er hierbij bepaalde CMF-strategieën die specefiek toepasselijk zijn op een interface voor kinderen?
+- Hoe kunnen deze strategieën toegepast worden op de tool?
+Dit onderzoek werd uitgevoerd met behulp van ai (ChatGPT en Copilot).
+In dit onderzoek wordt gezocht naar algemene tendensen in het kinderspeelgoed en in welke stijlen dit voorkomt.
+De uitgebreidere werkwijze is terug te vinden in het protocol.
+
+#### VizCom
+Met de implicaties en stijlen die geïdentificeerd werden in vorig benchmarkonderzoek worden nu 7 renders gemaakt. 4 zijn renders waarin de tool afgebeeld wordt in de stijlen die geïdentificeerd werden. Daarnaast zijn 3 renders in de meest voorkomende structuren, hierbij wordt een staal van het materiaal gelegd. Deze renders worden verder gebruikt in de gebruikerstesten.
+
+### Storytelling - gebruikerstesten
+Er werd besloten om antwoord te vinden op de finale vragen via een storytelling onderzoek. Dit omdat de vragen werden bekomen door een storyboard te maken van de costumer journey, hierbij werden vragen geïdentificeerd en geordend naar prioriteit. Dit werd verwerkt in een story telling.
+
+Zowel het verloop van het opstellen van deze storytelling als heel het verloop van de gebruikerstest staat uitgeschreven in het protocol.
+
+#### Prototyping
+Om bovenstaande storytelling realistisch te maken en vragen te toetsen diende er enkele aanpassingen gemaakt te worden aan het prototype dat gebruikt wordt.
+##### Interface
+Aan de interface worden 2 zaken toegevoegd:
+- een startscherm om de variabelen van het kind in te stellen voor het eerste gebruik.
+- een extra knop bedoelt alleen voor de ouders, waar men via een wiskunde som aan kan, om de eindfase in te gaan, de tool sneller/trager te laten gaan en een eenmalige duur in te stellen.
+- Ook wordt een microinteraction toegevoegd: een hand die bij de eerste cyclus de beloning sleept, dit omdat uit de vorige fase bleek dat deze interactie niet duidelijk was voor de kinderen.
+
+AFBEELDINGEN
+
+##### Tool 
+Aan de tool zelf wordt 1 aanpassing gedaan. Er wordt aan de achterkant een ruimte voorzien voor het boek. Dit om te kijken of ouders dit boek zo makkelijk terugvinden of hier extra signifiers voor nodig zijn.
+
+## Resultaten
+
+Uit het benchmarkonderzoek komen duidelijke en consistente CMF-patronen naar voren binnen kinderspeelgoed en digitale interfaces voor kinderen van 2 tot 5 jaar.
+Er worden 4 categorieën in CMF bij kinderspeelgoed vastgesteld: expressief, duurzaam, educatief en fantasie; elk met hun eigen kenmerken.
+Daarnaast wordt kleur functioneel ingezet, bijvoorbeeld via kleurcodering om interacties te verduidelijken.
+Wat materialen betreft wordt voornamelijk gekozen voor kunststof, hout en textiel. 
+De afwerking toont een duidelijke balans tussen glanzende en matte oppervlakken. Afgeronde vormen en hoeken zijn consistent aanwezig en dragen bij aan een gevoel van veiligheid.
+Voor interfaces zien we dat eenvoud centraal staat.
+Het voledige benchmarkonderzoek en diens resultaten is terug te vinden in het rapport.
+
+## Conclusies en implicaties
+Felle kleuren en duidelijke contrasten ondersteunen snelle visuele verwerking.
+Interfaces volgen hierbij dezelfde principes als fysiek speelgoed, waarbij eenvoud centraal staat.
+Binnen het onderzoek werden bovendien vier duidelijke stijlen geïdentificeerd die elk een eigen invulling geven aan deze principes.
+
+
+
 
 
 <!-- ### Doestellingen

@@ -91,6 +91,7 @@ In fase 3 moesten nieuwe respondenten gezocht worden, dit bleek een uitdaging.
 Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van concepten. Verder werd Figma Make gebruikt om een interfase van een concept te prototypen in WAVE 2. Finaal werd Vizcom gebruikt om de 5 concepten van WAVE 1 en het eindconcept te visualiseren aan de hand van eerder gemaakte schetsen en prompts. 
 Verder werd er gebruikgemaakt van speak to tekst AI om de opnames van de interviews te transcriberen. Dit gebeurde met TurboScribe en met de built-in functie in MS Teams.
 Finaal werd er gebruikgemaakt van consensus.ai om voor het literatuuronderzoek (development 1) bronnen te vinden; deze werden samengevat via Notebooklm om te identificeren of deze al dan niet waardevol waren voor het onderzoek en welke antwoorden op de onderzoeksvragen ze bevatten. Verder werd DeepL gebruikt voor de vertaling van sommige bronnen.
+ChatGPT en Copilot werden gebruikt om benchmarks te identificeren en analyseren in Develop 2 en 3. Vizcom werd wederom gebruikt in Develop 3 om renders te maken.
 
 ## Bijlagen
 ### Discovery

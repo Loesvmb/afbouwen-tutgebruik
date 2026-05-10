@@ -2,6 +2,9 @@
 De definition-fase bestaat uit drie onderzoek waves. Deze werden uitgevoerd tussen 01/11/2025 en 15/01/2026.
 
 ![alt text](<definition schema.png>)
+<p align="center">
+  <em>verloop defenition </em>
+
 ### WAVE1
 #### Doestellingen
 Het doel van deze WAVE was een duidelijker beeld te krijgen in welke vorm ouders de tool het meest bevorderlijk vonden. Daarnaast moest er een dieper inzicht verkregen worden in het tutgebruik en de bereidheid van scholen en opvang om ondersteuning te bieden.
@@ -19,18 +22,28 @@ Vijf concepten werden vergeleken via storyboards en realistische Vizcom-visualis
 
 Concept 1:
 ![alt text](image-14.png)![alt text](image-5.png)
+<p align="center">
+  <em>concept 1 definition WAVE 1</em>
 
 Concept 2:
 ![alt text](<storyboard slotje.png>)![alt text](image-20.png)
+<p align="center">
+  <em>concept 2 definition WAVE 1</em>
 
 Concept 3:
 ![alt text](image-8.png)![alt text](image-9.png)
+<p align="center">
+  <em>concept 3 definition WAVE 1</em>
 
 Concept 4:
 ![alt text](image-10.png)![alt text](image-11.png)
+<p align="center">
+  <em>concept 4 definition WAVE 1</em>
 
 Concept 5:
 ![alt text](image-12.png)![alt text](image-13.png)
+<p align="center">
+  <em>concept 5 definition WAVE 1</em>
  
 In onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
  - Ouders:
@@ -59,6 +72,8 @@ Uit de gesprekken blijkt dat de tut voornamelijk een emotioneel troostmiddel is.
 Een visuele opbouw van tijd, directe feedback en beloningen vergroten de motivatie. De tut moet tijdelijk vastgezet kunnen worden zodat kinderen omgaan met emoties zonder afhankelijkheid van de tut. 
 Tot slot kunnen auditieve hulpmiddelen bijdragen aan een kalmerend effect.
 
+Deze implicaties werden verwerkt in de [design requirements](design_requirements.md). 
+
 ## WAVE 2
 #### Doestellingen
 Het doel is te achterhalen welke conceptualisatie het beste is. Dit door de implicaties van de eerste wave toe te passen op 2 nieuwe concepten, om opnieuw aan variety prototyping te doen. Hierbij kan achterhaald worden welke aspecten belangrijk zijn en missen.
@@ -79,10 +94,14 @@ Concept 1:
 ![alt text](image-17.png)
 ![alt text](image-18.png)
 ![alt text](image-19.png)
+<p align="center">
+  <em>concept 1 definition WAVE 2</em>
 
 Concept 2:
 ![alt text](image-15.png)
 ![alt text](image-16.png)
+<p align="center">
+  <em>concept 2 definition WAVE 2</em>
 
 In onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
 [Inerview protocol WAVE 2](<../reports and protocols/Interview - protocol - ouders -wave2.pdf>)
@@ -115,6 +134,7 @@ Volgende implicaties werden gevonden:
 -	Verplaatsbare en meeneembare tool
 -	Verder onderzoek nodig naar de zichtbaarheid van de tut
 
+Deze implicaties werden verwerkt in de [design requirements](design_requirements.md). 
 
 ## WAVE 3
 #### Doestellingen
@@ -158,3 +178,5 @@ Volgende implicaties werden bekomen:
 -	De interface simpel, kleurrijk en herkenbaar voor het kind, met aanpasbare zichtbaarheid van de tut.
 -	Ouders actief betrokken worden bij feedback en beloning.
 -	De interface in de leefwereld van de kinderen blijft.
+
+Deze implicaties werden verwerkt in de [design requirements](design_requirements.md). 

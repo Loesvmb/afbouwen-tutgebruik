@@ -1,45 +1,57 @@
 <!-- Add PDF versions of your protocols and reports here.   -->
 
 Discovery:
-- Literatuuronderzoek:
-        [Protocol](<Literatuuronderzoek protocol_Vanmeerbeek_Loes.pdf>)
-        [Rapport](<Literatuuronderzoek Rapport_Vanmeerbeek_Loes.pdf>)
+  * Literatuuronderzoek:
+    * [Protocol](<Literatuuronderzoek protocol_Vanmeerbeek_Loes.pdf>)
+    * [Rapport](<Literatuuronderzoek Rapport_Vanmeerbeek_Loes.pdf>)
 
-- Benchmarkonderzoek:
-        [Protocol](<Benchmarking protocol_Vanmeerbeek Loes (1).pdf>)
-        [Rapport](Benchmarkingrapport_Vanmeerbeek_Loes.pdf)
+  * Benchmarkonderzoek:
+    * [Protocol](<Benchmarking protocol_Vanmeerbeek Loes (1).pdf>)
+    * [Rapport](Benchmarkingrapport_Vanmeerbeek_Loes.pdf)
 
-- Gebruikersinterviews:
-        [Protocol](<Interview protocol_Vanmeerbeek_Loes.pdf>)
-        [Rapport](<Interview Rapport_Vanmeerbeek_Loes.pdf>)
+  * Gebruikersinterviews:
+    * [Protocol](<Interview protocol_Vanmeerbeek_Loes.pdf>)
+    * [Rapport](<Interview Rapport_Vanmeerbeek_Loes.pdf>)
 
 Definition:
 - Gebruikersinterviews WAVE 1:
-   -  Ouders
-        [Protocol](<Interview - protocol - ouders -wave1.pdf>)
-   -  Kinderbegeleiders
-        [Protocol](<Interview protocol_wave1_kinderbegeleiders.pdf>)
-        [Rapport](<Interview_rapport_Wave 1.pdf>)
-
+  * Ouders
+    * [Protocol](<Interview - protocol - ouders -wave1.pdf>)
+  * Kinderbegeleiders
+    * [Protocol](<Interview protocol_wave1_kinderbegeleiders.pdf>)
+    * [Rapport](<Interview_rapport_Wave 1.pdf>)
 - Gebruikersinterviews WAVE 2:
-        [Protocol](<Interview - protocol - ouders -wave2.pdf>)
-        [Rapport](<Interview_rapport_Wave 2.pdf>)
+    * [Protocol](<Interview - protocol - ouders -wave2.pdf>)
+    * [Rapport](<Interview_rapport_Wave 2.pdf>)
 - Expertinterviews WAVE 3:
-        [Protocol](<Interview - protocol - expert-wave3.pdf>)
-        [Rapport](<Interview_rapport_Wave 3_expert interviews.pdf>)
+    * [Protocol](<Interview - protocol - expert-wave3.pdf>)
+    * [Rapport](<Interview_rapport_Wave 3_expert interviews.pdf>)
+
 Development
 - Development 1 
-  - Literatuuronderzoek (N=13)
-    - [protocol](<Literatuuronderzoek protocol_develop1.pdf>)
-    - [rapport](<Literatuur_rapport_develop 1.pdf>)
-  - Experteninterviews (N=2)
-    - [protocol](<Interview - protocol - experten -develop 1 (1).pdf>)
-    - [rapport](<Interview_rapport_Develop1.pdf>)
+  * Literatuuronderzoek (N=13)
+    * [protocol](<Literatuuronderzoek protocol_develop1.pdf>)
+    * [rapport](<Literatuur_rapport_develop 1.pdf>)
+  * Experteninterviews (N=2)
+    * [protocol](<Interview - protocol - experten -develop 1 (1).pdf>)
+    * [rapport](<Interview_rapport_Develop1.pdf>)
 - Development 2
   * Benchmarkonderzoek (N=14)
     * [protocol](<benchmarkonderzoek protocol_develop2.pdf>)
     * [rapport](<Benchmark_rapport_develop 2.pdf>)
   * Gebruikerstesten (N=)
     * [protocol](<Protcol gebruikerstesten-develop 2.pdf>)
+- Development 3
+  * Benchmarkonderzoek (N=24)
+    * [protocol](<benchmarkonderzoek protocol_develop3.pdf>)
+    * [rapport](<Benchmark_rapport_develop 3.pdf>)
+  * Vizcom werkwijze
+    * [werkwijze](<Vizcom_werkwijze_develop 3.pdf>)
+  * Gebruikerstesten (N=2)
+    * [protocol](<gebruikerstesten protocol develop 3.pdf>)
+    * [rapport](<Gebruiksonderzoek_rapport_develop 3.pdf>)
+    
+
+
 
 [Link naar informed consents](https://ugentbe.sharepoint.com/:f:/r/teams/Group.course1292868/Gedeelde%20documenten/General/informed%20consent?csf=1&web=1&e=nTyVQO)

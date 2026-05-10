@@ -24,7 +24,8 @@ De tijd zonder de tut zal gradueel opbouwen en het zal langer duren om sterretje
 
 Ook hebben de ouders de keuze om meldingen van de tool te krijgen om consequent gebruik te garanderen.
 
-Als laatste bevat de interface van de tool een verhaallijn, waarbij het kind aan het einde van het gebruik zijn tut dient af te staan om iets of iemand te helpen. 
+Als laatste bevat de interface van de tool een verhaallijn, waarbij het kind aan het einde van het gebruik zijn tut dient af te staan om iets of iemand te helpen. Het karakter uit het verhaal krijgen ze als knuffel om als troost te fungeren, wanneer de tut finaal wordt afgestaan.
+
 De tool zal aan de ouders aangeven wanneer het kind de tut eventueel definitief kan afstaan, maar de ouders dienen zelf de eindfase te laten starten.
 
 Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind heeft motivatie door de naderende beloning en de visuele groei zichtbaar van de tool. 
@@ -36,7 +37,7 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 - Hero sketch/render/image, vb. -->
 
 <p align="center">
-  <img src="heroshot 3 sterren.png" width="100%">
+  <img src="eroshot met garage.png" width="100%">
 </p>
 <p align="center">
   <img src="storyboard.jpg" width="100%">
@@ -83,6 +84,8 @@ Het vinden van respondenten in de development-fase 1 verliep zeer moeizaam. Dit 
 
 In fase 2 verliep het vinden van respondenten zeer moeizaam aangezien de periode waarin de tests uitgevoerd moesten worden rond feestdagen viel. Hiernaast was het moeilijk om een creche te vinden die gewillig was om de tests uit de voeren met de kinderen, wegens dat het scherm in de tool niet bij hun visie aansluit.
 
+In fase 3 moesten nieuwe respondenten gezocht worden, dit bleek een uitdaging. 
+
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->
 Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van concepten. Verder werd Figma Make gebruikt om een interfase van een concept te prototypen in WAVE 2. Finaal werd Vizcom gebruikt om de 5 concepten van WAVE 1 en het eindconcept te visualiseren aan de hand van eerder gemaakte schetsen en prompts. 
@@ -128,7 +131,16 @@ Finaal werd er gebruikgemaakt van consensus.ai om voor het literatuuronderzoek (
     * [rapport](<docs/Benchmark_rapport_develop 2.pdf>)
   * Gebruikerstesten (N=)
     * [protocol](<docs/Protcol gebruikerstesten-develop 2.pdf>)
-  
+- Development 3
+    * Benchmarkonderzoek (N=24)
+      * [protocol](<benchmarkonderzoek protocol_develop3.pdf>)
+      * [rapport](<Benchmark_rapport_develop 3.pdf>)
+    * Vizcom werkwijze
+      * [werkwijze](<Vizcom_werkwijze_develop 3.pdf>)
+    * Gebruikerstesten (N=2)
+      * [protocol](<gebruikerstesten protocol develop 3.pdf>)
+      * [rapport](<Gebruiksonderzoek_rapport_develop 3.pdf>)
+      
 ## Licentie
 <!-- > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje    -->
 

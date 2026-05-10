@@ -37,7 +37,7 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 - Hero sketch/render/image, vb. -->
 
 <p align="center">
-  <img src="eroshot met garage.png" width="100%">
+  <img src="heroshot met garage.png" width="100%">
 </p>
 <p align="center">
   <img src="storyboard.jpg" width="100%">

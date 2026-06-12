@@ -138,8 +138,9 @@ ChatGPT en Copilot werden gebruikt om benchmarks te identificeren en analyseren 
   * Benchmarkonderzoek (N=14)
     * [protocol](<reports and protocols/benchmarkonderzoek protocol_develop2.pdf>)
     * [rapport](<reports and protocols/Benchmark_rapport_develop 2.pdf>)
-  * Gebruikerstesten (N=)
+  * Gebruikerstesten (N=3)
     * [protocol](<reports and protocols/Protcol gebruikerstesten-develop 2.pdf>)
+    * [rapport](<reports and protocols/Protcol gebruikerstesten-develop 2.pdf>)
 - Development 3
     * Benchmarkonderzoek (N=24)
       * [protocol](<reports and protocols/benchmarkonderzoek protocol_develop3.pdf>)

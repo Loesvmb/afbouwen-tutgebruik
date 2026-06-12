@@ -232,8 +232,8 @@ Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan d
 
 [Instructieboekje voor eerste 2 cycli](<../reports and protocols/Instructieboekje eerste 2 hoofdstukken.pdf>)
 
-##### Ergonomische test
-###### Handvat
+##### Ergonomische test 
+###### Handvat (N=2)
 Hiervoor werd de tactiek 'design for the tall' toegepast. Dit omdat als de grootste hand het handvat kan vastnemen zonder dat deze vervelend de vingers moet plooien, andere volwassen gebruikers dit ook kunnen doen. Dit wordt getest in de gebruikerstesten. De afmetingen werden gebaseerd op volgende tabel, mannen werden geraadpleegd aangezien zij gemiddeld grotere handen hebben:
 
 
@@ -242,7 +242,7 @@ Hiervoor werd de tactiek 'design for the tall' toegepast. Dit omdat als de groot
   <em> tabel antropometrische data volwassenen </em>
 </p>
 
-###### Afstandsbediening kinderen
+###### Afstandsbediening kinderen (N=2)
 Voor de afmetingen van de afstandsbediening was geen zekerheid over welke strategie het beste is, daarom werd besloten 3 strategieën toe te passen en te vergelijken in de gebruikerstest. De 3 strategieën waartussen geen eenduidig antwoord was zijn: design for the tall, design for the mean en design for the small. De afmetingen van een gemiddeld volwassen man werden vergeleken met de afmetingen van de kinderen. Zo werd een autosleutel die nu op de markt is 3 maal verschaalt. Met deze afmetingen worden 3 modellen gemaakt waarop aan de hand van sticky dots de ergonomie getest zal worden.
 
 Er werd uitgekomen op volgende tabel:
@@ -287,7 +287,7 @@ De ergonomische test toont aan dat een middelgroot formaat van de afstandsbedien
 </p>
 De ergonomische afmetingen voor het handvat zijn aanvaardbaar.
 
-De volledige analyse van de gebuikerstesten is terug te vinden in het rapport.
+De volledige analyse van de gebuikerstesten is terug te vinden in het [rapport](<../reports and protocols/Protcol gebruikerstesten-develop 2.pdf>).
 
 #### Conclusies & implicaties
 ##### Benchmarkonderzoek (N=24)

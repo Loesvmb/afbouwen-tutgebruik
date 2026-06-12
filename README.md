@@ -39,7 +39,7 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
   <img src="img/eindrender.png" width="100%">
 </p>
 <p align="center">
-  <img src="storyboard.jpg" width="100%">
+  <img src="img/storyboard.jpg" width="100%">
 </p>
 
 ## Introductie

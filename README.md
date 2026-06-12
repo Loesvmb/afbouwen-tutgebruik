@@ -1,4 +1,4 @@
-# Afbouwen tutgebruik
+# Beer verhuist
 Een slimme tool die kinderen en ouders helpt bij het afbouwen van het tutgebruik.
 
 🛠️ Built by Arne Oosterbosch & Loes Vanmeerbeek
@@ -17,10 +17,9 @@ Dit probleem werd onderzocht aan de hand van interviews met ouders (N=4), aangev
 
 Het concept dat hieruit finaal voortvloeide na de eerste fase van de development is een interactief huis waarin kinderen hun tut kunnen “parkeren”. De tut wordt voor een instelbare tijd, bepaald door de ouders, vastgezet. Hiervoor wordt een voorgestelde tijdsspanne voorzien door de tool. De tijdspanne zal aan het begin van het gebruik met kleine stappen toenemen, maar de grootte van deze stappen zal stijgen naarmate het gebruik. Ook bepaalt het kind zijn eigen traject doordat het pas naar de volgende stap kan gaan nadat deze tot 2 sterren geraakt is in een welbepaalde stap.
 
-Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer hoeveel hoever het kind in het proces zit en geeft een indicatie aan het kind wanneer deze de tut terug mag. 
+Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voortgangsbalk, deze balk geeft weer  hoever het kind in het proces zit van de cyclus. 
 De kinderen hebben zelf de keuze om na de ingestelde tijd, 2 sterren, de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verder gelegen sterretjes op de voortgangsbalk.
-Wanneer het kind de tut terugneemt heeft deze een keuze tussen 3 varianten van een beloning. 
-De tijd zonder de tut zal gradueel opbouwen en het zal langer duren om sterretjes te verdienen.
+Wanneer het kind de tut terugneemt heeft deze een keuze tussen 3 varianten van een beloning, deze kan in het huis geplaatst worden om zo zichtbare vooruitgang op langere termijn te krijgen. 
 
 Ook hebben de ouders de keuze om meldingen van de tool te krijgen om consequent gebruik te garanderen.
 
@@ -37,7 +36,7 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 - Hero sketch/render/image, vb. -->
 
 <p align="center">
-  <img src="heroshot met garage.png" width="100%">
+  <img src="img/eindrender.png" width="100%">
 </p>
 <p align="center">
   <img src="storyboard.jpg" width="100%">
@@ -68,23 +67,28 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 <!-- Max. 500 woorden -->
 Dit ontwerpproces bevatte zowel sterke punten als aspecten die voor verbetering vatbaar waren.
 
-In de definition-fase werd een goed begrip van de probleemruimte verkregen door middel van literatuur- en benchmarkonderzoek specifiek voor de probleemruimte. Daarnaast werd in elk interview expliciet gepolst naar ervaringen met tutgebruik en de bijbehorende struikelpunten.
-
-Een belangrijke uitdaging in beide onderzoeksfases was het vinden van respondenten die voldeden aan de doelgroep (ouders met kinderen tussen 2 en 5 jaar). Ook het organiseren van thuisinterviews bleek moeilijk door het afstandsverschil tussen school en thuis. Aangezien de respondenten zich voornamelijk in onze thuisregio’s bevonden was het lastig om geschikte interviewmomenten te vinden, zeker in het weekend wanneer zij tijd met hun kinderen wilden doorbrengen.
-
+### Definition
+In de definition-fase werd een goed begrip van de probleemruimte verkregen door middel van literatuur- en benchmarkonderzoek specifiek voor de probleemruimte. Daarnaast werd in elk interview expliciet gepolst naar ervaringen met tutgebruik en de bijbehorende struikelpunten. 
 Het opnemen van de interviews bleek een grote meerwaarde. Door deze opnames te her beluisteren en te transcriberen konden alle relevante inzichten zorgvuldig worden vastgelegd, wat de kwaliteit en betrouwbaarheid van de analyse verhoogde.
 
-Achteraf gezien hadden pedagogen eerder in het proces betrokken kunnen worden. Hun inzichten waren zeer waardevol en bevestigden grotendeels de resultaten uit WAVE 1 en WAVE 2. Indien zij vroeger geraadpleegd waren, had dit mogelijk sneller geleid tot het eindconcept en had eerder gestart kunnen worden met gebruikerstesten.
+### Discovery
+In WAVE 3 werden pedagogen geraadpleegd, achteraf gezien hadden deze eerder in het proces betrokken kunnen worden. Hun inzichten waren zeer waardevol en bevestigden grotendeels de resultaten uit WAVE 1 en WAVE 2. Indien zij vroeger geraadpleegd waren, had dit mogelijk sneller geleid tot het eindconcept en had eerder gestart kunnen worden met gebruikerstesten.
 
 Deze gebruikerstesten konden nog niet uitgevoerd worden omdat de focus tot nu toe voornamelijk lag op de conceptualisatie van de tool. Hoewel het beloningssysteem werd gevalideerd via interviews, moet dit nog getest worden in realistische gebruikssituaties om te observeren of de motivatie en aandacht van kinderen behouden blijft. Ook de opbouw en ergonomie van de interface vereisen verdere testing. Hierop moet gefocust worden naar de volgende fases toe.
 
 Verder verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan communicatie en taakverdeling. Na het opstellen van duidelijke afspraken en verantwoordelijkheden verbeterde de samenwerking.
 
-Het vinden van respondenten in de development-fase 1 verliep zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
+### Development
+Het vinden van literatuur in de development-fase 1 verliep zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
 
-In fase 2 verliep het vinden van respondenten zeer moeizaam aangezien de periode waarin de tests uitgevoerd moesten worden rond feestdagen viel. Hiernaast was het moeilijk om een creche te vinden die gewillig was om de tests uit de voeren met de kinderen, wegens dat het scherm in de tool niet bij hun visie aansluit.
+In fase 2 verliep het vinden van respondenten zeer moeizaam aangezien de periode waarin de tests uitgevoerd moesten worden rond feestdagen viel. Hiernaast was het moeilijk om een crèche te vinden die gewillig was om de tests uit de voeren met de kinderen, wegens dat het scherm in de tool niet bij hun visie aansluit. 
 
-In fase 3 moesten nieuwe respondenten gezocht worden, dit bleek een uitdaging. 
+In fase 3 kon geen derde gebruikerstest uitgevoerd werden omdat een respondent op het laatste moment de afspraak niet meer kon laten doorgaan. 
+
+### Algemeen
+
+Een belangrijke uitdaging in de onderzoeksfases was het vinden van respondenten die voldeden aan de doelgroep (ouders met kinderen tussen 2 en 5 jaar). Ook het organiseren van thuisinterviews en -tests bleek moeilijk door het afstandsverschil tussen school en thuis. Aangezien de respondenten zich voornamelijk in onze thuisregio’s bevonden was het lastig om geschikte interviewmomenten te vinden, zeker in het weekend wanneer zij tijd met hun kinderen wilden doorbrengen.
+
 
 ## Noot inzake het gebruik van AI
 <!-- Licht toe op welke manier je AI gebruikte in dit project. -->
@@ -92,6 +96,8 @@ Ai, specifiek ChatGPT, werd gebruikt als inspiratiebron voor ideegeneratie van c
 Verder werd er gebruikgemaakt van speak to tekst AI om de opnames van de interviews te transcriberen. Dit gebeurde met TurboScribe en met de built-in functie in MS Teams.
 Finaal werd er gebruikgemaakt van consensus.ai om voor het literatuuronderzoek (development 1) bronnen te vinden; deze werden samengevat via Notebooklm om te identificeren of deze al dan niet waardevol waren voor het onderzoek en welke antwoorden op de onderzoeksvragen ze bevatten. Verder werd DeepL gebruikt voor de vertaling van sommige bronnen.
 ChatGPT en Copilot werden gebruikt om benchmarks te identificeren en analyseren in Develop 2 en 3. Vizcom werd wederom gebruikt in Develop 3 om renders te maken.
+
+
 
 ## Bijlagen
 ### Discovery

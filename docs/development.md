@@ -252,7 +252,7 @@ Er werd uitgekomen op volgende tabel:
   <em>afmetingen afstandsbedieningen Develop 2 </em>
 </p>
 
-#### Gebruikerstesten (N=2)
+#### Gebruikerstesten (N=3)
 In de gebruikerstesten worden zowel kinderen als volwassenen bevraagd. De doelgroep zijn kinderen tussen 2 en 5 jaar oud, het maakt hierbij niet uit of ze al dan niet een tut gebruiken aangezien alleen naar hun begrip en interesse wordt gekeken. De volwassenen zijn hierbij diegenen die het verhaaltje doorlopen met de kinderen om van hen directe feedback te krijgen.
 De kinderen worden na het gebruik ondervraagd met een self assesment mannequins en de begeleiders worden in een kort interview bevraagd.
 
@@ -268,7 +268,7 @@ Bij bijna al de onderzochte producten wordt de verbinding tussen het kind en het
 In al de boeken wordt gebruik gemaakt van korte en heldere zinsconstructies. De boeken bevatten geen complexe verhalen, ze bevatten voornamelijk afbeeldingen en een minimale hoeveelheid aan tekst.
 De uitgebreidde resultaten zijn terug te vinden in het [rapport](<Benchmark_rapport_develop 2.pdf>).
 
-##### Gebruikerstesten (N=2)
+##### Gebruikerstesten (N=3)
 Uit de gebruikerstesten blijkt dat zowel ouders als kinderen de tool over het algemeen goed begrijpen en positief ervaren. Beide kinderen toonden interesse in het verhaal, waarbij de narratieve context een duidelijke rol speelt in het verhogen van betrokkenheid. De motivatie om meerdere cycli te doorlopen was bij beide kinderen aanwezig, wat wijst op een aantrekkelijk en herhaalbaar concept.
 
 
@@ -294,7 +294,7 @@ De volledige analyse van de gebuikerstesten is terug te vinden in het rapport.
 Volgende zaken konden voor toepassing op de tool afgeleid worden uit het benchmarkonderzoek: hierbij is het belangrijk dat er een vriendje (een beer) nodig is dat het kind doorheen de acties begeleidt. In het verhaal moeten duidelijke visualisaties zijn van wat het kind moet doen met de tool, hierin moet letterlijk afgebeeld zijn wat het kind moet doen. Het verhaal moet zo weinig mogelijk tekst bevatten.
 Als 'could' kunnen nog sensoriële ervaringen geïmplementeerd worden.
 
-##### Gebruikerstesten (N=2)
+##### Gebruikerstesten (N=3)
 De gebruikerstesten tonen aan dat de tool begrijpelijk, motiverend en aantrekkelijk is voor zowel kinderen als ouders. Kinderen zijn in staat om de werking relatief snel te begrijpen en tonen bereidheid om meerdere cycli te doorlopen. Het narratief speelt hierbij een cruciale rol in het verhogen van betrokkenheid.
 Er zijn echter verbeterpunten op vlak van intuïtieve interactie en evaluatiemethoden. Bepaalde functionaliteiten worden niet spontaan ontdekt en de huidige self-assessment methode is niet optimaal afgestemd op de doelgroep, dit kan opgelost worden door maar 3 keuzes van emoties voor te leggen.
 
@@ -412,12 +412,12 @@ Voor interfaces zien we dat eenvoud centraal staat.
 Het volledige benchmarkonderzoek en diens resultaten zijn terug te vinden in het [rapport.](<Benchmark_rapport_develop 3.pdf>)
 
 ##### Gebruikerstesten (N=2)
-Respondent 1 begreep de werking van de tool snel via de uitleg op de doos en de handleiding. Het verhaal rond de tool werd als positief en aantrekkelijk ervaren voor het kind.
-De respondent vond het belangrijk dat de duur van de cycli aangepast kan worden en dat ouders zelf bepalen wanneer een nieuwe cyclus start. 
-Volgens de respondent kan de tool over meerdere weken gebruikt worden, inclusief een langere slotfase. 
-Het kind kon na uitleg zelfstandig een volgende cyclus doorlopen en wilde dit graag blijven doen. 
-De respondent gaf aan dat het kind na het afstaan van de tut nood had aan een alternatief troostobject, zoals een knuffel. 
-De tool zou volgens haar zichtbaar in de leefkamer geplaatst worden aangezien dit een centrale plaats is in het huis.
+De respondenten begrepen de werking van de tool snel via de uitleg op de doos en de handleiding. Het verhaal rond de tool werd als positief en aantrekkelijk ervaren voor het kind.
+De respondenten vinden het belangrijk dat de duur van de cycli aangepast kan worden en dat ouders zelf bepalen wanneer een nieuwe cyclus start. Meldingen ter herinnering voor gebuik van het tutgebruik dienen optioneel te zijn, aangezien het gebruik al dan niet ingebakken kan zitten in een routine. 
+
+De kinderen konden na de uitleg voorzien door het boek zelfstandig een volgende cyclus doorlopen en wilden graag vervolg cycli starten. 
+De respondenten gaven aan dat de kinderen na het afstaan van de tut nood hebben aan een alternatief troostobject, zoals een knuffel, dit dient dus voorzien te worden bij de tool. 
+De tool zou volgens haar zichtbaar in de leefkamer geplaatst worden aangezien dit een centrale plaats is in het huis. 
 
 De volledige resultaten zijn terug te vinden in het [rapport.](<Gebruiksonderzoek_rapport_develop 3.pdf>)
 
@@ -433,7 +433,7 @@ Verdere conclusies en implicaties zijn terug te vinden in het [rapport.](<Benchm
 
 ##### Gebruikerstesten (N=2)
 
-Uit de ervaringen van respondent 1 blijkt dat de tool in de huidige vorm grotendeels duidelijk en gebruiksvriendelijk is. De combinatie van handleiding, doosuitleg en verhaallijn helpt ouders om het concept snel te begrijpen en toe te passen. De workflow wordt positief ervaren, vooral wanneer de ouder zelf kan bepalen wanneer een cyclus start en wanneer de tool flexibel inzetbaar blijft.
+Uit de ervaringen van de respondenten blijkt dat de tool in de huidige vorm grotendeels duidelijk en gebruiksvriendelijk is. De combinatie van handleiding, doosuitleg en verhaallijn helpt ouders om het concept snel te begrijpen en toe te passen. De workflow wordt positief ervaren, vooral wanneer de ouder zelf kan bepalen wanneer een cyclus start en wanneer de tool flexibel inzetbaar blijft.
 De tool lijkt daarnaast goed aan te sluiten bij de belevingswereld van het kind, zeker door het speelse karakter en het verhaal rond de beer. Tegelijk maakt de respondent duidelijk dat het afscheid nemen van de tut emotioneel geladen kan zijn. De tool werkt daarom het best wanneer ze gekoppeld wordt aan een alternatief troostobject, zoals een knuffel, zodat het kind een gevoel van veiligheid behoudt.
 
 Verdere conclusies en implicaties zijn terug te vinden in het [rapport.](<Gebruiksonderzoek_rapport_develop 3.pdf>)

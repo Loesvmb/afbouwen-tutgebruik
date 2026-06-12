@@ -178,8 +178,8 @@ Voor deze fase was de voornaamste doelstelling om gebruikerstesten uit te voeren
 Hiernaast was een bijkomende doelstelling, aangezien er in aanraking gekomen wordt met de gebruikersgroep, een ergonomische test uit te voeren omtrent het handvat van de tool en een afstandsbediening voor kinderen voor de garage van de tool.
 
 #### Materiaal & methoden
-##### Benchmarkonderzoek (N=13)
-Om deze fase te realiseren en het begrip te testen moet het eerste hoofdstuk van het boek reeds geschreven zijn, waarin de tool aan de kinderen uitgelegd wordt. Dit benchmarkonderzoek werd verricht om erachter te komen hoe dit best kon opgesteld worden en wat de status quo is in het uitleggen van gebruik aan kinderen. Dit onderzoek bevat volgende onderzoeksvragen:
+##### Benchmarkonderzoek (N=13) 
+Om deze fase (19/03/2026-20/03/2026) te realiseren en het begrip te testen moet het eerste hoofdstuk van het boek reeds geschreven zijn, waarin de tool aan de kinderen uitgelegd wordt. Dit benchmarkonderzoek werd verricht om erachter te komen hoe dit best kon opgesteld worden en wat de status quo is in het uitleggen van gebruik aan kinderen. Dit onderzoek bevat volgende onderzoeksvragen:
 - Wat zijn de verschillende methoden die in hedendaagse producten gebruik worden om iets uit te leggen aan kinderen?
 - Hoe kunnen deze geïntegreerd worden in de tool?
 - Welke verschillende methoden gebruiken boeken om de zintuigen aan te spreken?
@@ -250,7 +250,7 @@ Er werd uitgekomen op volgende tabel:
 </p>
 
 #### Gebruikerstesten (N=3)
-Volgende onderzoeksvragen dienden beantwoord te worden in de gebruikerstesten:
+Volgende onderzoeksvragen dienden beantwoord te worden in de gebruikerstesten(25/04/2026-14/05/2026):
 - Begrijpen de ouders hoe de tool werkt?
 - Begrijpen de kinderen de werking van de tool en kunnen ze deze zelfstandig gebruiken?
 -	Behouden de kinderen hun interesse gedurende het proces?
@@ -316,7 +316,7 @@ Daarnaast wordt een CMF-analyse van kinderspeelgoed uitgevoerd, deze zal getoets
 Om de verschillende categorieën met diens CMF-strategie en algemene tendensen in kinderspeelgoed bloot te leggen werd een benchmarkonderzoek uitgevoerd. Uit de implicaties die uit het onderzoek voort kwamen werden vervolgens renders op Vizcom gemaakt.
 
 ###### Benchmarkonderzoek (N=24)
-In het benchmarkonderzoek werd kinderspeelgoed onderzocht, opdat de tool in de leefwereld van de kinderen past en diens CMF-strategieën reeds bewezen zijn in het trekken van de aandacht en de veiligheid van de kinderen. 
+In het benchmarkonderzoek (21/03/2026-28/03/2026) werd kinderspeelgoed onderzocht, opdat de tool in de leefwereld van de kinderen past en diens CMF-strategieën reeds bewezen zijn in het trekken van de aandacht en de veiligheid van de kinderen. 
 In dit onderzoek stonden volgende onderzoeksvragen centraal:
 - Welke CMF-patronen worden terug gevonden in kinderspeelgoed voor kinderen van 2-5 jaar?
 - Hoe kunnen deze strategieën toegepast worden op de tool?
@@ -335,7 +335,7 @@ Met de implicaties en stijlen die geïdentificeerd werden in vorig benchmarkonde
 Een gehele werkwijze van hoe deze renders worden opgebouwd is [hier](<../reports and protocols/Vizcom_werkwijze_develop 3.pdf>) terug te vinden.
 
 ##### Storytelling - gebruikerstesten (N=2)
-Er werd besloten om antwoord te vinden op de finale vragen via een storytelling gebruikerstest. De vragen die hierbij beantwoord worden werden bekomen door een storyboard te maken van de costumer journey waarbij vragen die opkwamen werden genoteerd, deze vragen werden vervolgens geordend naar prioriteit. 
+Er werd besloten om antwoord te vinden op de finale vragen via een storytelling gebruikerstest (10/05/2026 en 14/05/2026). De vragen die hierbij beantwoord worden werden bekomen door een storyboard te maken van de costumer journey waarbij vragen die opkwamen werden genoteerd, deze vragen werden vervolgens geordend naar prioriteit. 
 De onderzoeksvragen van de storytelling luiden:
 
 - Hoe ervaren ouders de gehele workflow van de tool?

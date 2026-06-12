@@ -6,6 +6,7 @@ De algemene challenge is een slimme tool te ontwikkelen die de opvoedstress bij 
 ![alt text](../img/discovery_overzicht.png)
 <p align="center">
   <em>Verloop discovery</em><br>
+  
 De discovery-fase werd uitgevoerd tussen 25/09/2025 en 01/11/2022.
 
 

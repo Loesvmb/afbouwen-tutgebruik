@@ -21,11 +21,11 @@ Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voor
 De kinderen hebben zelf de keuze om na de ingestelde tijd, 2 sterren, de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verder gelegen sterretjes op de voortgangsbalk.
 Wanneer het kind de tut terugneemt heeft deze een keuze tussen 3 varianten van een beloning, deze kan in het huis geplaatst worden om zo zichtbare vooruitgang op langere termijn te krijgen. 
 
-Als laatste bevat de interface van de tool een verhaallijn, waarbij het kind aan het einde van het gebruik zijn tut dient af te staan om iets of iemand te helpen. Het karakter uit het verhaal krijgen ze als knuffel om als troost te fungeren, wanneer de tut finaal wordt afgestaan.
+Als laatste bevat de interface van de tool een verhaallijn, waarbij het kind aan het einde van het gebruik zijn tut dient af te staan om iets of iemand te helpen, wanneer de tut finaal wordt afgestaan. Het karakter uit het verhaal krijgen ze als knuffel om als troost te fungeren.
 
 De tool zal aan de ouders aangeven wanneer het kind de tut eventueel definitief kan afstaan, maar de ouders dienen zelf de eindfase te laten starten.
 
-Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind heeft motivatie door de naderende beloning en de visuele groei zichtbaar van de tool. 
+Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind heeft motivatie door de naderende beloning en de visuele groei die zichtbaar is in de tool. 
 
 Een uitgebreide uitleg van het finale concept werd uitgeschreven in [conclusie](docs/conclusie.md).
 
@@ -40,7 +40,7 @@ Een uitgebreide uitleg van het finale concept werd uitgeschreven in [conclusie](
   <em>Heroshot</em> <br>
 </p>
 <p align="center">
-  <img src="img/storyboard.jpg" width="100%">
+  <img src="img/storyboard.jpg.png" width="100%">
   <em>Storyboard</em> <br>
 </p>
 
@@ -70,8 +70,8 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 Dit ontwerpproces bevatte zowel sterke punten als aspecten die voor verbetering vatbaar waren.
 
 ### Definition
-In de definition-fase werd een goed begrip van de probleemruimte verkregen door middel van literatuur- en benchmarkonderzoek specifiek voor de probleemruimte. Daarnaast werd in elk interview expliciet gepolst naar ervaringen met tutgebruik en de bijbehorende struikelpunten. 
-Het opnemen van de interviews bleek een grote meerwaarde. Door deze opnames te her beluisteren en te transcriberen konden alle relevante inzichten zorgvuldig worden vastgelegd, wat de kwaliteit en betrouwbaarheid van de analyse verhoogde.
+In de definition-fase werd een goed begrip van de probleemruimte verkregen door middel van literatuur- en benchmarkonderzoek specifiek voor de probleemruimte. Daarnaast werd in elk interview expliciet gepolst naar ervaringen met tutgebruik en de bijbehorende struikelblokken. 
+Het opnemen van de interviews bleek een grote meerwaarde. Door deze opnames te herbeluisteren en te transcriberen konden alle relevante inzichten zorgvuldig worden vastgelegd, wat de kwaliteit en betrouwbaarheid van de analyse verhoogde.
 
 ### Discovery
 In WAVE 3 werden pedagogen geraadpleegd, achteraf gezien hadden deze eerder in het proces betrokken kunnen worden. Hun inzichten waren zeer waardevol en bevestigden grotendeels de resultaten uit WAVE 1 en WAVE 2. Indien zij vroeger geraadpleegd waren, had dit mogelijk sneller geleid tot het eindconcept en had eerder gestart kunnen worden met gebruikerstesten.
@@ -83,7 +83,7 @@ Verder verliep het groepswerk in de eerste WAVE moeizaam door een gebrek aan com
 ### Development
 Het vinden van literatuur in de development-fase 1 verliep zeer moeizaam. Dit kwam doordat hetgene dat onderzocht werd niet duidelijk aansloot bij 1 specifieke studie en hier zeer weinig data over terug te vinden was.
 
-In fase 2 verliep het vinden van respondenten zeer moeizaam aangezien de periode waarin de tests uitgevoerd moesten worden rond feestdagen viel. Hiernaast was het moeilijk om een crèche te vinden die gewillig was om de tests uit de voeren met de kinderen, wegens dat het scherm in de tool niet bij hun visie aansluit. 
+In fase 2 verliep het vinden van respondenten zeer moeizaam aangezien de periode waarin de tests uitgevoerd moesten worden rond feestdagen viel. Hiernaast was het moeilijk om een crèche te vinden die bereid was om de tests uit de voeren met de kinderen, het schermgebruik van de tool niet bij hun visie aansluit. 
 
 In fase 3 kon geen derde gebruikerstest uitgevoerd werden omdat een respondent op het laatste moment de afspraak niet meer kon laten doorgaan. Verder werden er niet voldoende testen uitgevoerd om een goede conclusie te kunne maken rond CMF.
 

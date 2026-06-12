@@ -1,9 +1,9 @@
 ## Methodologie
 
-![alt text](<tijdslijn_develop 3.png>)
+![alt text](<../img/tijdslijn_develop 3.png>)
 
 Prototypes:
-![alt text](<tijdslijn_prototypes_Develop 3.png>)
+![alt text](<../img/tijdslijn_prototypes_Develop 3.png>)
 
 De methodologie van dit project volgt de double diamond. 
 
@@ -17,7 +17,7 @@ Eerst werd een literatuuronderzoek (N=10) naar wat stress bij jonge ouders inhou
 De tweede fase, definition, werd uitgevoerd in november, december en januari.
 
 #### WAVE 1
-Hierbij werd gestart met een ideegeneratie, waaruit de vijf verschillende concepten voortkwamen die voldeden aan de voorgaand bekomen inzichten. 5 concepten werden gebruikt om zo aan variety-prototyping te doen en confirmation bias te vermijden; de gebruikers zullen eerlijker zijn. Van deze concepten werden storyboards en een ai-rendering gemaakt aan de hand van voor afgemaakte schetsen en een beschrijving op Vizcom. Deze werden vervolgens gevalideerd bij de gebruikers door middel van interviews (N=5) bij ouders (N=3) en kinderbegeleiders (N=2). Na analyse van de interviews in wave 1 werden alle deelaspecten van de concepten in een [morfologische matrix](image-22.png) geplaatst en werden alle aspecten aangeduid waarvan de gebruiker aangaf deze nodig te hebben, aangezien geen concept eenduidig naar voren kwam. 
+Hierbij werd gestart met een ideegeneratie, waaruit de vijf verschillende concepten voortkwamen die voldeden aan de voorgaand bekomen inzichten. 5 concepten werden gebruikt om zo aan variety-prototyping te doen en confirmation bias te vermijden; de gebruikers zullen eerlijker zijn. Van deze concepten werden storyboards en een ai-rendering gemaakt aan de hand van voor afgemaakte schetsen en een beschrijving op Vizcom. Deze werden vervolgens gevalideerd bij de gebruikers door middel van interviews (N=5) bij ouders (N=3) en kinderbegeleiders (N=2). Na analyse van de interviews in wave 1 werden alle deelaspecten van de concepten in een [morfologische matrix](../img/image-22.png) geplaatst en werden alle aspecten aangeduid waarvan de gebruiker aangaf deze nodig te hebben, aangezien geen concept eenduidig naar voren kwam. 
 
 #### Wave 2
 

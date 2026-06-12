@@ -6,6 +6,8 @@ De algemene challenge is een slimme tool te ontwikkelen die de opvoedstress bij 
 ![alt text](../img/discovery_overzicht.png)
 <p align="center">
   <em>Verloop discovery</em>
+De discovery-fase werd uitgevoerd tussen 25/09/2025 en 01/11/2022.
+
 
 Als start werd een literatuuronderzoek verricht, dit om inzicht te verkrijgen in wat opvoedstress precies inhoudt en welke effecten dit heeft op het gezinsleven. Hiervoor werden 10 bronnen geraadpleegd. Dit onderzoek had als onderzoeksvragen:
 - Wat houdt opvoedstress in?

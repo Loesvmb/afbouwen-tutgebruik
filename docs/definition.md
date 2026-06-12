@@ -1,7 +1,7 @@
 ## Definition
 De definition-fase bestaat uit drie onderzoek waves. Deze werden uitgevoerd tussen 01/11/2025 en 15/01/2026.
 
-![alt text](<definition schema.png>)
+![alt text](<../img/definition schema.png>)
 <p align="center">
   <em>verloop defenition </em>
 
@@ -21,27 +21,27 @@ De eerste WAVE bestond uit gebruikersinterviews met 3 ouders en 2 kinderbegeleid
 Vijf concepten werden vergeleken via storyboards en realistische Vizcom-visualisaties van eerder gemaakte schetsen, dit was het efficiëntste aangezien de meeste interviews online doorgingen. Hierbij werd variety prototyping ingezet om de confirmation bias te vermijden. Alle tools voldeden aan de design requirements opgesteld uit de discovery. De geteste elementen waren: verplaatsbaarheid van tut, autonomie van kinderen, invloed van beloningen, vormen van feedback en motiverende elementen.
 
 Concept 1:
-![alt text](image-14.png)![alt text](image-5.png)
+![alt text](../img/image-14.png)![alt text](../img/image-5.png)
 <p align="center">
   <em>concept 1 definition WAVE 1</em>
 
 Concept 2:
-![alt text](<storyboard slotje.png>)![alt text](image-20.png)
+![alt text](<../img/storyboard slotje.png>)![alt text](../img/image-20.png)
 <p align="center">
   <em>concept 2 definition WAVE 1</em>
 
 Concept 3:
-![alt text](image-8.png)![alt text](image-9.png)
+![alt text](../img/image-8.png)![alt text](../img/image-9.png)
 <p align="center">
   <em>concept 3 definition WAVE 1</em>
 
 Concept 4:
-![alt text](image-10.png)![alt text](image-11.png)
+![alt text](../img/image-10.png)![alt text](../img/image-11.png)
 <p align="center">
   <em>concept 4 definition WAVE 1</em>
 
 Concept 5:
-![alt text](image-12.png)![alt text](image-13.png)
+![alt text](../img/image-12.png)![alt text](../img/image-13.png)
 <p align="center">
   <em>concept 5 definition WAVE 1</em>
  
@@ -90,16 +90,16 @@ Er werden gebruikersinterviews afgenomen (N=3), waarbij twee prototypes werden g
 Met inzichten uit WAVE 1 werden twee concepten ontwikkeld. Deze werden tijdens interviews vergeleken om te bepalen welke elementen het meest geschikt zijn. Door variety prototyping toe te passen, werd confirmation bias vermeden en werd het gesprek over de verschillende ontwerpaspecten gestimuleerd.
 
 Concept 1:
-![alt text](image-4.png)
-![alt text](image-17.png)
-![alt text](image-18.png)
-![alt text](image-19.png)
+![alt text](../img/image-4.png)
+![alt text](../img/image-17.png)
+![alt text](../img/image-18.png)
+![alt text](../img/image-19.png)
 <p align="center">
   <em>concept 1 definition WAVE 2</em>
 
 Concept 2:
-![alt text](image-15.png)
-![alt text](image-16.png)
+![alt text](../img/image-15.png)
+![alt text](../img/image-16.png)
 <p align="center">
   <em>concept 2 definition WAVE 2</em>
 

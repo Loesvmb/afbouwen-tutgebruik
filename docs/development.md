@@ -2,7 +2,7 @@
 <!-- Max. 1000 woorden.   
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen. -->
 
-![alt text](<development 3.png>)
+![alt text](<../img/development 3.png>)
 <p align="center">
   <em>verloop development 2 </em>
 
@@ -46,7 +46,7 @@ Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE, 
 Het herwerkt prototype ziet er als volgt uit:
 
 <p align="center">
-  <img src="../eindrender Develop 1.png" width="400"><br>
+  <img src="../img/eindrender Develop 1.png" width="400"><br>
   <em> render prototype Development 1 </em>
 </p>
 
@@ -54,18 +54,18 @@ Het herwerkt prototype ziet er als volgt uit:
 Hierbij werden volgende interfaces getoond op de tablet:
 
 <p align="center">
-  <img src="interface 1.png" width="300">
+  <img src="../img/interface 1.png" width="300">
 
 <p align="center">
-  <img src="interface 2.png" width="300">
+  <img src="../img/interface 2.png" width="300">
 
 <p align="center">
-  <img src="interface 3.png" width="300">
+  <img src="../img/interface 3.png" width="300">
 
 <p align="center">
-  <img src="interface 4.png" width="300">
+  <img src="../img/interface 4.png" width="300">
 <p align="center">
-  <img src="interface 5.png" width="300"><br>
+  <img src="../img/interface 5.png" width="300"><br>
   <em>afbeeldingen interfaces Develop 1 </em>
 </p>
 
@@ -127,7 +127,7 @@ Uit de expertinterviews kwamen volgende implicaties voort:
 In onderstaande figuur worden de aanpassingen aan het concept weergegeven op de tool:
 
 <p align="center">
-  <img src="overzicht veranderingen Develop 1.png" width="600"><br>
+  <img src="../img/overzicht veranderingen Develop 1.png" width="600"><br>
   <em>overzicht veranderingen Develop 1 </em>
 </p>
 
@@ -138,27 +138,27 @@ Deze implicaties werden verwerkt in de [design requirements](design_requirements
 Verder werd het concept tijdens deze fase ontleed in diens functies om zo te bekijken wat verder uitgewerkt dient te worden.
 
 <p align="center">
-  <img src="opdeling functies tool..png" width="600"><br>
+  <img src="../img/opdeling functies tool..png" width="600"><br>
   <em>opdeling functies </em>
 </p>
 
 Voor dezelfde reden werden een costumer journey en task hierarchy opgesteld:
 
 <p align="center">
-  <img src="costumer journey.png" width="600"><br>
+  <img src="../img/costumer journey.png" width="600"><br>
   <em>costumer journey </em>
 </p>
 
 
 <p align="center">
-  <img src="taak-hiërarchie.png" width="600"><br>
+  <img src="../img/taak-hiërarchie.png" width="600"><br>
   <em>taken-hiërarchie </em>
 </p>
 
 Ook werden de design requirements gerangschikt volgens belang aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken. De aspecten die essentieel bleken uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
 
 <p align="center">
-  <img src="SWOT- analyse design requirements.png" width="600"><br>
+  <img src="../img/SWOT- analyse design requirements.png" width="600"><br>
   <em>SWOT-analyse Development </em>
 </p>
 
@@ -169,7 +169,7 @@ Ook werd een analyse uitgevoerd hoe het volgend prototype opgebouwd zou kunnen w
 
 
 <p align="center">
-  <img src="Deconstructie mogelijk prototype.jpg" width="600"><br>
+  <img src="../img/Deconstructie mogelijk prototype.jpg" width="600"><br>
   <em>deconstructie mogelijk prototype </em>
 </p>
 
@@ -187,7 +187,7 @@ Om deze fase te realiseren en het begrip te testen moet het eerste hoofdstuk van
 - Hoe kunnen deze geïntegreerd worden in de tool?
 - Welke verschillende methoden gebruiken boeken om de zintuigen aan te spreken?
  
-[Protocol](<benchmarkonderzoek protocol_develop2.pdf>)
+[Protocol](<../reports and protocols/Benchmark_rapport_develop 2.pdf>)
 
 ##### Prototyping
 ###### Fysiek prototype
@@ -195,7 +195,7 @@ Voor het fysiek prototype werd besloten een houten frame te maken met lasercutti
 De garagepoort wordt gemaakt door een papier naar boven en beneden te schuiven.
 
 <p align="center">
-  <img src="prototype high level.jpeg" width="400"><br>
+  <img src="../img/prototype high level.jpeg" width="400"><br>
   <em>prototype 'high level' development 2 </em>
 </p>
 
@@ -205,16 +205,16 @@ De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli a
 
 
 <p align="center">
-  <img src="Interface 1 protopie.png" width="300">
+  <img src="../img/Interface 1 protopie.png" width="300">
 
 <p align="center">
-  <img src="Interface 2 Protopie.png" width="300">
+  <img src="../img/Interface 2 Protopie.png" width="300">
 
 <p align="center">
-  <img src="Interface 3 protopie.png" width="300">
+  <img src="../img/Interface 3 protopie.png" width="300">
 
 <p align="center">
-  <img src="Interface 4 protopie.png" width="300"><br>
+  <img src="../img/Interface 4 protopie.png" width="300"><br>
   <em> interfaces development 2 </em>
 </p>
 
@@ -230,7 +230,7 @@ De interface bevat volgende legende om volgens Wizard of Oz te werken:
 ###### Instructieboekje
 Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan de kinderen het gebruik van de tool uitlegt. Hiervoor wordt een beer gebruikt die de werking zal uitleggen en die de kinderen zal helpen. Daarnaast wordt er zo weinig mogelijk teskst gebruikt en zo visueel mogelijk gewerkt. Er wordt gekozen voor een fysiek boekje om de betrokkenheid te verhogen en de interacties met het scherm zo laag mogelijk te houden.
 
-[Instructieboekje voor eerste 2 cycli](<Instructieboekje eerste 2 hoofdstukken.pdf>)
+[Instructieboekje voor eerste 2 cycli](<../reports and protocols/Instructieboekje eerste 2 hoofdstukken.pdf>)
 
 ##### Ergonomische test
 ###### Handvat
@@ -238,7 +238,7 @@ Hiervoor werd de tactiek 'design for the tall' toegepast. Dit omdat als de groot
 
 
 <p align="center">
-  <img src="tabel antropometrische data volwassenen.png" width="300"><br>
+  <img src="../img/tabel antropometrische data volwassenen.png" width="300"><br>
   <em> tabel antropometrische data volwassenen </em>
 </p>
 
@@ -248,7 +248,7 @@ Voor de afmetingen van de afstandsbediening was geen zekerheid over welke strate
 Er werd uitgekomen op volgende tabel:
 
 <p align="center">
-  <img src="tabel antropometrische data kinderen.png" width="600"><br>
+  <img src="../img/tabel antropometrische data kinderen.png" width="600"><br>
   <em>afmetingen afstandsbedieningen Develop 2 </em>
 </p>
 
@@ -259,14 +259,14 @@ De kinderen worden na het gebruik ondervraagd met een self assesment mannequins 
 Verder wordt de ergonomie-test uitgevoerd met prototypes die gemodelleerd werden en worden hier sticky dots op geplakt. Hier worden foto's van genomen die later geanalyseerd worden.
 
 De gehele methode is terug te vinden in het
-[protocol](<Protcol gebruikerstesten-develop 2.pdf>).
+[protocol](<../reports and protocols/Protcol gebruikerstesten-develop 2.pdf>).
 
 #### Resultaten
 ##### Benchmarkonderzoek (N=14)
 Volgende zaken kwamen als voornaamste uit het benchmarkonderzoek:
 Bij bijna al de onderzochte producten wordt de verbinding tussen het kind en het product vaak gelegd door het gebruik van vriendjes die geholpen worden door de acties van het kind, deze vriendjes doen de uitleg rond wat het kind moet doen met de tool.
 In al de boeken wordt gebruik gemaakt van korte en heldere zinsconstructies. De boeken bevatten geen complexe verhalen, ze bevatten voornamelijk afbeeldingen en een minimale hoeveelheid aan tekst.
-De uitgebreidde resultaten zijn terug te vinden in het [rapport](<Benchmark_rapport_develop 2.pdf>).
+De uitgebreidde resultaten zijn terug te vinden in het [rapport](<../reports and protocols/Benchmark_rapport_develop 2.pdf>).
 
 ##### Gebruikerstesten (N=3)
 Uit de gebruikerstesten blijkt dat zowel ouders als kinderen de tool over het algemeen goed begrijpen en positief ervaren. Beide kinderen toonden interesse in het verhaal, waarbij de narratieve context een duidelijke rol speelt in het verhogen van betrokkenheid. De motivatie om meerdere cycli te doorlopen was bij beide kinderen aanwezig, wat wijst op een aantrekkelijk en herhaalbaar concept.
@@ -276,13 +276,13 @@ Opvallend is dat beide kinderen niet spontaan ontdekten dat de figuren versleept
 De self-assessment mannequins verliepen minder vlot. Hier was aanzienlijke begeleiding nodig en de kinderen kozen voornamelijk extreme antwoorden. Dit wijst op een te hoge cognitieve belasting en/of te veel keuzemogelijkheden.
 
 <p align="center">
-  <img src="Afbeelding1.png" width="300"><br>
+  <img src="../img/Afbeelding1.png" width="300"><br>
   <em> foto gebruikerstesten invulling self-assessment mannequins </em>
 </p>
 
 De ergonomische test toont aan dat een middelgroot formaat van de afstandsbediening het meest geschikt is voor kinderen.
 <p align="center">
-  <img src="ergonomische test kinderen.png" width="300"><br>
+  <img src="../img/ergonomische test kinderen.png" width="300"><br>
   <em> ergonomische test kinderen </em>
 </p>
 De ergonomische afmetingen voor het handvat zijn aanvaardbaar.
@@ -320,17 +320,17 @@ In dit onderzoek stonden volgende onderzoeksvragen centraal:
 - Hoe kunnen deze strategieën toegepast worden op de tool?
 
 Dit onderzoek werd uitgevoerd met behulp van ai (ChatGPT en Copilot).
-De uitgebreidere werkwijze is terug te vinden in het [protocol.](<benchmarkonderzoek protocol_develop3.pdf>)
+De uitgebreidere werkwijze is terug te vinden in het [protocol.](<../reports and protocols/benchmarkonderzoek protocol_develop3.pdf>)
 
 ###### VizCom
 Met de implicaties en stijlen die geïdentificeerd werden in vorig benchmarkonderzoek worden nu 4 renders gemaakt die elk aan 1 van de stijlen voldoen en aan de algemene tendensen in CMF-strategieën. Van deze renders worden cut-outs gemaakt die verder worden gebruikt in de gebruikerstesten.
 
 <p align="center">
-  <img src="cut-outs stijlen.jpg" width="300"><br>
+  <img src="../img/cut-outs stijlen.jpg" width="300"><br>
   <em> cut-outs CMF-stijlen </em>
 </p>
 
-Een gehele werkwijze van hoe deze renders worden opgebouwd is [hier](<Vizcom_werkwijze_develop 3.pdf>) terug te vinden.
+Een gehele werkwijze van hoe deze renders worden opgebouwd is [hier](<../reports and protocols/Vizcom_werkwijze_develop 3.pdf>) terug te vinden.
 
 ##### Storytelling - gebruikerstesten (N=2)
 Er werd besloten om antwoord te vinden op de finale vragen via een storytelling gebruikerstest. De vragen die hierbij beantwoord worden werden bekomen door een storyboard te maken van de costumer journey waarbij vragen die opkwamen werden genoteerd, deze vragen werden vervolgens geordend naar prioriteit. 
@@ -343,7 +343,7 @@ De onderzoeksvragen van de storytelling luiden:
 -	Welke stijl van CMF prefereren kind en ouder?
 
 
-Zowel het verloop van het opstellen van deze storytelling, het optimaliseren van het prototype,  als heel het verloop van de gebruikerstest (met CMF-test) staan uitgeschreven in het [protocol.](<gebruikerstesten protocol develop 3.pdf>)
+Zowel het verloop van het opstellen van deze storytelling, het optimaliseren van het prototype,  als heel het verloop van de gebruikerstest (met CMF-test) staan uitgeschreven in het [protocol.](<../reports and protocols/gebruikerstesten protocol develop 3.pdf>)
 
 ##### Prototyping
 Om bovenstaande storytelling realistisch te maken en vragen te toetsen diende er enkele aanpassingen gemaakt te worden aan het prototype dat gebruikt wordt.
@@ -351,25 +351,25 @@ Om bovenstaande storytelling realistisch te maken en vragen te toetsen diende er
 Aan de interface worden 3 zaken toegevoegd:
 - een startscherm om de variabelen van het kind in te stellen voor het eerste gebruik.
 <p align="center">
-  <img src="instellen parameters.png" width="300"><br>
+  <img src="../img/instellen parameters.png" width="300"><br>
   <em> interface instellen variabelen </em>
 </p>
 
 - een extra knop bedoelt alleen voor de ouders, waar men via een wiskunde som aan kan, dit om: de eindfase in te gaan, de tool sneller/trager te laten gaan en een eenmalige duur in te stellen.
 
 <p align="center">
-  <img src="wiskundesom.png" width="300"><br>
+  <img src="../img/wiskundesom.png" width="300"><br>
   <em> wiskundesom interface </em>
 </p>
 <p align="center">
-  <img src="instellingen.png" width="300"><br>
+  <img src="../img/instellingen.png" width="300"><br>
   <em> instellingen achter icoon interface </em>
 </p>
 
 - Ook wordt een micro-interactie toegevoegd: een hand die bij de eerste cyclus de beloning sleept, dit omdat uit de vorige fase bleek dat deze interactie niet duidelijk was voor de kinderen. In de test zal nu duidelijk worden of deze interactie dit probleem verhelpt.
 
 <p align="center">
-  <img src="microinteractie hand.png" width="300"><br>
+  <img src="../img/microinteractie hand.png" width="300"><br>
   <em> micro-interactie hand interface </em>
 </p>
 
@@ -378,7 +378,7 @@ Aan de interface worden 3 zaken toegevoegd:
 Aan de tool zelf wordt 1 aanpassing gedaan. Er wordt aan de achterkant een ruimte voorzien voor het boek. 
 
 <p align="center">
-  <img src="extra ruimte tool.jpg" width="300"><br>
+  <img src="../img/extra ruimte tool.jpg" width="300"><br>
   <em> extra ruimte voor boek </em>
 </p>
 
@@ -388,12 +388,12 @@ Aan de tool zelf wordt 1 aanpassing gedaan. Er wordt aan de achterkant een ruimt
 Om ook het initialiseren van de tool bij de ouder te testen worden een productdoos en een handleiding van de tool gemaakt.
 
 <p align="center">
-  <img src="handleiding too.png" width="300"><br>
+  <img src="../img/handleiding too.png" width="300"><br>
   <em> handleiding van de tool </em>
 </p>
 
 <p align="center">
-  <img src="doos tool.jpg" width="300"><br>
+  <img src="../img/doos tool.jpg" width="300"><br>
   <em> doos van de tool </em>
 </p>
 
@@ -409,7 +409,7 @@ Verder kwamen overkoepelende patronen naar boven binnen het kinderspeelgoed:
 - Afgeronde vormen en hoeken zijn consistent aanwezig en dragen bij aan een gevoel van veiligheid.
 Voor interfaces zien we dat eenvoud centraal staat.
 
-Het volledige benchmarkonderzoek en diens resultaten zijn terug te vinden in het [rapport.](<Benchmark_rapport_develop 3.pdf>)
+Het volledige benchmarkonderzoek en diens resultaten zijn terug te vinden in het [rapport](<../reports and protocols/Benchmark_rapport_develop 3.pdf>).
 
 ##### Gebruikerstesten (N=2)
 De respondenten begrepen de werking van de tool snel via de uitleg op de doos en de handleiding. Het verhaal rond de tool werd als positief en aantrekkelijk ervaren voor het kind.
@@ -419,7 +419,7 @@ De kinderen konden na de uitleg voorzien door het boek zelfstandig een volgende 
 De respondenten gaven aan dat de kinderen na het afstaan van de tut nood hebben aan een alternatief troostobject, zoals een knuffel, dit dient dus voorzien te worden bij de tool. 
 De tool zou volgens haar zichtbaar in de leefkamer geplaatst worden aangezien dit een centrale plaats is in het huis. 
 
-De volledige resultaten zijn terug te vinden in het [rapport.](<Gebruiksonderzoek_rapport_develop 3.pdf>)
+De volledige resultaten zijn terug te vinden in het [rapport](<../reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>).
 
 
 #### Conclusies en implicaties
@@ -429,14 +429,14 @@ De volledige resultaten zijn terug te vinden in het [rapport.](<Gebruiksonderzoe
 - Afgeronde vormen zorgen voor een gevoel van veiligheid bij de kinderen.
 Binnen het onderzoek werden bovendien vier duidelijke stijlen geïdentificeerd met elk hun eigen CMF-strategie.
 
-Verdere conclusies en implicaties zijn terug te vinden in het [rapport.](<Benchmark_rapport_develop 3.pdf>)
+Verdere conclusies en implicaties zijn terug te vinden in het [rapport](<../reports and protocols/Benchmark_rapport_develop 3.pdf>).
 
 ##### Gebruikerstesten (N=2)
 
 Uit de ervaringen van de respondenten blijkt dat de tool in de huidige vorm grotendeels duidelijk en gebruiksvriendelijk is. De combinatie van handleiding, doosuitleg en verhaallijn helpt ouders om het concept snel te begrijpen en toe te passen. De workflow wordt positief ervaren, vooral wanneer de ouder zelf kan bepalen wanneer een cyclus start en wanneer de tool flexibel inzetbaar blijft.
 De tool lijkt daarnaast goed aan te sluiten bij de belevingswereld van het kind, zeker door het speelse karakter en het verhaal rond de beer. Tegelijk maakt de respondent duidelijk dat het afscheid nemen van de tut emotioneel geladen kan zijn. De tool werkt daarom het best wanneer ze gekoppeld wordt aan een alternatief troostobject, zoals een knuffel, zodat het kind een gevoel van veiligheid behoudt.
 
-Verdere conclusies en implicaties zijn terug te vinden in het [rapport.](<Gebruiksonderzoek_rapport_develop 3.pdf>)
+Verdere conclusies en implicaties zijn terug te vinden in het [rapport](<../reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>).
 
 
 De implicaties werden verwerkt in de [design requirements](design_requirements.md).

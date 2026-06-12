@@ -2,7 +2,7 @@
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen. -->
 # Development
 
-De definition-fase bestaat uit drie onderzoek fases. Deze werden uitgevoerd tussen 16/01/2026 en 12/06/2026.
+De development-fase bestaat uit drie onderzoek fases. Deze werden uitgevoerd tussen 16/01/2026 en 12/06/2026.
 
 ![alt text](<../img/development 3.png>)
 <p align="center">

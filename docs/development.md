@@ -295,7 +295,7 @@ De ergonomische test toont aan dat een middelgroot formaat van de afstandsbedien
 </p>
 De ergonomische afmetingen voor het handvat van de tool zijn aanvaardbaar.
 
-De volledige analyse van de gebuikerstesten is terug te vinden in het [rapport](<../reports and protocols/Protcol gebruikerstesten-develop 2.pdf>).
+De volledige analyse van de gebuikerstesten is terug te vinden in het [rapport](<r../reports and protocols/Gebruiksonderzoek_rapport_develop 2.pdf>).
 
 #### Conclusies & implicaties
 ##### Benchmarkonderzoek (N=24)

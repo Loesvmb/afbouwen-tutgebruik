@@ -65,7 +65,7 @@ Het uitgebreidere verslag is hieronder terug te vinden:
 De probleemruimtes die werden gedefinieerd in deze 3 onderzoeken werden uitgezet in een problem-solution matrix:
 ![alt text](<../img/problem solution matrix.png>)
 <p align="center">
-  <em>problem solution matrix</em>
+  <em>Problem solution matrix</em>
 
 Alle geïnterviewde ouders gaven aan dat het afleren van het tutgebruik een zeer emotionele ervaring is. Daarom werd hier ook een literatuuronderzoek (N=12) op verricht, met volgende onderzoeksvragen:
 - Welke emotionele waarde heeft een tut voor bij een kind?
@@ -78,7 +78,7 @@ Hieruit bleek dat langdurig tutgebruik veel negatieve (medische) gevolgen heeft,
 
 ![alt text](<../img/innovatrix- tutgebruik bij kinderen_Vanmeerbeek_Loes.png>)
 <p align="center">
-  <em>innovatrix</em>
+  <em>Innovatrix</em>
 
 Designbeslissingen:
 

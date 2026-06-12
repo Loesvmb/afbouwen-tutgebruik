@@ -37,9 +37,11 @@ Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind he
 
 <p align="center">
   <img src="img/eindrender.png" width="100%">
+  <em>Heroshot</em> <br>
 </p>
 <p align="center">
   <img src="img/storyboard.jpg" width="100%">
+  <em>Storyboard</em> <br>
 </p>
 
 ## Introductie

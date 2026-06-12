@@ -83,6 +83,7 @@ Hieruit bleek dat langdurig tutgebruik veel negatieve (medische) gevolgen heeft,
 Designbeslissingen:
 
 Uit de bovenstaande onderzoeken werd besloten om een interactieve tool te maken die het kind aan de hand van positieve feedback begeleidt in het afbouwen van het tutgebruik.
+Deze implicaties werden verwerkt in de [design requirements](design_requirements.md).
 
 <!-- ### Doestellingen
 Wat wilde je bereiken? 

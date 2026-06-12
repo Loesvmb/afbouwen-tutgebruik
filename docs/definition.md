@@ -21,29 +21,39 @@ De eerste WAVE bestond uit gebruikersinterviews met 3 ouders en 2 kinderbegeleid
 Vijf concepten werden vergeleken via storyboards en realistische Vizcom-visualisaties van eerder gemaakte schetsen, dit was het efficiëntste aangezien de meeste interviews online doorgingen. Hierbij werd variety prototyping ingezet om de confirmation bias te vermijden. Alle tools voldeden aan de design requirements opgesteld uit de discovery. De geteste elementen waren: verplaatsbaarheid van tut, autonomie van kinderen, invloed van beloningen, vormen van feedback en motiverende elementen.
 
 Concept 1:
-![alt text](../img/image-14.png)![alt text](../img/image-5.png)
-<p align="center">
-  <em>Concept 1 definition WAVE 1</em>
+  <p align="center">
+  <img src="../img/image-14.png" width="400"><br>
+  <img src="../img/image-5.png" width="400"><br>
+  <em> Concept 1 definition WAVE 1 </em>
+</p>
 
 Concept 2:
-![alt text](<../img/storyboard slotje.png>)![alt text](../img/image-20.png)
-<p align="center">
-  <em>Concept 2 definition WAVE 1</em>
+  <p align="center">
+  <img src="../img/storyboard slotje.png" width="400"><br>
+  <img src="../img/image-20.png" width="400"><br>
+  <em> Concept 2 definition WAVE 1 </em>
+</p>
 
 Concept 3:
-![alt text](../img/image-8.png)![alt text](../img/image-9.png)
-<p align="center">
-  <em>Concept 3 definition WAVE 1</em>
+  <p align="center">
+  <img src="../img/image-8.png" width="400"><br>
+  <img src="../img/image-9.png" width="400"><br>
+  <em> Concept 3 definition WAVE 1 </em>
+</p>
 
 Concept 4:
-![alt text](../img/image-10.png)![alt text](../img/image-11.png)
-<p align="center">
-  <em>Concept 4 definition WAVE 1</em>
+  <p align="center">
+  <img src="../img/image-10.png" width="400"><br>
+  <img src="../img/image-11.png" width="400"><br>
+  <em> Concept 4 definition WAVE 1 </em>
+</p>
 
 Concept 5:
-![alt text](../img/image-12.png)![alt text](../img/image-13.png)
-<p align="center">
-  <em>Concept 5 definition WAVE 1</em>
+  <p align="center">
+  <img src="../img/image-12.png" width="400"><br>
+  <img src="../img/image-13.png" width="400"><br>
+  <em> Concept 5 definition WAVE 1 </em>
+</p>
  
 In onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
  - Ouders:
@@ -90,18 +100,21 @@ Er werden gebruikersinterviews afgenomen (N=3), waarbij twee prototypes werden g
 Met inzichten uit WAVE 1 werden twee concepten ontwikkeld. Deze werden tijdens interviews vergeleken om te bepalen welke elementen het meest geschikt zijn. Door variety prototyping toe te passen, werd confirmation bias vermeden en werd het gesprek over de verschillende ontwerpaspecten gestimuleerd.
 
 Concept 1:
-![alt text](../img/image-4.png)
-![alt text](../img/image-17.png)
-![alt text](../img/image-18.png)
-![alt text](../img/image-19.png)
+
 <p align="center">
-  <em>Concept 1 definition WAVE 2</em>
+  <img src="../img/image-4.png" width="400"><br>
+  <img src="../img/image-17.png" width="400"><br>
+  <img src="../img/image-18.png" width="400"><br>
+  <img src="../img/image-19.png" width="400"><br>
+  <em> Concept 1 definition WAVE 2 </em>
+</p>
 
 Concept 2:
-![alt text](../img/image-15.png)
-![alt text](../img/image-16.png)
 <p align="center">
-  <em>Concept 2 definition WAVE 2</em>
+  <img src="../img/image-15.png" width="400"><br>
+  <img src="../img/image-16.png" width="400"><br>
+  <em> Concept 2 definition WAVE 2 </em>
+</p>
 
 In onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
 [Inerview protocol WAVE 2](<../reports and protocols/Interview - protocol - ouders -wave2.pdf>)

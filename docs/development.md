@@ -44,8 +44,8 @@ Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE v
 Het herwerkt prototype ziet er als volgt uit:
 
 <p align="center">
-  <img src="../img/eindrender Develop 1.png" width="400"><br>
-  <em> Render prototype Development 1 </em>
+  <img src="../img/herwerkt prototype V1.jpeg" width="400"><br>
+  <em> Herwerkt prototype </em>
 </p>
 
 

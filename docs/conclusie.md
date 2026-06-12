@@ -22,7 +22,7 @@ De eerste ster vormt een eerste mijlpaal. Wanneer het kind de tut vóór deze st
 
 Vanaf het moment dat het kind zijn tut uit de garage haalt krijgt deze de keuze tussen 3 beloningen, deze beloningen stellen het meubel voor dat de beer heeft gemaakt. De kinderen hebben keuze tussen 3 kleurvariaties om de cognitieve bellasting van het kind zo laag mogelijk te houden.
 <p align="center">
-  <img src="../img/interface 2 Protopie.png" width="300"><br>
+  <img src="../img/Interface 2 Protopie.png" width="600"><br>
   <em> beloningen </em>
 </p>
 
@@ -38,7 +38,7 @@ Er werd gekozen om met een boek te werken en niet via animaties op het scherm om
 ## Tijdsverdeling
 Initieel stelt de ouder de tijdsperiodes in die het kind zal volgen door volgende interface bij aanvang in te vullen:
 <p align="center">
-  <img src="../img/initiële set-up.png" width="300"><br>
+  <img src="../img/initiële set-up.png" width="500"><br>
   <em> initiële setup </em>
 </p>
 
@@ -46,13 +46,13 @@ Op basis van de door de ouder ingestelde parameters berekent de tool automatisch
 
 Verder zal de ouder wanneer deze bijvoorbeeld wenst dat het kind een hele nacht door zijn tut afstaat een éénmalige tijdsperiode instellen. Ook kan deze aan de tool aangeven dat het proces sneller of trager mag gaan. Dit kan ingesteld worden in volgende interface:
 <p align="center">
-  <img src="../img/persoonlijke instellingen.png" width="300"><br>
+  <img src="../img/persoonlijke instellingen.png" width="500"><br>
   <em> instellingen ouders </em>
 </p>
 
 Deze interface is beschermd door een rekensom, zo kunnen enkel ouders aan deze instelling.
 <p align="center">
-  <img src="../img/rekensom.png" width="150"><br>
+  <img src="../img/rekensom.png" width="500"><br>
   <em> rekensom </em>
 </p>
 

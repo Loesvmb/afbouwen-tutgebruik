@@ -5,7 +5,7 @@
 De algemene challenge is een slimme tool te ontwikkelen die de opvoedstress bij ouders verlicht. Hiervoor moet in eerste instantie het fenomeen van opvoedstress bestudeerd en de probleemruimtes die hierbij komen bepaald worden. Dit was het eerste deel van de discovery-fase. Op het einde van deze fase wordt dan een probleemruimte geselecteerd waarvan de ouders aangaven aanzienlijke stress te ervaren en waarrond een product kan  ontworpen worden die de stress bij ouders zal verlichten. Deze fase verliep in dit project zoals in onderstaande illustratie:
 ![alt text](../img/discovery_overzicht.png)
 <p align="center">
-  <em>Verloop discovery</em>
+  <em>Verloop discovery</em><br>
 De discovery-fase werd uitgevoerd tussen 25/09/2025 en 01/11/2022.
 
 

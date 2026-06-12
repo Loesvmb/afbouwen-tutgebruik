@@ -85,7 +85,7 @@ Het vinden van literatuur in de development-fase 1 verliep zeer moeizaam. Dit kw
 
 In fase 2 verliep het vinden van respondenten zeer moeizaam aangezien de periode waarin de tests uitgevoerd moesten worden rond feestdagen viel. Hiernaast was het moeilijk om een crèche te vinden die gewillig was om de tests uit de voeren met de kinderen, wegens dat het scherm in de tool niet bij hun visie aansluit. 
 
-In fase 3 kon geen derde gebruikerstest uitgevoerd werden omdat een respondent op het laatste moment de afspraak niet meer kon laten doorgaan. 
+In fase 3 kon geen derde gebruikerstest uitgevoerd werden omdat een respondent op het laatste moment de afspraak niet meer kon laten doorgaan. Verder werden er niet voldoende testen uitgevoerd om een goede conclusie te kunne maken rond CMF.
 
 ### Algemeen
 

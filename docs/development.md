@@ -4,7 +4,7 @@
 
 ![alt text](<../img/development 3.png>)
 <p align="center">
-  <em>verloop development 2 </em>
+  <em>Verloop development</em>
 
 ### Development fase 1
 #### Doestellingen
@@ -47,26 +47,26 @@ Het herwerkt prototype ziet er als volgt uit:
 
 <p align="center">
   <img src="../img/eindrender Develop 1.png" width="400"><br>
-  <em> render prototype Development 1 </em>
+  <em> Render prototype Development 1 </em>
 </p>
 
 
 Hierbij werden volgende interfaces getoond op de tablet:
 
 <p align="center">
-  <img src="../img/interface 1.png" width="300">
+  <img src="../img/interface 1.png" width="400">
 
 <p align="center">
-  <img src="../img/interface 2.png" width="300">
+  <img src="../img/interface 2.png" width="400">
 
 <p align="center">
-  <img src="../img/interface 3.png" width="300">
+  <img src="../img/interface 3.png" width="400">
 
 <p align="center">
-  <img src="../img/interface 4.png" width="300">
+  <img src="../img/interface 4.png" width="400">
 <p align="center">
-  <img src="../img/interface 5.png" width="300"><br>
-  <em>afbeeldingen interfaces Develop 1 </em>
+  <img src="../img/interface 5.png" width="400"><br>
+  <em>Afbeeldingen interfaces Develop 1 </em>
 </p>
 
 
@@ -128,7 +128,7 @@ In onderstaande figuur worden de aanpassingen aan het concept weergegeven op de 
 
 <p align="center">
   <img src="../img/overzicht veranderingen Develop 1.png" width="600"><br>
-  <em>overzicht veranderingen Develop 1 </em>
+  <em>Overzicht veranderingen Develop 1 </em>
 </p>
 
 Deze implicaties werden verwerkt in de [design requirements](design_requirements.md) .
@@ -139,20 +139,20 @@ Verder werd het concept tijdens deze fase ontleed in diens functies om zo te bek
 
 <p align="center">
   <img src="../img/opdeling functies tool..png" width="600"><br>
-  <em>opdeling functies </em>
+  <em>Opdeling functies </em>
 </p>
 
 Voor dezelfde reden werden een costumer journey en task hierarchy opgesteld:
 
 <p align="center">
   <img src="../img/costumer journey.png" width="600"><br>
-  <em>costumer journey </em>
+  <em>Costumer journey </em>
 </p>
 
 
 <p align="center">
   <img src="../img/taak-hiërarchie.png" width="600"><br>
-  <em>taken-hiërarchie </em>
+  <em>Taken-hiërarchie </em>
 </p>
 
 Ook werden de design requirements gerangschikt volgens belang aan de hand van een MOSCOW-analyse. Zo worden de belangrijke aspecten die eventueel verder uitgewerkt dienen te worden zichtbaar alsook degene die tijdelijk achterwege gelaten kunnen worden. Deze MOSCOW-analyse werd verricht door beide onderzoekers afzonderlijk en daarna samen besproken. De aspecten die essentieel bleken uit de onderzoeken worden in de MUST-kolom geplaatst, de overige in could of should afhankelijk van hoeveel waarde de gebruikers hieraan hechtten.
@@ -170,7 +170,7 @@ Ook werd een analyse uitgevoerd hoe het volgend prototype opgebouwd zou kunnen w
 
 <p align="center">
   <img src="../img/Deconstructie mogelijk prototype.jpg" width="600"><br>
-  <em>deconstructie mogelijk prototype </em>
+  <em>Deconstructie mogelijk prototype </em>
 </p>
 
 
@@ -196,7 +196,7 @@ De garagepoort wordt gemaakt door een papier naar boven en beneden te schuiven.
 
 <p align="center">
   <img src="../img/prototype high level.jpeg" width="400"><br>
-  <em>prototype 'high level' development 2 </em>
+  <em>Prototype 'high level' Development 2 </em>
 </p>
 
 
@@ -205,17 +205,17 @@ De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli a
 
 
 <p align="center">
-  <img src="../img/Interface 1 protopie.png" width="300">
+  <img src="../img/Interface 1 protopie.png" width="400">
 
 <p align="center">
-  <img src="../img/Interface 2 Protopie.png" width="300">
+  <img src="../img/Interface 2 Protopie.png" width="400">
 
 <p align="center">
-  <img src="../img/Interface 3 protopie.png" width="300">
+  <img src="../img/Interface 3 protopie.png" width="400">
 
 <p align="center">
-  <img src="../img/Interface 4 protopie.png" width="300"><br>
-  <em> interfaces development 2 </em>
+  <img src="../img/Interface 4 protopie.png" width="400"><br>
+  <em> Interfaces Development 2 </em>
 </p>
 
 [Link naar interface protopie](https://cloud.protopie.io/p/b93e0e5fd02e8d751e5a8298)
@@ -238,8 +238,8 @@ Hiervoor werd de tactiek 'design for the tall' toegepast. Dit omdat als de groot
 
 
 <p align="center">
-  <img src="../img/tabel antropometrische data volwassenen.png" width="300"><br>
-  <em> tabel antropometrische data volwassenen </em>
+  <img src="../img/tabel antropometrische data volwassenen.png" width="400"><br>
+  <em> Tabel antropometrische data volwassenen </em>
 </p>
 
 ###### Afstandsbediening kinderen (N=2)
@@ -249,7 +249,7 @@ Er werd uitgekomen op volgende tabel:
 
 <p align="center">
   <img src="../img/tabel antropometrische data kinderen.png" width="600"><br>
-  <em>afmetingen afstandsbedieningen Develop 2 </em>
+  <em>Afmetingen afstandsbedieningen Develop 2 </em>
 </p>
 
 #### Gebruikerstesten (N=3)
@@ -276,14 +276,14 @@ Opvallend is dat beide kinderen niet spontaan ontdekten dat de figuren versleept
 De self-assessment mannequins verliepen minder vlot. Hier was aanzienlijke begeleiding nodig en de kinderen kozen voornamelijk extreme antwoorden. Dit wijst op een te hoge cognitieve belasting en/of te veel keuzemogelijkheden.
 
 <p align="center">
-  <img src="../img/Afbeelding1.png" width="300"><br>
-  <em> foto gebruikerstesten invulling self-assessment mannequins </em>
+  <img src="../img/Afbeelding1.png" width="400"><br>
+  <em> Foto gebruikerstesten invulling Self-assessment Mannequins </em>
 </p>
 
 De ergonomische test toont aan dat een middelgroot formaat van de afstandsbediening het meest geschikt is voor kinderen.
 <p align="center">
-  <img src="../img/ergonomische test kinderen.png" width="300"><br>
-  <em> ergonomische test kinderen </em>
+  <img src="../img/ergonomische test kinderen.png" width="400"><br>
+  <em> Ergonomische test kinderen </em>
 </p>
 De ergonomische afmetingen voor het handvat zijn aanvaardbaar.
 
@@ -326,8 +326,8 @@ De uitgebreidere werkwijze is terug te vinden in het [protocol.](<../reports and
 Met de implicaties en stijlen die geïdentificeerd werden in vorig benchmarkonderzoek worden nu 4 renders gemaakt die elk aan 1 van de stijlen voldoen en aan de algemene tendensen in CMF-strategieën. Van deze renders worden cut-outs gemaakt die verder worden gebruikt in de gebruikerstesten.
 
 <p align="center">
-  <img src="../img/cut-outs stijlen.jpg" width="300"><br>
-  <em> cut-outs CMF-stijlen </em>
+  <img src="../img/cut-outs stijlen.jpg" width="400"><br>
+  <em> Cut-outs CMF-stijlen </em>
 </p>
 
 Een gehele werkwijze van hoe deze renders worden opgebouwd is [hier](<../reports and protocols/Vizcom_werkwijze_develop 3.pdf>) terug te vinden.
@@ -351,26 +351,26 @@ Om bovenstaande storytelling realistisch te maken en vragen te toetsen diende er
 Aan de interface worden 3 zaken toegevoegd:
 - een startscherm om de variabelen van het kind in te stellen voor het eerste gebruik.
 <p align="center">
-  <img src="../img/instellen parameters.png" width="300"><br>
-  <em> interface instellen variabelen </em>
+  <img src="../img/instellen parameters.png" width="400"><br>
+  <em> Interface instellen variabelen </em>
 </p>
 
 - een extra knop bedoelt alleen voor de ouders, waar men via een wiskunde som aan kan, dit om: de eindfase in te gaan, de tool sneller/trager te laten gaan en een eenmalige duur in te stellen.
 
 <p align="center">
-  <img src="../img/wiskundesom.png" width="300"><br>
-  <em> wiskundesom interface </em>
+  <img src="../img/wiskundesom.png" width="400"><br>
+  <em> Wiskundesom interface </em>
 </p>
 <p align="center">
-  <img src="../img/instellingen.png" width="300"><br>
-  <em> instellingen achter icoon interface </em>
+  <img src="../img/instellingen.png" width="400"><br>
+  <em> Instellingen voor de ouders interface </em>
 </p>
 
 - Ook wordt een micro-interactie toegevoegd: een hand die bij de eerste cyclus de beloning sleept, dit omdat uit de vorige fase bleek dat deze interactie niet duidelijk was voor de kinderen. In de test zal nu duidelijk worden of deze interactie dit probleem verhelpt.
 
 <p align="center">
-  <img src="../img/microinteractie hand.png" width="300"><br>
-  <em> micro-interactie hand interface </em>
+  <img src="../img/microinteractie hand.png" width="400"><br>
+  <em> Micro-interactie hand </em>
 </p>
 
 
@@ -378,8 +378,8 @@ Aan de interface worden 3 zaken toegevoegd:
 Aan de tool zelf wordt 1 aanpassing gedaan. Er wordt aan de achterkant een ruimte voorzien voor het boek. 
 
 <p align="center">
-  <img src="../img/extra ruimte tool.jpg" width="300"><br>
-  <em> extra ruimte voor boek </em>
+  <img src="../img/extra ruimte tool.jpg" width="400"><br>
+  <em> Extra ruimte voor boek </em>
 </p>
 
 
@@ -388,13 +388,13 @@ Aan de tool zelf wordt 1 aanpassing gedaan. Er wordt aan de achterkant een ruimt
 Om ook het initialiseren van de tool bij de ouder te testen worden een productdoos en een handleiding van de tool gemaakt.
 
 <p align="center">
-  <img src="../img/handleiding too.png" width="300"><br>
-  <em> handleiding van de tool </em>
+  <img src="../img/handleiding too.png" width="400"><br>
+  <em> Handleiding van de tool </em>
 </p>
 
 <p align="center">
-  <img src="../img/doos tool.jpg" width="300"><br>
-  <em> doos van de tool </em>
+  <img src="../img/doos tool.jpg" width="400"><br>
+  <em> Doos van de tool </em>
 </p>
 
 #### Resultaten
@@ -418,6 +418,8 @@ De respondenten vinden het belangrijk dat de duur van de cycli aangepast kan wor
 De kinderen konden na de uitleg voorzien door het boek zelfstandig een volgende cyclus doorlopen en wilden graag vervolg cycli starten. 
 De respondenten gaven aan dat de kinderen na het afstaan van de tut nood hebben aan een alternatief troostobject, zoals een knuffel, dit dient dus voorzien te worden bij de tool. 
 De tool zou volgens haar zichtbaar in de leefkamer geplaatst worden aangezien dit een centrale plaats is in het huis. 
+
+Er werden niet genoeg CMF-testen uitgevoerd om een finale conclusie te kunnen maken.
 
 De volledige resultaten zijn terug te vinden in het [rapport](<../reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>).
 

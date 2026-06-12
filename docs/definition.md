@@ -3,7 +3,7 @@ De definition-fase bestaat uit drie onderzoek waves. Deze werden uitgevoerd tuss
 
 ![alt text](<../img/definition schema.png>)
 <p align="center">
-  <em>verloop defenition </em>
+  <em>Verloop defenition </em>
 
 ### WAVE1
 #### Doestellingen
@@ -23,27 +23,27 @@ Vijf concepten werden vergeleken via storyboards en realistische Vizcom-visualis
 Concept 1:
 ![alt text](../img/image-14.png)![alt text](../img/image-5.png)
 <p align="center">
-  <em>concept 1 definition WAVE 1</em>
+  <em>Concept 1 definition WAVE 1</em>
 
 Concept 2:
 ![alt text](<../img/storyboard slotje.png>)![alt text](../img/image-20.png)
 <p align="center">
-  <em>concept 2 definition WAVE 1</em>
+  <em>Concept 2 definition WAVE 1</em>
 
 Concept 3:
 ![alt text](../img/image-8.png)![alt text](../img/image-9.png)
 <p align="center">
-  <em>concept 3 definition WAVE 1</em>
+  <em>Concept 3 definition WAVE 1</em>
 
 Concept 4:
 ![alt text](../img/image-10.png)![alt text](../img/image-11.png)
 <p align="center">
-  <em>concept 4 definition WAVE 1</em>
+  <em>Concept 4 definition WAVE 1</em>
 
 Concept 5:
 ![alt text](../img/image-12.png)![alt text](../img/image-13.png)
 <p align="center">
-  <em>concept 5 definition WAVE 1</em>
+  <em>Concept 5 definition WAVE 1</em>
  
 In onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
  - Ouders:
@@ -95,13 +95,13 @@ Concept 1:
 ![alt text](../img/image-18.png)
 ![alt text](../img/image-19.png)
 <p align="center">
-  <em>concept 1 definition WAVE 2</em>
+  <em>Concept 1 definition WAVE 2</em>
 
 Concept 2:
 ![alt text](../img/image-15.png)
 ![alt text](../img/image-16.png)
 <p align="center">
-  <em>concept 2 definition WAVE 2</em>
+  <em>Concept 2 definition WAVE 2</em>
 
 In onderstaand protocol zijn de onderzoeksvragen terug te vinden en hoe dit proces plaatsvond. 
 [Inerview protocol WAVE 2](<../reports and protocols/Interview - protocol - ouders -wave2.pdf>)

@@ -5,7 +5,7 @@
 De algemene challenge is een slimme tool te ontwikkelen die de opvoedstress bij ouders verlicht. Hiervoor moet in eerste instantie het fenomeen van opvoedstress bestudeerd en de probleemruimtes die hierbij komen bepaald worden. Dit was het eerste deel van de discovery-fase. Op het einde van deze fase wordt dan een probleemruimte geselecteerd waarvan de ouders aangaven aanzienlijke stress te ervaren en waarrond een product kan  ontworpen worden die de stress bij ouders zal verlichten. Deze fase verliep in dit project zoals in onderstaande illustratie:
 ![alt text](discovery_overzicht.png)
 <p align="center">
-  <em>overzicht discovery</em>
+  <em>Verloop discovery</em>
 
 Als start werd een literatuuronderzoek verricht, dit om inzicht te verkrijgen in wat opvoedstress precies inhoudt en welke effecten dit heeft op het gezinsleven. Hiervoor werden 10 bronnen geraadpleegd. Dit onderzoek had als onderzoeksvragen:
 - Wat houdt opvoedstress in?

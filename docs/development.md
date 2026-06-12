@@ -1,4 +1,3 @@
-## Development
 <!-- Max. 1000 woorden.   
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen. -->
 
@@ -176,7 +175,7 @@ Ook werd een analyse uitgevoerd hoe het volgend prototype opgebouwd zou kunnen w
 
 ### Development fase 2
 #### Doestellingen
-Voor deze fase was onze voornaamste doelstelling om gebruikerstesten uit te voeren, om zo de interesse en het begrip van de gebruikersgroep te toetsen. Daarvoor moet een nieuw, meer high-level prototype gemaakt worden waarmee, aan de hand van Wizard of Oz gebruikerstesten uitgevoerd kunnen worden.
+Voor deze fase was de voornaamste doelstelling om gebruikerstesten uit te voeren, om zo de interesse en het begrip van de gebruikersgroep te toetsen. Daarvoor moet een nieuw, meer high-level prototype gemaakt worden waarmee, aan de hand van Wizard of Oz gebruikerstesten uitgevoerd kunnen worden.
 
 Hiernaast was een bijkomende doelstelling, aangezien we in aanraking komen met de gebruikersgroep, een ergonomische test de doen omtrent het handvat van de tool en een afstandsbediening voor kinderen.
 
@@ -253,6 +252,12 @@ Er werd uitgekomen op volgende tabel:
 </p>
 
 #### Gebruikerstesten (N=3)
+Volgende onderzoeksvragen dienden beantwoord te worden in de gebruikerstesten:
+- Begrijpen de ouders hoe de tool werkt?
+- Begrijpen de kinderen de werking van de tool en kunnen ze deze zelfstandig gebruiken?
+-	Behouden de kinderen hun interesse gedurende het proces?
+- Zijn de kinderen gemotiveerd om meerdere cycli te doorlopen?
+
 In de gebruikerstesten worden zowel kinderen als volwassenen bevraagd. De doelgroep zijn kinderen tussen 2 en 5 jaar oud, het maakt hierbij niet uit of ze al dan niet een tut gebruiken aangezien alleen naar hun begrip en interesse wordt gekeken. De volwassenen zijn hierbij diegenen die het verhaaltje doorlopen met de kinderen om van hen directe feedback te krijgen.
 De kinderen worden na het gebruik ondervraagd met een self assesment mannequins en de begeleiders worden in een kort interview bevraagd.
 

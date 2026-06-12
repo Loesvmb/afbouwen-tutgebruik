@@ -22,4 +22,6 @@ Echter werd reeds nagedacht over welke componenten nodig dienen te zijn om een w
 ![alt text](<../img/Deconstructie mogelijk prototype.jpg>)
 <p align="center">
   <em>Deconstructie mogelijk prototype</em> <br>
+<p
+
 Er werd nog geen code geschreven voor de interface, dit dient in verdere stappen gemaakt te worden, ook dient het model van het dak verfijnt te worden. Om esthetische redenen zou ook het frame met een 3D-model gemaakt kunnen worden.

@@ -3,7 +3,7 @@
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen. -->
 
 De algemene challenge is een slimme tool te ontwikkelen die de opvoedstress bij ouders verlicht. Hiervoor moet in eerste instantie het fenomeen van opvoedstress bestudeerd en de probleemruimtes die hierbij komen bepaald worden. Dit was het eerste deel van de discovery-fase. Op het einde van deze fase wordt dan een probleemruimte geselecteerd waarvan de ouders aangaven aanzienlijke stress te ervaren en waarrond een product kan  ontworpen worden die de stress bij ouders zal verlichten. Deze fase verliep in dit project zoals in onderstaande illustratie:
-![alt text](discovery_overzicht.png)
+![alt text](../img/discovery_overzicht.png)
 <p align="center">
   <em>Verloop discovery</em>
 
@@ -63,7 +63,7 @@ Het uitgebreidere verslag is hieronder terug te vinden:
 [Rapport gebruikersinerviews](<../reports and protocols/Interview Rapport_Vanmeerbeek_Loes.pdf>)
 
 De probleemruimtes die werden gedefinieerd in deze 3 onderzoeken werden uitgezet in een problem-solution matrix:
-![alt text](<problem solution matrix.png>)
+![alt text](<../img/problem solution matrix.png>)
 <p align="center">
   <em>problem solution matrix</em>
 
@@ -76,7 +76,7 @@ Alle geïnterviewde ouders gaven aan dat het afleren van het tutgebruik een zeer
 
 Hieruit bleek dat langdurig tutgebruik veel negatieve (medische) gevolgen heeft, naast de zeer emotionele ervaring waarbij de tut van de ene op de andere dag verdwijnt bv. de tut wordt meegegeven aan Sinterklaas. Voor het tutgebruik bestaat er nog geen product die het afbouwen van het tutgebruik tot een positieve ervaring maakt. De schaarse producten die bestaan, lijken niet de voldoen aan de verwachtingen van de ouders. Om dit hiaat te vullen, werd er besloten om dit probleem aan te pakken om zo, de hoewel korte stressvolle periode, het afscheid nemen van de tut bij ouders en kinderen te verlichtten. Hierrond werd onderstaande innovatrix uitgewerkt:
 
-![alt text](<innovatrix- tutgebruik bij kinderen_Vanmeerbeek_Loes.png>)
+![alt text](<../img/innovatrix- tutgebruik bij kinderen_Vanmeerbeek_Loes.png>)
 <p align="center">
   <em>innovatrix</em>
 

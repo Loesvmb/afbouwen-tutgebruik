@@ -12,14 +12,14 @@ Het frame dient vervolgens verlijmt te worden met houtlijm.
 
 - De auto waar de tut in past werd gemaakt met een 3D printer aan de hand van een [3MF-file](<../cad/auto tut (1).3mf>) dat online werd gevonden.
 
-- De 2 eerste hoofdstukken van het [boek](<Instructieboekje eerste 2 hoofdstukken.pdf>) werd afgedrukt en ingebonden. Volgende hoofdstukken dienen nog gemaakt te worden.
+- De 2 eerste hoofdstukken van het [boek](<../reports and protocols/Instructieboekje eerste 2 hoofdstukken.pdf>) werd afgedrukt en ingebonden. Volgende hoofdstukken dienen nog gemaakt te worden.
 
 - Het dak werd gemodeleert op Siemens NX en vervolgens geprint via een [3MF- file](<../cad/dak concept (1).3mf>).
 Dit dak word met vijzen eenmalig bevestigd op het frame.
 
 
 Echter werd reeds nagedacht over welke componenten nodig dienen te zijn om een werkend product te maken. Dit is weergegeven in onderstaand schema.
-![alt text](<Deconstructie mogelijk prototype.jpg>)
+![alt text](<../img/Deconstructie mogelijk prototype.jpg>)
 <p align="center">
   <em>Deconstructie mogelijk prototype</em> <br>
 Er werd nog geen code geschreven voor de interface, dit dient in verdere stappen gemaakt te worden, ook dient het model van het dak verfijnt te worden. Om esthetische redenen zou ook het frame met een 3D-model gemaakt kunnen worden.

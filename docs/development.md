@@ -10,14 +10,15 @@ De development-fase bestaat uit drie onderzoek fases. Deze werden uitgevoerd tus
 
 ### Development fase 1
 #### Doestellingen
-Na de discovery-fase was de grootste onzekerheid hoe het afbouwplan diende opgebouwd te worden. Daarom was het doel om in deze fase dit plan concreet te maken. De hoofdvragen in deze fase luiden:
+Na de discoveryfase was de grootste onduidelijkheid hoe het afbouwplan stapsgewijs in de tijd moest worden opgebouwd. Daarom was het doel om in deze fase dit plan concreet te maken. De hoofdvragen in deze fase luiden:
 -	Wat houdt afleren concreet in?
--   Hoe kan dit geïmplementeerd worden in de tool?
+- Hoe kan dit geïmplementeerd worden in de tool? 
+Naast deze hoofdvragen waren er enkele deelvragen die dieper ingingen op het concreet gebruik van de tool.
 
 #### Materiaal & methoden
 ##### Literatuuronderzoek (N=13)
 
-Om hier een concreet plan van te maken werd eerst een literatuuronderzoek (n=13; 19/02/2026-26/02/2026) verricht waarbij volgende onderzoeksvragen centraal stonden: 
+Om een concreet plan  te maken werd eerst een literatuuronderzoek (n=13; 19/02/2026-26/02/2026) verricht waarbij volgende onderzoeksvragen centraal stonden: 
 -	Wat houdt afleren concreet in?
 -	Wat zijn verschillende bestaande manieren waarop kinderen iets afleren?
     - Welke elementen zijn hierbij belangrijk?
@@ -32,19 +33,14 @@ De methode van het onderzoek wordt beschreven in volgend protocol:
 Het literatuuronderzoek gaf al een concreter beeld van hoe het plan er theoretisch uit moet zien. Om dit meer concreet te maken werden er 2 expertinterviews verricht met masterstudenten pedagogie (2/03/2026-07/03/2026), de vragen die hierin werden gesteld speelden in op de implicaties uit het literatuuronderzoek. In deze interviews stonden volgende onderzoekvragen centraal:
 -	Hoe moet het afbouwplan opgebouwd zijn?
     - Aan welke belangrijke aspecten moet dit zeker voldoen?
-    - Hoe groot moeten de stappen zijn tussen de vastzetduren van de tut?
-    - Hoelang moet elke stap aangehouden worden?
-    - Moeten deze stappen altijd dezelfde tijdsduur omvatten?
 -	Moet er een vervanging voor de tut aangeboden worden, eventueel via de tool?
 -	Welke tijdsspanne moet worden voorzien voor het afleerproces?
--	Moet het afleerproces aangepast worden aan de duur en intensiteit van het tutgebruik?
--	Moeten er meldingen gegeven worden aan de ouders om  consistent gebruik van de tool te stimuleren?
 -	Hoe kan het afleerproces best beëindigd worden?
 
 De methode van de interviews wordt beschreven in volgend protocol:
 [Protocol expertinterviews](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)
 
-Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo kunnen de experten gerichte feedback geven. Er werden vragen gesteld naar de afbouw van de tool, de algemene duur en de grootte van de stappen die in dit afbouwproces dienden genomen te worden. 
+Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE van definition, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo kunnen de experten gerichte feedback geven. Er werden vragen gesteld naar het afbouwproces van de tool, de algemene duur en de grootte van de stappen die in dit afbouwproces dienen genomen te worden. 
 Het herwerkt prototype ziet er als volgt uit:
 
 <p align="center">
@@ -77,36 +73,38 @@ Hierbij werden volgende interfaces getoond op de tablet:
 Afleren is een bewust proces waarbij individuen kritisch reflecteren op hun mentale modellen en waarbij een gewoonte plaatsmaakt voor een andere; dit kan gepaard gaan met een gevoel van ongemak (Giulioni, 2018; Krauss, 2019; Inero Valbuena Ancho, 2019). Uit het literatuuronderzoek blijkt dat er geen concreet proces bestaat om iets af te leren, maar dat herhaling, positieve directe bekrachtiging, het vermijden van negatieve ervaringen, kleine beloningsstappen, steun uit de omgeving, intrinsieke motivatie en voldoende tijd belangrijke bevorderende factoren zijn. 
 
 ##### Expertinterviews (N=2)
+###### Afbouwplan
+De experten hielpen in het concreter maken van een afbouwplan.
+De lengte van het traject kan door het kind bepaald worden doordat het kind pas naar een volgende fase, een bepaalde vastzetduur van de tut, kan gaan wanneer deze de vorige voltooid heeft. Elke fase bevat wel een minimumduur van bv. 1 week. Het kind moet in die tijd de vastzetduur een aantal keren gehaald hebben, anders wordt deze tijdsspanne verlengd totdat hij/zij dit aantal wel haalt. 
+De minimumduur van deze fasen zal in het begin van het gebruik van de tool eerder groot, 1 week, zijn aangezien de kinderen moeten wennen aan de tool.
+Verder zal het tijdsverschil van de vastzetduur tussen de fasen in het begin van het gebruik eerder klein zijn maar zal het toenemen naarmate het gebruik van de tool vordert. 
+De duur van de fasen en het verschil ertussen moet afhangen van 2 parameters: leeftijd van het kind en intensiteit van het tutgebruik. Als het kind ouder is of de tut niet intensief gebruikt kunnen deze fasen sneller op elkaar volgen en groter worden.  
+
+###### Gebruik tool
 Verder blijkt uit de expertinterviews dat ouders samen met het kind een eerste cyclus van de tool moeten doorlopen zodat duidelijk wordt voor het kind hoe de tool werkt. 
+
 ‘Ik denk altijd een beloning, ik heb het gevoel dat ik iets goed gedaan heb.’ 
 Een beloningssysteem wordt als belangrijk beschouwd omdat het kind zo focust op positieve ervaringen. Hierbij is het belangrijk dat het kind 3 keer een variatie van dezelfde beloning krijgt.
 
-De lengte van het traject kan door het kind bepaald worden doordat het kind pas naar een volgende stap, vastzetduur van de tut, kan gaan wanneer deze de vorige voltooid heeft. Elke fase bevat wel een minimumduur van bv. 1 week. Het kind moet dan de vastzetduur een aantal keren gehaald hebben, anders wordt deze tijdsspanne verlengd totdat hij/zij dit aantal wel haalt. 
-De duur van deze stappen zal in het begin van het gebruik van de tool eerder groot, 1 week, zijn aangezien de kinderen moeten wennen aan de tool.
-Verder zal het tijdsverschil tussen de stappen in het begin van het gebruik eerder klein zijn maar zal het toenemen naarmate het gebruik van de tool vordert. 
-De duur van de stappen en het verschil ertussen moet afhangen van 2 parameters: leeftijd van het kind en intensiteit van het tutgebruik. Als het kind ouder is of de tut niet intensief gebruikt kunnen deze stappen sneller op elkaar volgen en groter worden.  
+Ouders zouden moeten kunnen kiezen om al dan niet meldingen te ontvangen over het gebruik van de tool om consistent gebruik te verzekeren. Consistentie hangt hierbij ook af van het moment van de dag, naast het regelmatig gebruik van de tool, een terugkerend event in de agenda kan dit dus bevorderen. 
 
-Ouders zouden moeten kunnen kiezen om al dan niet meldingen te ontvangen over het gebruik van de tool om consistent gebruik te verzekeren. Consistentie hangt ook af van het moment van de dag, een terugkerend event in de agenda kan de consistentie dus ook bevorderen. 
-
-Daarnaast kan de tool een verhaallijn bevatten rond het afstaan van de tut en het optioneel een vervangend hechtingsvoorwerp aanbieden. Deze verhaallijn draagt bij aan het derde aspect van de zelfdeteminatietheorie van Edward Deci: verbondenheid. Deze verhaallijn kan geïntegreerd worden in een boek opdat de ouder ook in het proces betrokken is met het kind en om de interacties tussen scherm en kind zo laag mogelijk te houden.
+Daarnaast kan de tool een verhaallijn bevatten rond het afstaan van de tut en kan het optioneel een vervangend hechtingsvoorwerp aanbieden. Deze verhaallijn draagt bij aan het derde aspect van de zelfdeteminatietheorie van Edward Deci: verbondenheid. Deze verhaallijn kan geïntegreerd worden in een boek opdat de ouder ook in het proces betrokken is met het kind en om de interacties tussen scherm en kind zo laag mogelijk te houden.
 
 Tot slot kunnen de ouders meldingen ontvangen wanneer het kind mogelijk klaar is voor de definitieve slotfase, de ouders moeten zelf aangeven dat het kind hier ook klaar voor is.
 
 
 #### Conclusies & implicaties
-Het afleren van tutgebruik is een bewust en tijdsintensief proces waarbij een gewoonte stap voor stap vervangen wordt door een nieuwe en dat vaak gepaard gaat met ongemak. Uit het literatuuronderzoek blijkt dat er geen vast proces bestaat om iets af te leren, maar dat factoren zoals herhaling, onmiddellijke bekrachtiging, sociale steun, intrinsieke motivatie en voldoende tijd dit proces ondersteunen. Een tool voor het afleren van tutgebruik moet daarom flexibel zijn en aangepast kunnen worden aan het tempo van het kind, met kleine stappen in het begin en grotere stappen later. Daarnaast spelen een beloningssysteem, een verhaallijn, de begeleiding van ouders een belangrijke rol, waarbij ouders beslissen wanneer de slotfase start waarin het kind de tut definitief afgeeft.
+Het afleren van tutgebruik is een bewust en tijdsintensief proces waarbij een gewoonte stap voor stap vervangen wordt door een nieuwe en dat vaak gepaard gaat met ongemak. Uit het literatuuronderzoek blijkt dat er geen vast proces bestaat om iets af te leren, maar dat factoren zoals herhaling, onmiddellijke bekrachtiging, sociale steun, intrinsieke motivatie en voldoende tijd dit proces ondersteunen. Een tool voor het afleren van tutgebruik moet daarom flexibel zijn en aangepast kunnen worden aan het tempo van het kind, met kleine stappen in het begin en grotere stappen later. Daarnaast spelen een beloningssysteem, een verhaallijnen de begeleiding van ouders een belangrijke rol. De ouders dienen te beslissen wanneer de slotfase start waarin het kind de tut definitief afgeeft.
 
 ##### Literatuuronderzoek (N=13)
 Uit het literatuur onderzoek kwamen geen explicitie methodes naar boven, echter wel veel belangrijke factoren die in het afbouwproces geïmplementeerd dienen te worden. Dit zijn:
 - De gebruikers moeten direct beloond worden
 - Het afleerproces moet gebaseerd zijn op herhaling
 - Het afleerproces moet bewuste inspanning vereisen
-- De gebruiker moet ondersteund worden door diens omgeving
 - De duur van de opeenvolgende stappen moet gradueel verlengd worden
 - De tool moet aanpasbaar zijn in tijdsduren afhankelijk van hoe lang het kind de tut gebruikt
 - De tool moet consistent gebruikt worden
 - Een versterker is veel effectiever wanneer deze onmiddellijk op het gedrag volgt, zodat het kind direct de link legt tussen het gedrag en het resultaat
-- De versterking moet gericht zijn op de specifieke acties van het kind en niet op de persoonlijkheid van het kind zelf
 - Het duurt ongeveer 10 weken om een gewoonte te breken, al kan het afleren van bepaalde gewoontes meer of minder tijd in beslag nemen
 
 [literatuuronderzoek rapport](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)
@@ -115,14 +113,11 @@ Uit het literatuur onderzoek kwamen geen explicitie methodes naar boven, echter 
 Uit de expertinterviews kwamen volgende implicaties voort:
 
 - De werking van de tool moet duidelijk gemaakt worden aan het kind enerzijds door de tool zelf en anderzijds met de hulp van de ouders
-- De tool geeft tips aan de ouders om het afleerproces te bevorderen: sociale beloningen en de tool dagelijks op een vast tijdstip gebruiken
 - De opbouwende stappen van het afleerproces zijn in het begin klein en worden groter naarmate het kind verder in het afbouwproces komt
 - De afbouwcyclus is afhankelijk van kind tot kind doordat het kind pas naar de volgende stap kan gaan wanneer deze de vorige heeft vervolledigd (volgehouden heeft tot de 2de ster)
 - De ouders moeten zelf kunnen aangeven of ze meldingen wensen te ontvangen om de tool de gebruiken
 - De tool bevat een verhaallijn, waarbij het kind op het einde zijn tut dient af te staan om iets of iemand in de verhaallijn te helpen
 - De tool stuurt een indicatie van het einde aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt
-- De beloningen per ster zijn duidelijk verschillend in waarde voor de kinderen
-
 
 [expertinterviews rapport](<../reports and protocols/Interview_rapport_Develop1.pdf>)
 
@@ -167,7 +162,7 @@ Ook werden de design requirements gerangschikt volgens belang aan de hand van ee
 
 Aan de hand van bovenstaande weergaven kan bepaald worden wat in de volgende fase verder uitgewerkt dient te worden.
 
-Ook werd een analyse uitgevoerd hoe het volgend prototype opgebouwd zou kunnen worden om zo naar een high-level prototype te evolueren:
+Ook werd een analyse uitgevoerd hoe een volgend prototype opgebouwd zou kunnen worden om zo naar een high-level prototype te evolueren:
 
 
 <p align="center">
@@ -180,11 +175,11 @@ Ook werd een analyse uitgevoerd hoe het volgend prototype opgebouwd zou kunnen w
 #### Doestellingen
 Voor deze fase was de voornaamste doelstelling om gebruikerstesten uit te voeren, om zo de interesse en het begrip van de gebruikersgroep te toetsen. Daarvoor moet een nieuw, meer high-level prototype gemaakt worden waarmee, aan de hand van Wizard of Oz gebruikerstesten uitgevoerd kunnen worden.
 
-Hiernaast was een bijkomende doelstelling, aangezien we in aanraking komen met de gebruikersgroep, een ergonomische test de doen omtrent het handvat van de tool en een afstandsbediening voor kinderen.
+Hiernaast was een bijkomende doelstelling, aangezien er in aanraking gekomen wordt met de gebruikersgroep, een ergonomische test uit te voeren omtrent het handvat van de tool en een afstandsbediening voor kinderen voor de garage van de tool.
 
 #### Materiaal & methoden
 ##### Benchmarkonderzoek (N=13)
-Om deze fase te realiseren en het begrip te testen moet het eerste hoofdstuk van het boek reeds geschreven zijn. Dit benchmarkonderzoek werd verricht om erachter te komen hoe dit best kon opgesteld worden en wat de status quo is in het uitleggen van gebruik aan kinderen. Dit bevat volgende onderzoeksvragen:
+Om deze fase te realiseren en het begrip te testen moet het eerste hoofdstuk van het boek reeds geschreven zijn, waarin de tool aan de kinderen uitgelegd wordt. Dit benchmarkonderzoek werd verricht om erachter te komen hoe dit best kon opgesteld worden en wat de status quo is in het uitleggen van gebruik aan kinderen. Dit onderzoek bevat volgende onderzoeksvragen:
 - Wat zijn de verschillende methoden die in hedendaagse producten gebruik worden om iets uit te leggen aan kinderen?
 - Hoe kunnen deze geïntegreerd worden in de tool?
 - Welke verschillende methoden gebruiken boeken om de zintuigen aan te spreken?
@@ -193,17 +188,17 @@ Om deze fase te realiseren en het begrip te testen moet het eerste hoofdstuk van
 
 ##### Prototyping
 ###### Fysiek prototype
-Voor het fysiek prototype werd besloten een houten frame te maken met lasercutting, en het dak en de auto met 3D-printing.
+Voor het fysiek prototype werd besloten een houten frame te maken met lasercutting, het dak en de auto met 3D-printing.
 De garagepoort wordt gemaakt door een papier naar boven en beneden te schuiven.
 
 <p align="center">
   <img src="../img/prototype high level.jpeg" width="400"><br>
   <em>Prototype 'high level' Development 2 </em>
 </p>
-
+ 
 
 ###### Interface
-De interface werd handmatig op protopy gemaakt. Deze is ontworpen voor 2 cycli aangezien er enkel 2 cycli in de gebruikerstesten doorlopen zullen worden.
+De interface werd handmatig op Protopy gemaakt. Deze is ontworpen voor 2 cycli aangezien er enkel 2 cycli in de gebruikerstesten doorlopen zullen worden. 
 
 
 <p align="center">
@@ -230,13 +225,13 @@ De interface bevat volgende legende om volgens Wizard of Oz te werken:
 - 3: 3 sterren voltooid, keuzemenu verschijnt en er wordt gezegd: 'Goed gedaan!'
 
 ###### Instructieboekje
-Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan de kinderen het gebruik van de tool uitlegt. Hiervoor wordt een beer gebruikt die de werking zal uitleggen en die de kinderen zal helpen. Daarnaast wordt er zo weinig mogelijk teskst gebruikt en zo visueel mogelijk gewerkt. Er wordt gekozen voor een fysiek boekje om de betrokkenheid te verhogen en de interacties met het scherm zo laag mogelijk te houden.
+Uit de implicaties van het benchmarkonderzoek werd een verhaal gemaakt dat aan de kinderen het gebruik van de tool uitlegt. Hiervoor wordt een beer gebruikt die de werking zal uitleggen en die de kinderen zal helpen. Daarnaast wordt er zo weinig mogelijk tekst gebruikt en zo visueel mogelijk gewerkt.
 
 [Instructieboekje voor eerste 2 cycli](<../reports and protocols/Instructieboekje eerste 2 hoofdstukken.pdf>)
 
 ##### Ergonomische test 
 ###### Handvat (N=2)
-Hiervoor werd de tactiek 'design for the tall' toegepast. Dit omdat als de grootste hand het handvat kan vastnemen zonder dat deze vervelend de vingers moet plooien, andere volwassen gebruikers dit ook kunnen doen. Dit wordt getest in de gebruikerstesten. De afmetingen werden gebaseerd op volgende tabel, mannen werden geraadpleegd aangezien zij gemiddeld grotere handen hebben:
+Hiervoor werd de tactiek 'design for the tall' toegepast. Dit omdat als de grootste hand het handvat kan vastnemen zonder dat deze vervelend de vingers moet plooien, andere volwassen gebruikers dit ook kunnen doen. De afmetingen werden gebaseerd op volgende tabel; mannen werden geraadpleegd aangezien zij gemiddeld grotere handen hebben:
 
 
 <p align="center">
@@ -245,7 +240,7 @@ Hiervoor werd de tactiek 'design for the tall' toegepast. Dit omdat als de groot
 </p>
 
 ###### Afstandsbediening kinderen (N=2)
-Voor de afmetingen van de afstandsbediening was geen zekerheid over welke strategie het beste is, daarom werd besloten 3 strategieën toe te passen en te vergelijken in de gebruikerstest. De 3 strategieën waartussen geen eenduidig antwoord was zijn: design for the tall, design for the mean en design for the small. De afmetingen van een gemiddeld volwassen man werden vergeleken met de afmetingen van de kinderen. Zo werd een autosleutel die nu op de markt is 3 maal verschaalt. Met deze afmetingen worden 3 modellen gemaakt waarop aan de hand van sticky dots de ergonomie getest zal worden.
+Voor de afmetingen van de afstandsbediening was geen zekerheid over welke strategie het beste is, daarom werd besloten 3 strategieën (design for the tall, design for the mean en design for the small) toe te passen en deze te vergelijken in de gebruikerstest. De afmetingen van een gemiddeld volwassen mannen hand werden vergeleken met de afmetingen van de kinderhanden tussen 2-4 jaar. Zo werd een autosleutel die nu op de markt is 3 maal verschaalt. Met deze afmetingen worden 3 modellen gemaakt van de afstandbediening waarop aan de hand van sticky dots de ergonomie getest zal worden.
 
 Er werd uitgekomen op volgende tabel:
 
@@ -264,7 +259,7 @@ Volgende onderzoeksvragen dienden beantwoord te worden in de gebruikerstesten:
 In de gebruikerstesten worden zowel kinderen als volwassenen bevraagd. De doelgroep zijn kinderen tussen 2 en 5 jaar oud, het maakt hierbij niet uit of ze al dan niet een tut gebruiken aangezien alleen naar hun begrip en interesse wordt gekeken. De volwassenen zijn hierbij diegenen die het verhaaltje doorlopen met de kinderen om van hen directe feedback te krijgen.
 De kinderen worden na het gebruik ondervraagd met een self assesment mannequins en de begeleiders worden in een kort interview bevraagd.
 
-Verder wordt de ergonomie-test uitgevoerd met prototypes die gemodelleerd werden en worden hier sticky dots op geplakt. Hier worden foto's van genomen die later geanalyseerd worden.
+Verder worden van de ergonomietesten foto's genomen die later geanalyseerd worden.
 
 De gehele methode is terug te vinden in het
 [protocol](<../reports and protocols/Protcol gebruikerstesten-develop 2.pdf>).
@@ -277,11 +272,10 @@ In al de boeken wordt gebruik gemaakt van korte en heldere zinsconstructies. De 
 De uitgebreidde resultaten zijn terug te vinden in het [rapport](<../reports and protocols/Benchmark_rapport_develop 2.pdf>).
 
 ##### Gebruikerstesten (N=3)
-Uit de gebruikerstesten blijkt dat zowel ouders als kinderen de tool over het algemeen goed begrijpen en positief ervaren. Beide kinderen toonden interesse in het verhaal, waarbij de narratieve context een duidelijke rol speelt in het verhogen van betrokkenheid. De motivatie om meerdere cycli te doorlopen was bij beide kinderen aanwezig, wat wijst op een aantrekkelijk en herhaalbaar concept.
+Uit de gebruikerstesten blijkt dat zowel ouders als kinderen de tool over het algemeen goed begrijpen en positief ervaren. De kinderen toonden interesse in het verhaal, waarbij de narratieve context een duidelijke rol speelt in het verhogen van betrokkenheid. De motivatie om meerdere cycli te doorlopen was bij de kinderen aanwezig, wat wijst op een motiverend en intressant concept.
 
-
-Opvallend is dat beide kinderen niet spontaan ontdekten dat de figuren versleept konden worden. 
-De self-assessment mannequins verliepen minder vlot. Hier was aanzienlijke begeleiding nodig en de kinderen kozen voornamelijk extreme antwoorden. Dit wijst op een te hoge cognitieve belasting en/of te veel keuzemogelijkheden.
+Opvallend is dat de kinderen niet spontaan ontdekten dat de figuren versleept konden worden. 
+De self-assessment mannequins verliepen minder vlot, hier was aanzienlijke begeleiding nodig en de kinderen kozen voornamelijk extreme antwoorden. Dit wijst op een te hoge cognitieve belasting en/of te veel keuzemogelijkheden, de kinderen waren te jong voor de complexiteit van de mannequins.
 
 <p align="center">
   <img src="../img/Afbeelding1.png" width="400"><br>
@@ -303,8 +297,8 @@ Volgende zaken konden voor toepassing op de tool afgeleid worden uit het benchma
 Als 'could' kunnen nog sensoriële ervaringen geïmplementeerd worden.
 
 ##### Gebruikerstesten (N=3)
-De gebruikerstesten tonen aan dat de tool begrijpelijk, motiverend en aantrekkelijk is voor zowel kinderen als ouders. Kinderen zijn in staat om de werking relatief snel te begrijpen en tonen bereidheid om meerdere cycli te doorlopen. Het narratief speelt hierbij een cruciale rol in het verhogen van betrokkenheid.
-Er zijn echter verbeterpunten op vlak van intuïtieve interactie en evaluatiemethoden. Bepaalde functionaliteiten worden niet spontaan ontdekt en de huidige self-assessment methode is niet optimaal afgestemd op de doelgroep, dit kan opgelost worden door maar 3 keuzes van emoties voor te leggen.
+De gebruikerstesten tonen aan dat de tool begrijpelijk, motiverend en aantrekkelijk is voor zowel kinderen als ouders. Kinderen zijn in staat om de werking relatief snel te begrijpen en tonen bereidheid om meerdere cycli te doorlopen. Het verhaal speelt hierbij een cruciale rol in het verhogen van betrokkenheid.
+Sommige functionaliteiten worden niet spontaan ontdekt en de huidige self-assessment methode is niet optimaal afgestemd op de doelgroep, dit kan opgelost worden door maar 3 keuzes van emoties voor te leggen in plaats van 5.
 
 Deze implicaties werden verwerkt in de [design requirements](design_requirements.md). 
 

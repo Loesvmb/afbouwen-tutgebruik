@@ -21,13 +21,13 @@ Tijdens deze periode ziet het kind visuele feedback zoals sterretjes op een voor
 De kinderen hebben zelf de keuze om na de ingestelde tijd, 2 sterren, de tut langer af te staan en zo een grotere beloning te verkrijgen, deze corresponderen met verder gelegen sterretjes op de voortgangsbalk.
 Wanneer het kind de tut terugneemt heeft deze een keuze tussen 3 varianten van een beloning, deze kan in het huis geplaatst worden om zo zichtbare vooruitgang op langere termijn te krijgen. 
 
-Ook hebben de ouders de keuze om meldingen van de tool te krijgen om consequent gebruik te garanderen.
-
 Als laatste bevat de interface van de tool een verhaallijn, waarbij het kind aan het einde van het gebruik zijn tut dient af te staan om iets of iemand te helpen. Het karakter uit het verhaal krijgen ze als knuffel om als troost te fungeren, wanneer de tut finaal wordt afgestaan.
 
 De tool zal aan de ouders aangeven wanneer het kind de tut eventueel definitief kan afstaan, maar de ouders dienen zelf de eindfase te laten starten.
 
 Deze oplossing vermindert de afhankelijkheid van de tut stapsgewijs, het kind heeft motivatie door de naderende beloning en de visuele groei zichtbaar van de tool. 
+
+Een uitgebreide uitleg van het finale concept werd uitgeschreven in [conclusie](docs/conclusie.md).
 
 <!-- - Wat is het probleem?
 - Hoe heb je dit onderzocht?

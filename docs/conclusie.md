@@ -78,3 +78,5 @@ Om de overgang minder emotioneel te maken blijft de tool nog enkele dagen in het
 ## Conclusie
 
 Op deze manier wordt de tut stap voor stap afgebouwd op een speelse en interactieve manier. Kinderen ervaren het afstaan van hun tut hierdoor als een positieve, speelse en hulpvaardige ervaring en bouwen hun afhankelijkheid van de tut gaandeweg af, waardoor het emotionele aspect van het afbouwproces zoveel mogelijk wordt beperkt.
+
+>Opmerking: De tool bevat 2 garagedeuren: een transparante en een ondoorzichtbare garagedeur. Als het kind nog in een leeftijdsfase zit waar deze last heeft van objectpermanentie dienen de ouders te transparante garagedeur te installeren.

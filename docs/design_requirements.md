@@ -19,7 +19,7 @@ Functional requirements:
 |1.13|De tool is interactief|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |1.14|De tool is voldoende groot zodat de interface leesbaar is|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
 |1.15|De tool wordt spelenderwijs visueel geïntroduceerd|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
-|1.16|Instellen van de tijd is mogelijk op de tool en via een mobiele app|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
+|1.16|Instellen van de tijd is mogelijk op de tool en via een mobiele app|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|⚠️|
 |1.17|De progressie van het kind wordt visueel weergegeven|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |1.18|De tool geeft positieve feedback op het moment dat de tut in de tool geplaatst wordt|[Interview rapport WAVE 3](url)|✅|
 |1.19|De tool biedt beperkte keuzevrijheid aan|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
@@ -34,28 +34,27 @@ Functional requirements:
 |1.28|De tool moet de mogelijkheid bieden om na het einddoel nog een korte afbouw- of overgangsperiode te ondersteunen.|[Gebruikerstesten rapport Develop 3](<../reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>)|✅|
 Usability requirements:
 |2.1|Ouders en kind voelen zich veilig en comfortabel tijdens het gebruik van de tool |[Definition](definition.md)|✅|
-|2.2|De vastzetduur is instelbaar door de ouders|[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
-|2.3|De tool kan gemakkelijk verplaatst worden |[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
-|2.4|De vastzetduur van een voorgelegd schema is aanpasbaar zowel op de tool als in een app |[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
-|2.5|De instellingen van de tool zijn beveiligd met een kinderslot|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
-|2.6|De tijd wordt ingesteld door de ouders op basis van een aanpasbaar schema|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
-|2.7|Het afleerproces vereist bewuste inspanning|[Literatuuronderzoek rapport develop 1](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)|✅|
-|2.8|De tool doorloopt samen met het kind een verhaallijn|[Interview rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
-|2.9|De tool stuurt een indicatie over het einde van het gebruik van de tool aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
-|2.10|De beloningen per ster zijn duidelijk verschillend in waarde voor de kinderen|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
-|2.11|Tekst in het verhaal wordt tot een minimum beperkt|[Benchmarkrapport develop 2](<reports and protocols/Benchmark_rapport_develop 2.pdf>)|✅|
-|2.12|In het verhaal worden duidelijke visualisaties gegeven van de acties die het kind moet uitvoeren, waarbij letterlijk wordt afgebeeld wat er moet gebeuren.|[Benchmarkrapport develop 2](<reports and protocols/Benchmark_rapport_develop 2.pdf>)|✅|
-|2.13|De tool moet voorzien in een emotionele overgang na het afstaan van de tut, bijvoorbeeld via een gekoppeld troostobject of alternatieve geruststellende functie. |[Gebruikerstesten rapport Develop 3](<../reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>)|✅|
+|2.2|De tool kan gemakkelijk verplaatst worden |[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
+|2.3|De vastzetduur van een voorgelegd schema is aanpasbaar zowel op de tool als in een app |[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
+|2.4|De instellingen van de tool zijn beveiligd met een kinderslot|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
+|2.5|De tijd wordt ingesteld door de ouders op basis van een aanpasbaar schema|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
+|2.6|Het afleerproces vereist bewuste inspanning|[Literatuuronderzoek rapport develop 1](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)|✅|
+|2.7|De tool doorloopt samen met het kind een verhaallijn|[Interview rapport develop 1](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|
+|2.8|De tool stuurt een indicatie over het einde van het gebruik van de tool aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
+|2.9|De beloningen per ster zijn duidelijk verschillend in waarde voor de kinderen|[Interview rapport develop 1](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)|✅|
+|2.10|Tekst in het verhaal wordt tot een minimum beperkt|[Benchmarkrapport develop 2](<reports and protocols/Benchmark_rapport_develop 2.pdf>)|✅|
+|2.11|In het verhaal worden duidelijke visualisaties gegeven van de acties die het kind moet uitvoeren, waarbij letterlijk wordt afgebeeld wat er moet gebeuren.|[Benchmarkrapport develop 2](<reports and protocols/Benchmark_rapport_develop 2.pdf>)|✅|
+|2.12|De tool moet voorzien in een emotionele overgang na het afstaan van de tut, bijvoorbeeld via een gekoppeld troostobject of alternatieve geruststellende functie. |[Gebruikerstesten rapport Develop 3](<../reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>)|✅|
 Vormgeving requirements:
 |3.1|De interface is eenvoudig, kleurrijk en herkenbaar voor jonge kinderen |[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.2|De vormgeving sluit aan bij de leerwereld van het kind|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
 |3.3|De interface vermijdt te complexe of gedetailleerde elementen|[Interview rapport WAVE 3](<../reports and protocols/Interview_rapport_Wave 3_expert interviews.pdf>)|✅|
-|3.4|Combineer pastelachtergronden met felle accentkleuren|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
-|3.5|Gebruik accentkleuren om focus te creëren|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
-|3.6|Gebruik kunststof (ABS), hout (beukenhout) of textiel (katoen) als materiaal.|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
-|3.7|Gebruik afgeronde vormen.|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
-|3.8|De tool moet visueel passen binnen dezelfde omgeving als speelgoed.|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
-|3.9|De stijlrichting moet één van deze vier zijn: natuur & duurzaam, expressief, educatief, fantasie & actie.|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
+|3.4|De tool combineert pastelachtergronden met felle accentkleuren|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
+|3.5|De tool gebruikt accentkleuren om focus te creëren|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
+|3.6|In de tool wordt gebruik gemaakt van één of een combinatie van volgende materialen: kunststof (ABS), hout (beukenhout) of textiel (katoen) als materiaal.|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
+|3.7|In de interface van de tool worden afgeronde vormen gebruikt.|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
+|3.8|De tool past visueel  binnen dezelfde omgeving als speelgoed.|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
+|3.9|De stijlrichting is behoort tot één van volgende stijlen: natuur & duurzaam, expressief, educatief, fantasie & actie.|[Benchmark rapport Develop 3](<../reports and protocols/Benchmark_rapport_develop 3.pdf>)|✅|
 Context requirements:
 |4.1|Het afleren van de tut vindt plaats in emotioneel relevante situaties |[Interview rapport WAVE 1](<../reports and protocols/Interview_rapport_Wave 1.pdf>)|✅|
 |4.2|De tool is verplaatsbaar naar andere contexten|[Interview rapport WAVE 2](<../reports and protocols/Interview_rapport_Wave 2.pdf>)|✅|

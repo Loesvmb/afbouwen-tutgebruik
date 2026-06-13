@@ -12,7 +12,7 @@ De development-fase bestaat uit drie onderzoekfases. Deze werden uitgevoerd tuss
 #### Doestellingen
 Na de discoveryfase was de grootste onduidelijkheid hoe het afbouwplan stapsgewijs in de tijd moet worden opgebouwd. Daarom was het doel dit plan om in deze fase concreet te maken. De hoofdvragen in deze fase luiden:
 -	Wat houdt afleren concreet in?
-- Hoe kan dit geïmplementeerd worden in de tool? 
+- Hoe kunnen deze inzichten geïmplementeerd worden in de tool? 
 
 Naast deze hoofdvragen waren er enkele deelvragen die dieper ingingen op het concreet gebruik van de tool.
 
@@ -21,9 +21,9 @@ Naast deze hoofdvragen waren er enkele deelvragen die dieper ingingen op het con
 
 Om een concreet plan  te maken werd eerst een literatuuronderzoek (N=13; 19/02/2026-26/02/2026) verricht waarbij volgende onderzoeksvragen centraal stonden: 
 -	Wat houdt afleren concreet in?
--	Welke zijn verschillende bestaande manieren waarop kinderen iets afleren?
+-	Wat zijn verschillende bestaande manieren waarop kinderen iets afleren?
     - Welke elementen zijn hierbij belangrijk?
-    - Wat is de duurtijd van deze processen?
+    - Wat is de duurtijd van deze manieren?
     
 De methode van het onderzoek wordt beschreven in volgend protocol:
 [literatuuronderzoek protocol](<../reports and protocols/Literatuuronderzoek protocol_develop1 (1).pdf>)
@@ -34,14 +34,15 @@ De methode van het onderzoek wordt beschreven in volgend protocol:
 Het literatuuronderzoek gaf al een concreter beeld van hoe het plan er theoretisch uit moet zien. Om dit meer concreet te maken werden er 2 expertinterviews verricht met masterstudenten in de Pedagogische Wetenschappen (2/03/2026-07/03/2026), de vragen die hierin werden gesteld speelden in op de implicaties uit het literatuuronderzoek. In deze interviews stonden volgende onderzoekvragen centraal:
 -	Hoe moet het afbouwplan opgebouwd zijn?
     - Aan welke belangrijke aspecten moet dit zeker voldoen?
--	Moet er een vervanging voor de tut aangeboden worden, eventueel via de tool?
 -	Welke tijdsspanne moet worden voorzien voor het afleerproces?
 -	Hoe kan het afleerproces best beëindigd worden?
+-	Moet er een vervanging voor de tut aangeboden worden, eventueel via de tool?
+
 
 De methode van de interviews wordt beschreven in volgend protocol:
 [Protocol expertinterviews](<../reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)
 
-Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE van definition, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo konden de experten gerichte feedback geven. Er werden vragen gesteld naar het afbouwproces van de tool, de algemene duur van het proces en de grootte van de stappen tussen de fasen met bepaalde duren die in dit afbouwproces dienen genomen te worden. 
+Aan de experten werd, aan de hand van een herwerkt prototype uit de derde WAVE van definition, het afbouwproces dat tot nu toe werd uitgewerkt uitgelegd. Zo konden de experten gerichte feedback geven. Het prototype werd herwerkt aan de hand van implicaties uit het literatuuronderzoek. Er werden vragen gesteld naar het afbouwproces van de tool, de algemene duur van het proces en de grootte van de stappen tussen de fasen met bepaalde duren die in dit afbouwproces dienen genomen te worden. 
 Het herwerkt prototype ziet er als volgt uit:
 
 <p align="center">
@@ -87,9 +88,9 @@ De duur van de fasen en het verschil ertussen moet afhangen van 2 parameters: le
 Verder blijkt uit de expertinterviews dat ouders samen met het kind een eerste cyclus van de tool moeten doorlopen zodat duidelijk wordt voor het kind hoe de tool werkt. 
 
 ‘Ik denk altijd een beloning, dan denken de kinderen "Ik heb het gevoel dat ik iets goed gedaan heb.".’ 
-Een beloningssysteem wordt als belangrijk beschouwd omdat het kind op deze manier focust op positieve ervaringen. Hierbij is het belangrijk dat het kind 3 keer een variatie van dezelfde beloning krijgt. Dit draagt bij aan het eerste en tweede concept van de zelfdeterminantietheorie van Edward Deci: autonomie en competentie.
+Een beloningssysteem wordt als belangrijk beschouwd omdat het kind op deze manier focust op positieve ervaringen. Hierbij is het belangrijk dat het kind 3 keer een variatie van dezelfde beloning krijgt. Het beloningssysteem draagt bij aan het eerste en tweede concept van de zelfdeterminantietheorie van Edward Deci: autonomie en competentie.
 
-Ouders zouden moeten kunnen kiezen om al dan niet meldingen te ontvangen over het gebruik van de tool om consistent gebruik te verzekeren. Consistentie hangt hierbij ook af, naast het regelmatig gebruik van de tool, van het moment van de dag een terugkerend event in de agenda kan consistentie bevorderen. 
+Ouders zouden moeten kunnen kiezen om al dan niet meldingen te ontvangen over het gebruik van de tool om consistent gebruik te verzekeren.
 
 Daarnaast kan de tool een verhaallijn bevatten rond het afstaan van de tut en kan het optioneel een vervangend hechtingsvoorwerp aanbieden. De verhaallijn draagt bij aan het derde aspect van de zelfdeteminatietheorie: verbondenheid. De verhaallijn kan geïntegreerd worden in een boek opdat de ouder ook in het proces betrokken is met het kind en om de interacties tussen scherm en kind zo laag mogelijk te houden.
 
@@ -97,17 +98,17 @@ Tot slot kunnen de ouders meldingen ontvangen wanneer het kind mogelijk klaar is
 
 
 #### Conclusies & implicaties
-Het afleren van tutgebruik is een bewust en tijdsintensief proces waarbij een gewoonte stap voor stap vervangen wordt door een nieuwe wat vaak gepaard gaat met ongemak. Uit het literatuuronderzoek blijkt dat er geen vast proces bestaat om iets af te leren, maar dat factoren zoals herhaling, onmiddellijke bekrachtiging, sociale steun, intrinsieke motivatie en voldoende tijd dit proces ondersteunen. Een tool voor het afleren van tutgebruik moet daarom flexibel zijn en aangepast kunnen worden aan het tempo van het kind, met kleine stappen in het begin en grotere stappen later. Daarnaast spelen een beloningssysteem, een verhaallijn en de begeleiding van ouders een belangrijke rol. De ouders dienen te beslissen wanneer de slotfase start waarin het kind de tut definitief afgeeft.
+Het afleren van tutgebruik is een bewust en tijdsintensief proces waarbij een gewoonte stap voor stap vervangen wordt door een nieuwe wat vaak gepaard gaat met ongemak. Uit het literatuuronderzoek blijkt dat er geen vast proces bestaat om iets af te leren, maar dat factoren zoals herhaling, onmiddellijke bekrachtiging, sociale steun, intrinsieke motivatie en voldoende tijd dit proces ondersteunen. Een tool voor het afleren van tutgebruik moet daarom flexibel zijn en aangepast kunnen worden aan het tempo van het kind. Daarnaast spelen een beloningssysteem, een verhaallijn en de begeleiding van ouders een belangrijke rol. De ouders dienen te beslissen wanneer de slotfase start waarin het kind de tut definitief afgeeft.
 
 ##### Literatuuronderzoek (N=13)
-Uit het literatuur onderzoek kwamen geen explicitie methodes naar boven, echter wel veel belangrijke factoren die in het afbouwproces geïmplementeerd dienen te worden. Dit zijn:
-- De gebruikers moeten direct beloond worden;
+Uit het literatuur onderzoek kwamen geen expliciete methodes naar boven, echter wel veel belangrijke factoren die in het afbouwproces geïmplementeerd dienen te worden. Dit zijn:
+- De gebruikers moeten onmiddelijk beloond worden;
 - Het afleerproces moet gebaseerd zijn op herhaling;
 - Het afleerproces moet bewuste inspanning vereisen;
 - De duur van de opeenvolgende stappen moet gradueel verlengd worden;
-- De tool moet aanpasbaar zijn in tijdsduur afhankelijk van hoe lang het kind de tut gebruikt;
+- De tool moet aanpasbaar zijn in gebruiksduur afhankelijk van hoe lang het kind de tut gebruikt;
 - De tool moet consistent gebruikt worden;
-- Een versterker is veel effectiever wanneer deze onmiddellijk op het gedrag volgt, zodat het kind direct de link legt tussen het gedrag en het resultaat;
+- Een versterker is veel effectiever wanneer deze onmiddellijk op het gedrag volgt, zodat het kind meteen de link legt tussen het gedrag en het resultaat;
 - Het duurt ongeveer 10 weken om een gewoonte te breken, al kan het afleren van bepaalde gewoontes meer of minder tijd in beslag nemen.
 
 [Literatuuronderzoek rapport](<../reports and protocols/Literatuur_rapport_develop 1.pdf>)
@@ -116,18 +117,18 @@ Uit het literatuur onderzoek kwamen geen explicitie methodes naar boven, echter 
 Uit de expertinterviews kwamen volgende implicaties voort:
 
 - De werking van de tool moet duidelijk gemaakt worden aan het kind enerzijds door de tool zelf en anderzijds met de hulp van de ouders
-- De opbouwende stappen van het afleerproces zijn in het begin klein en worden groter naarmate het kind verder in het afbouwproces komt
-- De afbouwcyclus is afhankelijk van kind tot kind doordat het kind pas naar de volgende stap kan gaan wanneer deze de vorige heeft vervolledigd (volgehouden heeft tot de 2de ster)
-- De ouders moeten zelf kunnen aangeven of ze meldingen wensen te ontvangen om de tool de gebruiken
+- De opbouwende stappen van het afleerproces (verschil tussen vastzetduur tut) zijn in het begin klein en worden groter naarmate het kind verder in het afbouwproces komt
+- De afbouwcyclus is afhankelijk van kind tot kind doordat het kind pas naar de volgende stap (bepaalde vastzetduur tut) kan gaan wanneer deze de vorige heeft vervolledigd (volgehouden heeft tot de 2de ster)
+- De ouders moeten zelf kunnen aangeven of ze meldingen wensen te ontvangen ter herinnering om de tool te gebruiken
 - De tool bevat een verhaallijn, waarbij het kind op het einde zijn tut dient af te staan om iets of iemand in de verhaallijn te helpen
-- De tool stuurt een indicatie van het einde aan, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt
+- De tool stuurt een indicatie van het einde, de ouders moeten dan zelf beslissen of de finale fase al dan niet ingegaan wordt
 
 [Expertinterviews rapport](<../reports and protocols/Interview_rapport_Develop1.pdf>)
 
 In onderstaande figuur worden de aanpassingen aan het concept weergegeven op de tool:
 
 <p align="center">
-  <img src="../img/overzicht veranderingen Develop 1.png" width="600"><br>
+  <img src="../img/overzicht veranderingen Develop 1.png" width="800"><br>
   <em>Overzicht veranderingen Develop 1 </em>
 </p>
 
@@ -145,13 +146,13 @@ Verder werd het concept tijdens deze fase ontleed in diens functies om zo te bek
 Voor dezelfde reden werden een costumer journey en task hierarchy opgesteld:
 
 <p align="center">
-  <img src="../img/costumer journey.png" width="600"><br>
+  <img src="../img/costumer journey.png" width="800"><br>
   <em>Costumer journey </em>
 </p>
 
 
 <p align="center">
-  <img src="../img/taak-hiërarchie.png" width="600"><br>
+  <img src="../img/taak-hiërarchie.png" width="800"><br>
   <em>Taken-hiërarchie </em>
 </p>
 

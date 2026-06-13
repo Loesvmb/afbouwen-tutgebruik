@@ -26,6 +26,7 @@ Vanaf het moment dat het kind de tut uit de garage haalt, krijgt deze de keuze t
   <em> Beloningen </em>
 </p>
 
+>Opmerking: De tool bevat 2 garagedeuren: een transparante en een ondoorzichtbare garagedeur. Als het kind nog in een leeftijdsfase zit waar deze last heeft van objectpermanentie dienen de ouders te transparante garagedeur te installeren.
 
 ## Interactief boek
 De tool zal telkens aangeven wanneer het volgende hoofdstuk van het boek gelezen mag worden. Zo blijft het kind betrokken in het leven van beer en blijft het interesseniveau van het kind hoog. 
@@ -79,4 +80,3 @@ Om de overgang minder emotioneel te maken blijft de tool nog enkele dagen in het
 
 Op deze manier wordt de tut stap voor stap afgebouwd op een speelse en interactieve manier. Kinderen ervaren het afstaan van hun tut hierdoor als een positieve, speelse en hulpvaardige ervaring en bouwen hun afhankelijkheid van de tut gaandeweg af, waardoor het emotionele aspect van het afbouwproces zoveel mogelijk wordt beperkt.
 
->Opmerking: De tool bevat 2 garagedeuren: een transparante en een ondoorzichtbare garagedeur. Als het kind nog in een leeftijdsfase zit waar deze last heeft van objectpermanentie dienen de ouders te transparante garagedeur te installeren.

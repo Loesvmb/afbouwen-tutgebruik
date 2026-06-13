@@ -37,7 +37,7 @@ Development
     * [rapport](<Interview_rapport_Develop1.pdf>)
 - Development 2
   * Benchmarkonderzoek (N=14)
-    * [protocol](<benchmarkonderzoek protocol_develop2.pdf>)
+    * [protocol](<../reports and protocols/benchmarkonderzoek protocol_develop2.pdf>)
     * [rapport](<Benchmark_rapport_develop 2.pdf>)
   * Gebruikerstesten (N=)
     * [protocol](<Protcol gebruikerstesten-develop 2.pdf>)

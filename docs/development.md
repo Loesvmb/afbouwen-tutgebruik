@@ -179,16 +179,16 @@ Ook werd een analyse uitgevoerd hoe een volgend prototype opgebouwd zou kunnen w
 #### Doestellingen
 In deze fase was de voornaamste doelstelling om gebruikerstesten uit te voeren, om zo de interesse en het begrip van de gebruikersgroep te toetsen. Daarvoor moet een nieuw, meer high-level prototype gemaakt worden waarmee, aan de hand van Wizard of Oz, gebruikerstesten uitgevoerd kunnen worden.
 
-Hiernaast was een bijkomende doelstelling, aangezien er in aanraking gekomen wordt met de gebruikersgroep, een ergonomische testen uit te voeren bij de ouders omtrent het handvat van de tool en bij de kinderen een afstandsbediening van de garage van de tool.
+Hiernaast was een bijkomende doelstelling, aangezien er in aanraking gekomen wordt met de gebruikersgroep, een ergonomische testen uit te voeren bij de ouders omtrent het handvat van de tool en bij de kinderen omtrent een afstandsbediening van de garage van de tool.
 
 #### Materiaal & methoden
 ##### Benchmarkonderzoek (N=13) 
-Om deze fase (19/03/2026-20/03/2026) te realiseren en het begrip te testen moet het eerste hoofdstuk van het boek reeds geschreven zijn, waarin de tool aan de kinderen uitgelegd wordt. Dit benchmarkonderzoek werd verricht om erachter te komen hoe dit best kon opgesteld worden en wat de status quo is in het uitleggen van gebruik aan kinderen. Dit onderzoek bevat volgende onderzoeksvragen:
+Om deze fase te realiseren en het begrip te testen moet het eerste hoofdstuk van het boek reeds geschreven zijn, waarin de tool aan de kinderen uitgelegd wordt. Dit benchmarkonderzoek (19/03/2026-20/03/2026) werd verricht om erachter te komen hoe dit best kon opgesteld worden en wat de status quo is in het uitleggen van gebruik aan kinderen. Dit onderzoek bevat volgende onderzoeksvragen:
 - Wat zijn de verschillende methoden die in hedendaagse producten gebruik worden om iets uit te leggen aan kinderen?
 - Hoe kunnen deze geïntegreerd worden in de tool?
 - Welke verschillende methoden gebruiken kinderboeken om de zintuigen aan te spreken?
  
-[Protocol](<../reports and protocols/Benchmark_rapport_develop 2.pdf>)
+[Protocol](<../reports and protocols/benchmarkonderzoek protocol_develop2.pdf>)
 
 ##### Prototyping
 ###### Fysiek prototype
@@ -261,7 +261,7 @@ Volgende onderzoeksvragen dienden beantwoord te worden in de gebruikerstesten(25
 - Zijn de kinderen gemotiveerd om meerdere cycli te doorlopen?
 
 In de gebruikerstesten worden zowel kinderen als volwassenen bevraagd. De doelgroep zijn kinderen tussen 2 en 5 jaar oud, het maakt hierbij niet uit of ze al dan niet een tut gebruiken aangezien alleen naar hun begrip en interesse wordt gekeken. De volwassenen zijn hierbij diegenen die het verhaaltje doorlopen met de kinderen om van hen directe feedback te krijgen.
-De kinderen worden na het gebruik ondervraagd met een self assesment mannequins en de begeleiders worden in een kort interview bevraagd.
+De kinderen worden na het gebruik ondervraagd met een self-assesment mannequins en de begeleiders worden in een kort interview bevraagd.
 
 Verder worden er foto's genomen van de ergonomietesten die later geanalyseerd worden.
 
@@ -274,6 +274,7 @@ De gehele methode is terug te vinden in het
 ##### Benchmarkonderzoek (N=14)
 Volgende zaken kwamen als voornaamste uit het benchmarkonderzoek:
 Bij bijna al de onderzochte producten wordt de verbinding tussen het kind en het product vaak gelegd door het gebruik van vriendjes die geholpen worden door de acties van het kind, deze vriendjes doen de uitleg rond wat het kind moet doen met de tool.
+
 In al de boeken wordt gebruik gemaakt van korte en heldere zinsconstructies. De boeken bevatten geen complexe verhalen, ze bevatten voornamelijk afbeeldingen en een minimale hoeveelheid tekst.
 
 De uitgebreide resultaten zijn terug te vinden in het [rapport](<../reports and protocols/Benchmark_rapport_develop 2.pdf>).
@@ -282,11 +283,12 @@ De uitgebreide resultaten zijn terug te vinden in het [rapport](<../reports and 
 Uit de gebruikerstesten blijkt dat zowel ouders als kinderen de tool over het algemeen goed begrijpen en positief ervaren. De kinderen toonden interesse in het verhaal, waarbij de narratieve context een duidelijke rol speelt in het verhogen van betrokkenheid. De motivatie om meerdere cycli te doorlopen was bij de kinderen aanwezig, wat wijst op een motiverend en interessant concept.
 
 Opvallend is dat de kinderen niet spontaan ontdekten dat de figuren versleept konden worden. 
+
 De self-assessment mannequins verliepen minder vlot, hier was aanzienlijke begeleiding nodig en de kinderen kozen voornamelijk uiterste antwoorden. Dit wijst op een te hoge cognitieve belasting en/of te veel keuzemogelijkheden, de kinderen waren te jong voor de complexiteit van de mannequins.
 
 <p align="center">
   <img src="../img/Afbeelding1.png" width="400"><br>
-  <em> Foto gebruikerstesten invulling Self-assessment Mannequins </em>
+  <em> Foto gebruikerstesten invulling self-assessment mannequins </em>
 </p>
 
 De ergonomische test toont aan dat een middelgroot formaat van de afstandsbediening het meest geschikt is voor kinderen.
@@ -300,7 +302,7 @@ De volledige analyse van de gebuikerstesten is terug te vinden in het [rapport](
 
 #### Conclusies & implicaties
 ##### Benchmarkonderzoek (N=24)
-Volgende zaken voor toepassing op de tool konden afgeleid worden uit het benchmarkonderzoek: het is belangrijk dat een vriendje (een beer) het kind doorheen de acties begeleidt. In het verhaal moeten duidelijke visualisaties zijn van wat het kind moet doen met de tool, hierin moet letterlijk afgebeeld zijn wat het kind moet doen. Het verhaal moet zo weinig mogelijk tekst bevatten.
+Volgende zaken voor eventuele toepassing in de tool konden afgeleid worden uit het benchmarkonderzoek: het is belangrijk dat een vriendje (een beer) het kind doorheen de acties begeleidt. In het verhaal moeten duidelijke visualisaties zijn van wat het kind moet doen met de tool, hierin moet letterlijk afgebeeld zijn wat het kind moet doen. Het verhaal moet zo weinig mogelijk tekst bevatten.
 Als 'could' kunnen nog sensoriële ervaringen geïmplementeerd worden.
 
 ##### Gebruikerstesten (N=3)
@@ -364,7 +366,7 @@ Aan de interface worden 3 zaken toegevoegd:
   <em> Interface instellen variabelen </em>
 </p>
 
-- een extra knop alleen bestemdvoor de ouder en die hij/zij via een wiskunde som ontgrendelt,  om: de eindfase in te gaan, de tool sneller/trager te laten gaan en een eenmalige duur in te stellen.
+- een extra knop alleen bestemd voor de ouder en die hij/zij via een wiskunde som ontgrendelt,  om: de eindfase in te gaan, de tool sneller/trager te laten gaan en een eenmalige duur in te stellen.
 
 <p align="center">
   <img src="../img/wiskundesom.png" width="400"><br>
@@ -416,12 +418,12 @@ Verder kwamen volgende overkoepelende patronen naar boven:
 - Wat materialen betreft wordt voornamelijk gekozen voor kunststof (ABS), hout (beukenhout) en textiel (katoen en fleece). 
 - De afwerking toont een duidelijke balans tussen glanzende en matte oppervlakken, om interacties aan te duiden.
 - Afgeronde vormen en hoeken zijn consistent aanwezig en dragen bij aan een gevoel van veiligheid.
-Voor interfaces zien we dat eenvoud centraal staat.
+- Voor interfaces staat eenvoud centraal.
 
 Het volledige benchmarkonderzoek en diens resultaten zijn terug te vinden in het [rapport](<../reports and protocols/Benchmark_rapport_develop 3.pdf>).
 
 ##### Gebruikerstesten (N=2)
-De respondenten begrepen de werking van de tool snel via de uitleg op de doos en in de handleiding. Het verhaal rond de tool werd als positief en aantrekkelijk ervaren voor het kind.
+De respondenten begrepen de werking van de tool snel via de uitleg op de doos en in de handleiding. Het verhaal rond de tool werd als positief en aantrekkelijk ervaren door het kind.
 De respondenten vinden het belangrijk dat de duur van de cycli aangepast kan worden en dat ouders zelf bepalen wanneer een nieuwe cyclus start. Meldingen ter herinnering voor gebuik van het tutgebruik dienen optioneel te zijn, aangezien het gebruik al dan niet ingebakken kan zitten in een routine. 
 
 De kinderen konden na de uitleg voorzien door het boek zelfstandig een volgende cyclus doorlopen en wilden graag vervolg cycli starten. 
@@ -444,7 +446,7 @@ Verdere conclusies en implicaties zijn terug te vinden in het [rapport](<../repo
 
 ##### Gebruikerstesten (N=2)
 
-Uit de ervaringen van de respondenten blijkt dat de tool in de huidige vorm grotendeels duidelijk en gebruiksvriendelijk is. De combinatie van handleiding, doosuitleg en verhaallijn helpt ouders om het concept snel te begrijpen en toe te passen. De workflow wordt positief ervaren, vooral wanneer de ouder zelf kan bepalen wanneer een cyclus start en wanneer de tool flexibel inzetbaar blijft.
+Uit de ervaringen van de respondenten blijkt dat de tool in de huidige vorm grotendeels duidelijk en gebruiksvriendelijk is. De combinatie van handleiding, doosuitleg en verhaallijn helpt ouders om het concept snel te begrijpen en toe te passen. De workflow wordt positief ervaren, vooral wanneer de ouder zelf kan bepalen wanneer een cyclus start en de tool flexibel inzetbaar blijft.
 De tool lijkt daarnaast goed aan te sluiten bij de belevingswereld van het kind, zeker door het speelse karakter en het verhaal rond de beer. Tegelijk maakt de respondent duidelijk dat het afscheid nemen van de tut emotioneel geladen kan zijn. De tool werkt daarom het best wanneer ze gekoppeld wordt aan een alternatief troostobject, zoals een knuffel, zodat het kind een gevoel van veiligheid behoudt.
 
 Verdere conclusies en implicaties zijn terug te vinden in het [rapport](<../reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>).

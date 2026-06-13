@@ -354,7 +354,7 @@ De onderzoeksvragen van de storytelling luiden:
 -	Welke stijl van CMF prefereren kind en ouder?
 
 
-Zowel het verloop van het opstellen van deze storytelling, het optimaliseren van het prototype,  als heel het verloop van de gebruikerstest (met CMF-test) staan uitgeschreven in het [protocol.](<../reports and protocols/gebruikerstesten protocol develop 3.pdf>)
+Zowel het verloop van het opstellen van deze storytelling, het optimaliseren van het prototype,  als heel het verloop van de gebruikerstest (met CMF-test) staan uitgeschreven in het [protocol.](<../reports and protocols/gebruierstesten protocol develop 3.pdf>)
 
 ##### Prototyping
 Om bovenstaande storytelling realistisch te maken en vragen te toetsen diende er enkele aanpassingen gemaakt te worden aan het prototype.

@@ -48,7 +48,7 @@ Development
   * Vizcom werkwijze
     * [werkwijze](<Vizcom_werkwijze_develop 3.pdf>)
   * Gebruikerstesten (N=2)
-    * [protocol](<gebruikerstesten protocol develop 3.pdf>)
+    * [protocol](<gebruierstesten protocol develop 3.pdf>)
     * [rapport](<Gebruiksonderzoek_rapport_develop 3.pdf>)
     
 

@@ -26,7 +26,7 @@ Om een concreet plan  te maken werd eerst een literatuuronderzoek (N=13; 19/02/2
     - Wat is de duurtijd van deze manieren?
     
 De methode van het onderzoek wordt beschreven in volgend protocol:
-[literatuuronderzoek protocol](<../reports and protocols/Literatuuronderzoek protocol_develop1 (1).pdf>)
+[Literatuuronderzoek protocol](<../reports and protocols/Literatuuronderzoek protocol_develop1 (1).pdf>)
 
 
 ##### Expertinterviews (N=2)

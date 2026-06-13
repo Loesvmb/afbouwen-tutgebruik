@@ -116,12 +116,12 @@ ChatGPT en Copilot werden gebruikt om benchmarks te identificeren en analyseren 
   
 ### Definition
 * User testing wave 1 (N=4)
-  * [interview protocol kinderbegeleiders](<reports and protocols/Interview protocol_wave1_kinderbegeleiders.pdf>)
-  * [interview protocol ouders](<reports and protocols/Interview - protocol - ouders -wave1.pdf>)
-  * [interview rapport WAVE 1](<reports and protocols/Interview_rapport_Wave 1.pdf>)
+  * [Interview protocol kinderbegeleiders](<reports and protocols/Interview protocol_wave1_kinderbegeleiders.pdf>)
+  * [Interview protocol ouders](<reports and protocols/Interview - protocol - ouders -wave1.pdf>)
+  * [Interview rapport WAVE 1](<reports and protocols/Interview_rapport_Wave 1.pdf>)
 * User testing wave 2 (N=3)
-  * [Inerview protocol WAVE 2](<reports and protocols/Interview - protocol - ouders -wave2.pdf>)
-  * [interview rapport WAVE 2](<reports and protocols/Interview_rapport_Wave 2.pdf>)
+  * [Interview protocol WAVE 2](<reports and protocols/Interview - protocol - ouders -wave2.pdf>)
+  * [Interview rapport WAVE 2](<reports and protocols/Interview_rapport_Wave 2.pdf>)
 * Expert interview wave 3 (N=2)
   * [Interview protocol WAVE 3](<reports and protocols/Interview - protocol - experts_wave3.pdf>)
   * [Interview rapport WAVE 3](<reports and protocols/Interview_rapport_Wave 3_expert interviews (1).pdf>)
@@ -129,27 +129,27 @@ ChatGPT en Copilot werden gebruikt om benchmarks te identificeren en analyseren 
 ### Development
 * Development 1 
   * Literatuuronderzoek (N=13)
-    * [protocol](<reports and protocols/Literatuuronderzoek protocol_develop1.pdf>)
-    * [rapport](<reports and protocols/Literatuur_rapport_develop 1.pdf>)
+    * [Protocol](<reports and protocols/Literatuuronderzoek protocol_develop1.pdf>)
+    * [Rapport](<reports and protocols/Literatuur_rapport_develop 1.pdf>)
   * Experteninterviews (N=2)
-    * [protocol](<reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)
-    * [rapport](<reports and protocols/Interview_rapport_Develop1.pdf>)
+    * [Protocol](<reports and protocols/Interview - protocol - experten -develop 1 (1).pdf>)
+    * [Rapport](<reports and protocols/Interview_rapport_Develop1.pdf>)
 * Development 2 
   * Benchmarkonderzoek (N=14)
-    * [protocol](<reports and protocols/benchmarkonderzoek protocol_develop2.pdf>)
-    * [rapport](<reports and protocols/Benchmark_rapport_develop 2.pdf>)
+    * [Protocol](<reports and protocols/benchmarkonderzoek protocol_develop2.pdf>)
+    * [Rapport](<reports and protocols/Benchmark_rapport_develop 2.pdf>)
   * Gebruikerstesten (N=3)
-    * [protocol](<reports and protocols/Protcol gebruikerstesten-develop 2.pdf>)
-    * [rapport](<reports and protocols/Protcol gebruikerstesten-develop 2.pdf>)
+    * [Protocol](<reports and protocols/Protcol gebruikerstesten-develop 2.pdf>)
+    * [Rapport](<reports and protocols/Gebruiksonderzoek_rapport_develop 2.pdf>)
 - Development 3
     * Benchmarkonderzoek (N=24)
-      * [protocol](<reports and protocols/benchmarkonderzoek protocol_develop3.pdf>)
-      * [rapport](<reports and protocols/Benchmark_rapport_develop 3.pdf>)
+      * [Protocol](<reports and protocols/benchmarkonderzoek protocol_develop3.pdf>)
+      * [Rapport](<reports and protocols/Benchmark_rapport_develop 3.pdf>)
     * Vizcom werkwijze
-      * [werkwijze](<reports and protocols/Vizcom_werkwijze_develop 3.pdf>)
+      * [Werkwijze](<reports and protocols/Vizcom_werkwijze_develop 3.pdf>)
     * Gebruikerstesten (N=2)
-      * [protocol](<reports and protocols/gebruikerstesten protocol develop 3.pdf>)
-      * [rapport](<reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>)
+      * [Protocol](<reports and protocols/gebruikerstesten protocol develop 3.pdf>)
+      * [Rapport](<reports and protocols/Gebruiksonderzoek_rapport_develop 3.pdf>)
       
 ## Licentie
 <!-- > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje    -->

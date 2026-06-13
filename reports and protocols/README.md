@@ -15,9 +15,9 @@ Discovery:
 
 Definition:
 - Gebruikersinterviews WAVE 1:
-  * Ouders
+  * Ouders:
     * [Protocol](<Interview - protocol - ouders -wave1.pdf>)
-  * Kinderbegeleiders
+  * Kinderbegeleiders:
     * [Protocol](<Interview protocol_wave1_kinderbegeleiders.pdf>)
     * [Rapport](<Interview_rapport_Wave 1.pdf>)
 - Gebruikersinterviews WAVE 2:
@@ -30,26 +30,26 @@ Definition:
 Development
 - Development 1 
   * Literatuuronderzoek (N=13)
-    * [protocol](<Literatuuronderzoek protocol_develop1.pdf>)
-    * [rapport](<Literatuur_rapport_develop 1.pdf>)
+    * [Protocol](<Literatuuronderzoek protocol_develop1.pdf>)
+    * [Rapport](<Literatuur_rapport_develop 1.pdf>)
   * Experteninterviews (N=2)
-    * [protocol](<Interview - protocol - experten -develop 1 (1).pdf>)
-    * [rapport](<Interview_rapport_Develop1.pdf>)
+    * [Protocol](<Interview - protocol - experten -develop 1 (1).pdf>)
+    * [Rapport](<Interview_rapport_Develop1.pdf>)
 - Development 2
   * Benchmarkonderzoek (N=14)
-    * [protocol](<../reports and protocols/benchmarkonderzoek protocol_develop2.pdf>)
-    * [rapport](<Benchmark_rapport_develop 2.pdf>)
-  * Gebruikerstesten (N=)
-    * [protocol](<Protcol gebruikerstesten-develop 2.pdf>)
+    * [Protocol](<../reports and protocols/benchmarkonderzoek protocol_develop2.pdf>)
+    * [Rapport](<Benchmark_rapport_develop 2.pdf>)
+  * Gebruikerstesten (N=3)
+    * [Protocol](<Protcol gebruikerstesten-develop 2.pdf>)
 - Development 3
   * Benchmarkonderzoek (N=24)
-    * [protocol](<benchmarkonderzoek protocol_develop3.pdf>)
-    * [rapport](<Benchmark_rapport_develop 3.pdf>)
+    * [Protocol](<benchmarkonderzoek protocol_develop3.pdf>)
+    * [Rapport](<Benchmark_rapport_develop 3.pdf>)
   * Vizcom werkwijze
-    * [werkwijze](<Vizcom_werkwijze_develop 3.pdf>)
+    * [Werkwijze](<Vizcom_werkwijze_develop 3.pdf>)
   * Gebruikerstesten (N=2)
-    * [protocol](<gebruierstesten protocol develop 3.pdf>)
-    * [rapport](<Gebruiksonderzoek_rapport_develop 3.pdf>)
+    * [Protocol](<gebruierstesten protocol develop 3.pdf>)
+    * [Rapport](<Gebruiksonderzoek_rapport_develop 3.pdf>)
     
 
 
